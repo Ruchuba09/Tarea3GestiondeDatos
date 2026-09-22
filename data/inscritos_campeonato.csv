@@ -1,0 +1,569 @@
+n_inscripcion,nombre,fecha_nacimiento,sexo,comuna,disciplina
+48,Javiera Rodríguez Torres,2007-01-15,F,Chiguayante,Atletismo
+94,Gabriel Fuentes Muñoz,2008-11-25,M,San Pedro de la Paz,Vóleibol
+542,Agustín Vega Hernández,2009-01-27,M,Chiguayante,Ajedrez
+213,Amanda Hernández Hernández,2010-10-24,F,Talcahuano,Fútbol
+501,Joaquín López González,2009-01-23,M,San Pedro de la Paz,Ajedrez
+49,Amanda Muñoz Sepúlveda,2009-03-28,F,Chiguayante,Fútbol
+405,Josefa Araya Silva,2010-11-02,F,Chiguayante,Fútbol
+96,Vicente Araya Flores,2008-05-07,M,Talcahuano,Natación
+387,Lucas Araya Soto,2008-03-08,M,Hualpén,Fútbol
+242,Tomás Rodríguez Pérez,2010-11-12,M,Chiguayante,Natación
+267,Gabriel Vega Pérez,2012-03-12,M,Hualpén,Ajedrez
+13,Lucas Martínez Fuentes,2011-09-05,M,Tomé,Natación
+220,Isidora Contreras Espinoza,2009-06-28,F,Talcahuano,Fútbol
+337,Diego Soto Contreras,2008-11-24,M,Talcahuano,Atletismo
+171,Isidora Rodríguez Soto,2010-03-05,F,Penco,Natación
+324,Matías Muñoz Espinoza,2008-09-13,M,Talcahuano,Ajedrez
+227,Sofía Díaz González,2012-08-17,F,San Pedro de la Paz,Ajedrez
+565,Catalina Rojas Muñoz,2010-12-18,F,Hualpén,Vóleibol
+72,Vicente Pérez Hernández,2007-05-06,M,Coronel,Atletismo
+477,Emilia Silva Hernández,2010-11-03,F,Concepción,Natación
+388,Florencia Hernández Pérez,2008-11-04,F,Chiguayante,Fútbol
+332,Javiera Flores Sepúlveda,2009-07-09,F,Talcahuano,Ajedrez
+201,Catalina Contreras Pérez,2007-04-03,F,Talcahuano,Natación
+29,Joaquín Araya Flores,2009-11-18,M,Hualpén,Fútbol
+503,Lucas Espinoza Fuentes,2010-02-23,M,Talcahuano,Ajedrez
+17,Catalina Soto Vega,2007-09-15,F,Talcahuano,Atletismo
+311,Antonia Silva Soto,2011-02-04,F,Chiguayante,Atletismo
+196,Sofía Espinoza Morales,2010-04-21,F,San Pedro de la Paz,Natación
+41,Emilia Muñoz González,2012-05-24,F,Talcahuano,Fútbol
+217,Javiera González López,2009-02-27,F,Concepción,Fútbol
+464,Amanda Contreras Pérez,2011-06-17,F,Chiguayante,Natación
+334,Catalina Hernández Morales,2008-11-06,F,Hualpén,Natación
+514,Florencia Pérez Hernández,2009-01-28,F,San Pedro de la Paz,Atletismo
+551,Matías Contreras Silva,2009-07-05,M,San Pedro de la Paz,Natación
+3,Josefa Espinoza Silva,2007-11-11,F,Penco,Atletismo
+528,Matías Rojas Soto,2011-03-24,M,Concepción,Natación
+555,Emilia Soto Rodríguez,2007-06-07,F,San Pedro de la Paz,Vóleibol
+479,Lucas Soto Hernández,2010-10-11,M,Talcahuano,Natación
+95,Florencia Fuentes Flores,2010-05-04,F,Concepción,Vóleibol
+63,Amanda Sepúlveda Pérez,2011-05-21,F,Chiguayante,Natación
+9,Matías Rojas Torres,2010-10-20,M,Chiguayante,Fútbol
+102,Catalina Vega Rojas,2011-10-13,F,Hualpén,Atletismo
+16,Josefa Torres Pérez,2012-09-10,F,Penco,Ajedrez
+412,Benjamín Fuentes Silva,2011-10-12,M,Talcahuano,Fútbol
+343,Javiera Hernández Espinoza,2011-07-05,F,Hualpén,Vóleibol
+212,Martín Martínez Araya,2012-06-22,M,Talcahuano,Ajedrez
+458,Agustín Pérez Flores,2007-02-22,M,Hualpén,Vóleibol
+361,Sofía López González,2010-09-19,F,Concepción,Ajedrez
+411,Gabriel Silva Flores,2007-05-17,M,Concepción,Natación
+270,Amanda Silva Espinoza,2011-03-05,F,Talcahuano,Fútbol
+480,Lucas Muñoz González,2007-12-22,M,Chiguayante,Atletismo
+18,Javiera Vega Flores,2008-10-03,F,Talcahuano,Ajedrez
+195,Florencia Rojas Martínez,2009-04-08,F,Chiguayante,Vóleibol
+365,Sofía Silva Silva,2012-08-08,F,Talcahuano,Fútbol
+385,Florencia Hernández López,2009-02-26,F,Coronel,Natación
+40,Javiera Flores Torres,2010-10-28,F,Talcahuano,Natación
+203,Javiera Torres Rodríguez,2009-08-22,F,Concepción,Atletismo
+275,Amanda Hernández Fuentes,2010-06-13,F,Tomé,Fútbol
+230,Antonia Rojas Soto,2011-08-27,F,Penco,Vóleibol
+342,Martín Torres Muñoz,2011-08-06,M,Concepción,Atletismo
+563,Catalina Rojas Soto,2011-12-22,F,Talcahuano,Atletismo
+222,Sofía Soto Flores,2011-04-09,F,Talcahuano,Fútbol
+331,Antonia Espinoza Hernández,2011-03-09,F,Tomé,Ajedrez
+23,Lucas Rodríguez Flores,2008-10-04,M,San Pedro de la Paz,Atletismo
+393,Sofía Rojas Torres,2009-02-08,F,Tomé,Vóleibol
+327,Antonia Díaz Araya,2012-10-18,F,Hualpén,Natación
+430,Antonia Martínez Martínez,2011-03-10,F,Chiguayante,Fútbol
+506,Gabriel Vega Muñoz,2007-05-02,M,Hualpén,Vóleibol
+382,Antonia Sepúlveda López,2008-09-16,F,Coronel,Ajedrez
+119,Emilia Vega Espinoza,2007-12-24,F,Concepción,Atletismo
+426,Tomás Rodríguez Soto,2008-09-28,M,Chiguayante,Vóleibol
+530,Isidora Martínez Hernández,2012-03-20,F,Chiguayante,Natación
+251,Agustín Díaz Morales,2007-08-12,M,Talcahuano,Ajedrez
+356,Matías Espinoza Morales,2008-06-09,M,Hualpén,Atletismo
+81,Javiera Morales Araya,2010-02-13,F,Chiguayante,Fútbol
+79,Martín Martínez Rojas,2010-09-09,M,Hualpén,Ajedrez
+69,Agustín Fuentes Vega,2008-06-15,M,Chiguayante,Vóleibol
+134,Joaquín Soto González,2012-01-25,M,Penco,Vóleibol
+236,Florencia Soto López,2012-08-27,F,Talcahuano,Vóleibol
+143,Sofía López Martínez,2011-11-14,F,Chiguayante,Atletismo
+233,Florencia Muñoz Hernández,2010-02-12,F,Concepción,Vóleibol
+194,Gabriel López Pérez,2010-05-03,M,Coronel,Ajedrez
+273,Diego Rodríguez Espinoza,2007-03-07,M,Tomé,Vóleibol
+283,Vicente Flores Martínez,2010-01-16,M,Concepción,Ajedrez
+167,Gabriel Araya Rodríguez,2009-04-18,M,Chiguayante,Atletismo
+73,Florencia Díaz Hernández,2010-01-26,F,Hualpén,Vóleibol
+180,Agustín Muñoz Morales,2007-03-11,M,San Pedro de la Paz,Atletismo
+83,Matías Flores Flores,2007-02-11,M,Hualpén,Vóleibol
+1,Josefa Araya Contreras,2010-07-07,F,Hualpén,Vóleibol
+350,Benjamín Muñoz Hernández,2010-12-24,M,Concepción,Fútbol
+401,Lucas Flores Rojas,2009-09-02,M,San Pedro de la Paz,Vóleibol
+133,Martina Pérez Fuentes,2008-08-18,F,Talcahuano,Vóleibol
+329,Catalina Vega Soto,2008-06-02,F,Talcahuano,Vóleibol
+135,Diego Martínez Contreras,2009-04-24,M,Hualpén,Fútbol
+515,Gabriel Silva Hernández,2009-06-12,M,Hualpén,Atletismo
+109,Javiera Vega Silva,2012-05-04,F,Talcahuano,Ajedrez
+103,Gabriel Morales Silva,2008-10-06,M,Tomé,Atletismo
+437,Diego Soto Pérez,2009-05-14,M,Tomé,Fútbol
+37,Benjamín Sepúlveda Espinoza,2007-02-12,M,Hualpén,Atletismo
+483,Benjamín Flores Silva,2009-01-02,M,Talcahuano,Vóleibol
+406,Lucas Contreras Hernández,2010-06-26,M,San Pedro de la Paz,Fútbol
+302,Vicente Morales Fuentes,2011-03-10,M,Tomé,Vóleibol
+78,Florencia Flores López,2009-11-17,F,Concepción,Atletismo
+330,Antonia Rodríguez Muñoz,2011-01-26,F,San Pedro de la Paz,Vóleibol
+189,Lucas Rodríguez Fuentes,2012-10-02,M,Penco,Atletismo
+24,Benjamín Araya Morales,2011-06-14,M,Coronel,Fútbol
+297,Isidora Flores González,2007-01-11,F,Penco,Natación
+367,Martina Morales Díaz,2009-08-27,F,Chiguayante,Atletismo
+179,Amanda Martínez Vega,2008-02-20,F,Talcahuano,Ajedrez
+30,Antonia Vega Morales,2008-01-27,F,Talcahuano,Natación
+494,Amanda Díaz Sepúlveda,2012-11-06,F,Tomé,Atletismo
+414,Martina Sepúlveda Hernández,2010-11-02,F,Talcahuano,Vóleibol
+447,Martín Sepúlveda Sepúlveda,2008-03-08,M,Talcahuano,Ajedrez
+455,Antonia Sepúlveda López,2009-11-20,F,Penco,Atletismo
+20,Joaquín Silva Martínez,2012-05-28,M,Coronel,Natación
+130,Catalina Rodríguez Pérez,2007-06-08,F,Hualpén,Ajedrez
+261,Josefa Sepúlveda Araya,2012-08-07,F,Talcahuano,Natación
+122,Benjamín López Araya,2007-02-19,M,San Pedro de la Paz,Natación
+131,Martina Soto Contreras,2010-08-27,F,Talcahuano,Fútbol
+420,Joaquín Fuentes Espinoza,2007-10-22,M,Coronel,Fútbol
+235,Agustín Soto Contreras,2012-11-25,M,Coronel,Vóleibol
+541,Isidora Torres Contreras,2010-02-24,F,San Pedro de la Paz,Fútbol
+471,Florencia Vega Torres,2009-12-17,F,Hualpén,Vóleibol
+469,Catalina Pérez Araya,2009-04-01,F,Tomé,Ajedrez
+231,Martín Torres Díaz,2007-11-28,M,Concepción,Atletismo
+52,Lucas Espinoza Pérez,2007-04-19,M,Penco,Vóleibol
+552,Florencia Contreras Espinoza,2012-07-25,F,Talcahuano,Vóleibol
+560,Gabriel Morales Díaz,2011-03-06,M,Coronel,Fútbol
+567,Agustín Martínez Contreras,2008-03-06,M,Tomé,Fútbol
+169,Javiera López Espinoza,2008-02-21,F,San Pedro de la Paz,Vóleibol
+21,Martina Rojas Soto,2010-10-14,F,San Pedro de la Paz,Ajedrez
+246,Martina Silva Contreras,2011-03-19,F,Talcahuano,Ajedrez
+58,Martín Morales Espinoza,2012-10-20,M,Concepción,Vóleibol
+510,Josefa Vega Pérez,2007-10-14,F,Talcahuano,Ajedrez
+71,Joaquín Sepúlveda Flores,2010-10-24,M,Talcahuano,Vóleibol
+221,Agustín Muñoz Morales,2007-03-09,M,Hualpén,Natación
+398,Antonia Araya Morales,2011-02-20,F,Chiguayante,Atletismo
+141,Javiera Rodríguez Fuentes,2008-03-18,F,Hualpén,Fútbol
+262,Matías Morales Rodríguez,2009-01-07,M,Penco,Ajedrez
+111,Martina Torres Morales,2009-05-07,F,Chiguayante,Atletismo
+151,Martín González López,2010-02-25,M,Penco,Atletismo
+424,Tomás Martínez González,2012-04-15,M,Concepción,Vóleibol
+279,Diego Torres Muñoz,2010-03-08,M,Penco,Atletismo
+465,Javiera Contreras Silva,2007-01-07,F,Concepción,Atletismo
+281,Josefa Rodríguez Silva,2012-08-13,F,Concepción,Natación
+206,Isidora López Muñoz,2011-01-07,F,Talcahuano,Vóleibol
+211,Javiera González Vega,2007-01-22,F,Talcahuano,Atletismo
+28,Amanda Pérez Vega,2007-02-03,F,San Pedro de la Paz,Fútbol
+490,Gabriel Araya Vega,2008-11-01,M,Talcahuano,Ajedrez
+257,Martina López Hernández,2012-01-09,F,Chiguayante,Atletismo
+232,Lucas Silva Pérez,2009-03-25,M,Hualpén,Atletismo
+159,Sofía Pérez Silva,2011-12-26,F,San Pedro de la Paz,Natación
+568,Martín Martínez Silva,2008-11-24,M,Concepción,Atletismo
+185,Vicente Sepúlveda Araya,2011-06-22,M,Concepción,Natación
+380,Benjamín Vega Araya,2009-02-03,M,Chiguayante,Fútbol
+127,Matías López Araya,2007-12-07,M,Talcahuano,Fútbol
+309,Lucas Muñoz Soto,2009-06-23,M,Chiguayante,Fútbol
+439,Catalina Torres Contreras,2010-06-25,F,Talcahuano,Ajedrez
+104,Javiera Sepúlveda Díaz,2011-12-04,F,Concepción,Vóleibol
+413,Martina González Soto,2012-03-17,F,Coronel,Fútbol
+355,Amanda Pérez Martínez,2007-06-09,F,Concepción,Fútbol
+312,Javiera Rodríguez Vega,2010-05-19,F,Concepción,Ajedrez
+115,Javiera Muñoz González,2011-05-03,F,San Pedro de la Paz,Atletismo
+470,Florencia Rojas Díaz,2009-08-01,F,San Pedro de la Paz,Vóleibol
+54,Tomás Flores Hernández,2008-10-11,M,San Pedro de la Paz,Natación
+362,Florencia Muñoz Díaz,2009-10-14,F,Chiguayante,Fútbol
+239,Amanda López Rojas,2007-03-03,F,Hualpén,Ajedrez
+489,Diego Silva Contreras,2012-08-19,M,Talcahuano,Fútbol
+436,Martín Araya Morales,2007-01-09,M,Coronel,Ajedrez
+161,Antonia Vega González,2010-09-23,F,Concepción,Atletismo
+128,Antonia Espinoza Martínez,2007-06-04,F,Chiguayante,Natación
+237,Martín Rojas Fuentes,2008-06-11,M,Concepción,Atletismo
+549,Diego Muñoz Vega,2009-06-19,M,Talcahuano,Natación
+64,Gabriel Soto López,2012-06-28,M,Talcahuano,Ajedrez
+358,Diego Pérez Fuentes,2007-05-21,M,Tomé,Atletismo
+219,Antonia Silva Morales,2010-06-22,F,Coronel,Atletismo
+310,Javiera Soto Torres,2008-08-11,F,Hualpén,Fútbol
+468,Isidora Contreras Torres,2009-08-11,F,Talcahuano,Natación
+536,Sofía Rojas Torres,2007-07-09,F,Talcahuano,Ajedrez
+335,Antonia Muñoz Rodríguez,2007-01-04,F,Talcahuano,Atletismo
+277,Emilia Muñoz Muñoz,2011-12-21,F,Tomé,Vóleibol
+226,Martín Díaz Torres,2008-09-12,M,Talcahuano,Fútbol
+271,Diego Martínez Soto,2012-08-04,M,Concepción,Natación
+186,Martín González Pérez,2012-07-27,M,Talcahuano,Fútbol
+375,Catalina Martínez Rodríguez,2012-06-03,F,Talcahuano,Atletismo
+184,Josefa Morales Martínez,2011-07-25,F,Hualpén,Ajedrez
+376,Joaquín Muñoz Araya,2008-04-18,M,Talcahuano,Natación
+57,Martín Pérez Rojas,2008-04-25,M,Talcahuano,Ajedrez
+98,Josefa Flores Muñoz,2009-02-16,F,Hualpén,Fútbol
+488,Isidora Flores Silva,2009-01-05,F,Chiguayante,Vóleibol
+93,Gabriel Araya Fuentes,2011-08-24,M,Chiguayante,Vóleibol
+215,Joaquín Soto Muñoz,2010-06-20,M,Chiguayante,Natación
+85,Agustín González Rojas,2008-02-25,M,Coronel,Fútbol
+19,Benjamín Sepúlveda Contreras,2009-06-24,M,San Pedro de la Paz,Natación
+351,Josefa Muñoz Hernández,2007-01-02,F,San Pedro de la Paz,Natación
+280,Javiera Vega Soto,2008-11-02,F,Chiguayante,Natación
+460,Florencia Rodríguez Soto,2007-07-02,F,San Pedro de la Paz,Atletismo
+374,Benjamín Contreras Rojas,2009-08-04,M,Hualpén,Natación
+259,Martín López Espinoza,2012-06-22,M,Hualpén,Vóleibol
+493,Sofía Contreras Espinoza,2009-09-07,F,Talcahuano,Ajedrez
+303,Emilia Díaz Soto,2012-10-18,F,Talcahuano,Vóleibol
+370,Matías Espinoza Espinoza,2008-04-20,M,Hualpén,Vóleibol
+163,Antonia Torres Espinoza,2011-01-14,F,Talcahuano,Vóleibol
+166,Matías Espinoza Muñoz,2011-09-07,M,Concepción,Ajedrez
+384,Amanda Fuentes Hernández,2009-09-23,F,Talcahuano,Fútbol
+394,Emilia Flores Rojas,2008-08-23,F,Coronel,Fútbol
+547,Isidora Díaz Díaz,2009-10-25,F,San Pedro de la Paz,Atletismo
+140,Catalina Rodríguez Torres,2007-03-17,F,San Pedro de la Paz,Natación
+223,Isidora Hernández Hernández,2010-01-26,F,Concepción,Fútbol
+225,Josefa Martínez Sepúlveda,2008-07-12,F,Hualpén,Fútbol
+31,Gabriel Torres Sepúlveda,2008-10-19,M,Hualpén,Fútbol
+255,Isidora Espinoza Espinoza,2011-06-08,F,Hualpén,Fútbol
+209,Sofía Contreras Hernández,2008-03-02,F,Chiguayante,Atletismo
+260,Sofía Hernández Rodríguez,2010-07-28,F,Talcahuano,Atletismo
+344,Amanda Morales Araya,2012-09-08,F,Chiguayante,Ajedrez
+290,Agustín Muñoz Flores,2009-03-04,M,Hualpén,Ajedrez
+90,Vicente Muñoz Martínez,2010-06-25,M,Concepción,Ajedrez
+158,Sofía Contreras Morales,2012-02-09,F,San Pedro de la Paz,Vóleibol
+207,Sofía Vega Torres,2011-02-07,F,Talcahuano,Fútbol
+431,Isidora Díaz Díaz,2007-12-27,F,Talcahuano,Vóleibol
+301,Benjamín Muñoz Rojas,2011-10-12,M,San Pedro de la Paz,Vóleibol
+492,Emilia Flores Pérez,2009-10-12,F,San Pedro de la Paz,Fútbol
+397,Sofía Araya González,2008-07-08,F,Hualpén,Vóleibol
+276,Martín Muñoz Sepúlveda,2008-03-24,M,Hualpén,Atletismo
+154,Vicente Vega Soto,2010-11-19,M,Concepción,Fútbol
+315,Florencia Sepúlveda Sepúlveda,2008-02-04,F,Coronel,Fútbol
+339,Sofía Hernández Soto,2010-01-08,F,Penco,Natación
+289,Isidora Hernández Muñoz,2009-09-27,F,Hualpén,Ajedrez
+475,Matías Martínez Fuentes,2011-01-05,M,Penco,Atletismo
+516,Javiera Díaz González,2007-07-01,F,Talcahuano,Natación
+432,Javiera Rodríguez Vega,2008-05-05,F,Concepción,Vóleibol
+76,Josefa González Soto,2010-11-16,F,Tomé,Vóleibol
+174,Catalina González Torres,2011-12-20,F,Tomé,Natación
+14,Martín Espinoza Rodríguez,2008-01-13,M,Concepción,Natación
+357,Isidora Sepúlveda Rojas,2011-04-10,F,Talcahuano,Atletismo
+407,Lucas Torres Silva,2007-03-07,M,San Pedro de la Paz,Ajedrez
+538,Javiera Soto Vega,2010-06-12,F,Coronel,Vóleibol
+400,Matías Torres Contreras,2007-10-17,M,Talcahuano,Atletismo
+216,Emilia Flores Soto,2007-08-17,F,Hualpén,Ajedrez
+425,Javiera Contreras Araya,2011-04-14,F,Concepción,Vóleibol
+66,Joaquín Martínez Vega,2008-09-13,M,Concepción,Atletismo
+113,Florencia Fuentes Soto,2008-08-18,F,Hualpén,Vóleibol
+438,Emilia Vega Espinoza,2011-04-24,F,Penco,Fútbol
+178,Emilia Flores Martínez,2009-12-22,F,Penco,Natación
+46,Agustín Araya Contreras,2007-06-01,M,San Pedro de la Paz,Atletismo
+323,Diego Torres Rojas,2011-12-17,M,Talcahuano,Ajedrez
+285,Joaquín Rojas Sepúlveda,2011-05-15,M,San Pedro de la Paz,Vóleibol
+474,Josefa Hernández Silva,2010-06-23,F,Chiguayante,Natación
+404,Matías González Hernández,2010-04-21,M,Concepción,Natación
+553,Josefa Martínez Soto,2011-08-21,F,Talcahuano,Ajedrez
+44,Agustín Espinoza Muñoz,2010-12-12,M,Chiguayante,Natación
+172,Joaquín Hernández Sepúlveda,2007-12-05,M,Coronel,Fútbol
+145,Catalina Martínez Rojas,2011-02-22,F,San Pedro de la Paz,Fútbol
+346,Lucas Muñoz Díaz,2012-10-06,M,San Pedro de la Paz,Atletismo
+84,Vicente Pérez Rodríguez,2010-12-13,M,Chiguayante,Vóleibol
+22,Joaquín González Contreras,2010-12-10,M,Talcahuano,Vóleibol
+89,Javiera Fuentes Rodríguez,2009-10-08,F,Concepción,Fútbol
+386,Vicente Soto Pérez,2008-11-14,M,Concepción,Atletismo
+132,Agustín Contreras Hernández,2009-04-04,M,Penco,Natación
+396,Catalina Espinoza Pérez,2010-05-10,F,Talcahuano,Natación
+345,Matías Díaz Soto,2007-03-08,M,Talcahuano,Ajedrez
+11,Martín Contreras Espinoza,2011-01-06,M,Talcahuano,Vóleibol
+427,Antonia Díaz González,2010-06-12,F,Talcahuano,Atletismo
+4,Sofía Flores Rodríguez,2010-02-09,F,Concepción,Natación
+482,Sofía Soto Sepúlveda,2007-02-11,F,Chiguayante,Ajedrez
+2,Agustín Rodríguez Vega,2007-09-11,M,Chiguayante,Ajedrez
+390,Benjamín Rodríguez Soto,2007-05-01,M,Hualpén,Fútbol
+114,Matías Espinoza Araya,2012-01-23,M,Hualpén,Ajedrez
+74,Martín Pérez López,2012-10-25,M,Concepción,Ajedrez
+449,Martina Sepúlveda Espinoza,2010-04-03,F,Penco,Fútbol
+144,Agustín Flores López,2010-09-06,M,San Pedro de la Paz,Vóleibol
+519,Amanda Torres Vega,2012-09-22,F,Hualpén,Ajedrez
+502,Javiera Soto Flores,2011-07-26,F,Tomé,Fútbol
+182,Emilia Silva Espinoza,2010-10-14,F,Tomé,Atletismo
+497,Martina Vega Martínez,2012-03-22,F,Chiguayante,Vóleibol
+559,Isidora Silva Torres,2008-03-19,F,Chiguayante,Ajedrez
+39,Florencia Sepúlveda Sepúlveda,2012-05-06,F,Talcahuano,Atletismo
+389,Amanda Vega Rodríguez,2011-04-27,F,Talcahuano,Atletismo
+451,Benjamín Morales Martínez,2008-02-09,M,Tomé,Natación
+545,Benjamín Martínez Rojas,2011-03-10,M,Hualpén,Ajedrez
+112,Martina Muñoz Díaz,2009-04-27,F,Chiguayante,Natación
+32,Agustín Espinoza Contreras,2012-03-01,M,Talcahuano,Natación
+87,Matías Contreras Vega,2011-01-04,M,Concepción,Fútbol
+139,Agustín Vega Contreras,2011-03-07,M,Penco,Fútbol
+320,Florencia Espinoza Vega,2010-10-08,F,Concepción,Natación
+68,Gabriel Espinoza Vega,2008-05-17,M,Concepción,Vóleibol
+448,Javiera Rodríguez Rojas,2009-12-22,F,Concepción,Ajedrez
+452,Joaquín Muñoz Contreras,2008-10-26,M,Chiguayante,Natación
+429,Amanda Martínez Silva,2012-10-01,F,Concepción,Ajedrez
+307,Amanda Díaz González,2010-10-14,F,Concepción,Vóleibol
+349,Javiera Sepúlveda Pérez,2010-04-14,F,Talcahuano,Natación
+562,Javiera Silva Martínez,2012-07-21,F,Concepción,Natación
+244,Antonia Vega Díaz,2008-03-19,F,Concepción,Vóleibol
+265,Antonia Muñoz Soto,2010-11-07,F,Coronel,Vóleibol
+155,Martín González Contreras,2012-04-14,M,Chiguayante,Vóleibol
+137,Javiera Hernández Morales,2010-07-18,F,Hualpén,Fútbol
+193,Lucas Vega Vega,2007-09-11,M,San Pedro de la Paz,Natación
+544,Antonia Muñoz Espinoza,2010-11-25,F,Concepción,Fútbol
+258,Diego Soto González,2009-07-27,M,Penco,Vóleibol
+317,Emilia Díaz González,2008-04-21,F,San Pedro de la Paz,Atletismo
+517,Gabriel Contreras Morales,2010-01-27,M,Chiguayante,Ajedrez
+117,Matías Sepúlveda Torres,2009-03-06,M,Hualpén,Ajedrez
+522,Agustín Soto Fuentes,2007-04-18,M,Talcahuano,Vóleibol
+62,Isidora Rodríguez González,2010-08-13,F,Penco,Natación
+25,Joaquín Martínez Flores,2008-07-08,M,Coronel,Atletismo
+45,Catalina Martínez Vega,2011-01-27,F,Chiguayante,Atletismo
+440,Vicente Espinoza López,2009-03-03,M,Hualpén,Fútbol
+529,Joaquín Silva Espinoza,2008-11-13,M,Hualpén,Ajedrez
+416,Isidora Hernández López,2007-11-16,F,Concepción,Ajedrez
+410,Amanda Morales Araya,2010-06-23,F,Concepción,Ajedrez
+557,Lucas Contreras Silva,2012-06-19,M,Talcahuano,Atletismo
+441,Joaquín Rodríguez González,2007-03-15,M,Penco,Fútbol
+129,Diego Soto Vega,2011-08-15,M,Coronel,Fútbol
+446,Agustín Sepúlveda Martínez,2011-12-27,M,Tomé,Atletismo
+33,Amanda Silva Silva,2010-09-06,F,Hualpén,Ajedrez
+304,Benjamín López Rojas,2011-08-22,M,Concepción,Vóleibol
+101,Catalina Sepúlveda Morales,2007-04-22,F,Concepción,Vóleibol
+518,Catalina Rodríguez Contreras,2012-07-28,F,Hualpén,Natación
+256,Vicente González Morales,2009-06-26,M,Talcahuano,Vóleibol
+486,Emilia Silva Silva,2011-07-05,F,Hualpén,Atletismo
+392,Florencia Rodríguez Hernández,2011-11-24,F,Hualpén,Natación
+313,Lucas Rojas Rodríguez,2007-05-22,M,San Pedro de la Paz,Natación
+26,Agustín Sepúlveda Pérez,2012-10-15,M,Chiguayante,Ajedrez
+150,Martina Silva López,2009-07-12,F,Concepción,Fútbol
+422,Matías Rojas Fuentes,2010-01-05,M,Concepción,Natación
+487,Vicente Flores Araya,2008-08-11,M,San Pedro de la Paz,Natación
+110,Florencia Morales Pérez,2011-03-02,F,Concepción,Fútbol
+546,Tomás Díaz Rojas,2012-11-26,M,Talcahuano,Natación
+540,Florencia Rodríguez Sepúlveda,2011-07-09,F,Concepción,Natación
+254,Joaquín Muñoz Fuentes,2008-09-27,M,Concepción,Fútbol
+5,Lucas Torres Díaz,2007-05-27,M,San Pedro de la Paz,Fútbol
+368,Martina Fuentes Martínez,2007-08-09,F,Chiguayante,Fútbol
+125,Martina Araya López,2009-10-09,F,San Pedro de la Paz,Ajedrez
+539,Tomás Martínez Contreras,2011-06-04,M,Coronel,Ajedrez
+205,Vicente Muñoz Contreras,2009-11-11,M,Talcahuano,Natación
+234,Javiera Espinoza Vega,2009-07-01,F,Concepción,Natación
+116,Martín Morales Muñoz,2010-03-25,M,Hualpén,Atletismo
+34,Javiera Vega Araya,2010-02-20,F,Tomé,Vóleibol
+245,Agustín Vega López,2007-09-14,M,Coronel,Vóleibol
+558,Isidora Pérez Contreras,2008-03-23,F,Coronel,Atletismo
+120,Vicente Pérez Araya,2011-10-16,M,Coronel,Natación
+548,Matías Martínez Díaz,2011-04-02,M,Concepción,Natación
+366,Diego Silva Flores,2011-10-08,M,Talcahuano,Ajedrez
+299,Emilia Fuentes Muñoz,2010-12-15,F,Chiguayante,Fútbol
+118,Sofía Torres González,2007-04-05,F,Penco,Vóleibol
+108,Amanda Soto Vega,2007-09-24,F,San Pedro de la Paz,Natación
+105,Lucas Torres Silva,2011-09-13,M,Chiguayante,Vóleibol
+250,Catalina Sepúlveda Muñoz,2009-03-17,F,Coronel,Ajedrez
+92,Catalina Contreras Díaz,2011-05-03,F,San Pedro de la Paz,Vóleibol
+491,Amanda Soto Hernández,2007-02-01,F,Penco,Natación
+146,Matías Espinoza Hernández,2010-10-18,M,San Pedro de la Paz,Atletismo
+50,Lucas Vega Sepúlveda,2007-02-09,M,Tomé,Vóleibol
+202,Antonia Rodríguez Fuentes,2008-10-14,F,Chiguayante,Ajedrez
+423,Antonia Díaz Soto,2011-10-02,F,Talcahuano,Ajedrez
+107,Lucas Hernández Silva,2012-07-02,M,Coronel,Fútbol
+228,Tomás Díaz Silva,2010-06-07,M,Chiguayante,Atletismo
+187,Tomás Sepúlveda Vega,2007-01-05,M,Talcahuano,Fútbol
+300,Lucas Fuentes Araya,2011-02-19,M,Talcahuano,Atletismo
+369,Antonia Hernández Rodríguez,2011-09-14,F,Concepción,Fútbol
+43,Florencia Contreras Muñoz,2007-10-01,F,Talcahuano,Vóleibol
+296,Isidora Sepúlveda González,2008-11-28,F,Concepción,Ajedrez
+496,Javiera Torres Fuentes,2011-12-01,F,Concepción,Fútbol
+272,Josefa Soto Soto,2007-12-23,F,San Pedro de la Paz,Natación
+316,Agustín Morales Fuentes,2008-02-05,M,Concepción,Vóleibol
+157,Florencia Sepúlveda Rodríguez,2011-03-17,F,San Pedro de la Paz,Vóleibol
+340,Isidora Espinoza González,2008-10-24,F,Coronel,Fútbol
+298,Benjamín Torres Espinoza,2011-10-12,M,San Pedro de la Paz,Natación
+419,Florencia Contreras González,2007-01-18,F,Chiguayante,Atletismo
+395,Gabriel Sepúlveda Araya,2009-01-27,M,Coronel,Natación
+162,Benjamín Fuentes Flores,2011-07-19,M,Concepción,Natación
+292,Sofía Pérez Pérez,2012-03-24,F,Talcahuano,Natación
+454,Isidora Pérez Muñoz,2008-01-01,F,Hualpén,Natación
+341,Benjamín Morales Silva,2009-10-14,M,San Pedro de la Paz,Natación
+450,Florencia Vega Rodríguez,2008-06-12,F,Talcahuano,Atletismo
+138,Amanda Espinoza Fuentes,2008-01-08,F,Concepción,Fútbol
+148,Joaquín Soto Contreras,2007-06-01,M,Hualpén,Vóleibol
+473,Martín Martínez Morales,2009-01-09,M,Hualpén,Atletismo
+60,Agustín Morales López,2010-04-11,M,San Pedro de la Paz,Vóleibol
+51,Lucas López Rojas,2011-08-08,M,San Pedro de la Paz,Natación
+268,Benjamín Sepúlveda Araya,2011-10-13,M,Concepción,Natación
+36,Amanda Contreras Vega,2010-09-19,F,Chiguayante,Natación
+136,Florencia Morales Morales,2010-06-24,F,Hualpén,Fútbol
+241,Antonia Espinoza Fuentes,2007-08-18,F,Hualpén,Vóleibol
+472,Javiera Flores Rodríguez,2012-12-22,F,Hualpén,Natación
+214,Sofía Morales Pérez,2007-11-01,F,Hualpén,Atletismo
+293,Agustín Fuentes Díaz,2007-06-28,M,Talcahuano,Fútbol
+379,Catalina González Pérez,2010-10-16,F,Talcahuano,Fútbol
+383,Diego Rojas Díaz,2011-03-16,M,Concepción,Fútbol
+15,Benjamín Soto Araya,2008-09-03,M,Concepción,Natación
+75,Diego Torres Soto,2012-05-28,M,Talcahuano,Ajedrez
+35,Gabriel Araya Rodríguez,2007-04-16,M,Coronel,Natación
+156,Emilia Sepúlveda Vega,2011-06-05,F,San Pedro de la Paz,Vóleibol
+321,Tomás Silva Martínez,2010-09-06,M,Chiguayante,Atletismo
+505,Diego González Fuentes,2010-05-20,M,Concepción,Atletismo
+263,Isidora Rojas Vega,2009-08-28,F,Concepción,Vóleibol
+38,Benjamín Rodríguez Torres,2011-11-16,M,Concepción,Fútbol
+42,Lucas Hernández Sepúlveda,2009-07-19,M,Coronel,Ajedrez
+513,Vicente Soto Hernández,2010-05-02,M,Penco,Ajedrez
+377,Josefa Flores González,2009-11-12,F,Tomé,Atletismo
+532,Javiera Muñoz Rojas,2010-01-26,F,Concepción,Fútbol
+352,Vicente Vega López,2010-11-10,M,San Pedro de la Paz,Ajedrez
+504,Isidora Rodríguez Díaz,2007-06-01,F,Tomé,Natación
+556,Matías Espinoza González,2010-11-17,M,Concepción,Natación
+176,Isidora Morales Hernández,2008-11-23,F,Chiguayante,Atletismo
+371,Martín Díaz Contreras,2007-05-20,M,Chiguayante,Natación
+481,Matías Espinoza Muñoz,2008-03-24,M,Hualpén,Fútbol
+402,Benjamín Fuentes Vega,2007-07-05,M,Coronel,Vóleibol
+149,Diego Araya Martínez,2010-11-04,M,Penco,Natación
+199,Antonia Araya Hernández,2010-08-26,F,Hualpén,Ajedrez
+523,Josefa Muñoz Morales,2010-06-03,F,Hualpén,Ajedrez
+354,Josefa Torres Díaz,2007-02-12,F,Talcahuano,Fútbol
+248,Javiera Sepúlveda Sepúlveda,2007-04-19,F,Penco,Atletismo
+531,Tomás Martínez Muñoz,2010-01-02,M,Concepción,Natación
+243,Josefa Vega Espinoza,2011-06-18,F,Tomé,Fútbol
+53,Martín Rodríguez Rodríguez,2007-05-11,M,Coronel,Fútbol
+336,Isidora Rojas Díaz,2012-01-06,F,Coronel,Vóleibol
+264,Sofía Muñoz Pérez,2008-10-19,F,Tomé,Natación
+525,Martina Vega Soto,2011-03-23,F,Hualpén,Fútbol
+153,Isidora Martínez Flores,2010-10-19,F,Penco,Ajedrez
+27,Matías Fuentes Sepúlveda,2007-09-17,M,Hualpén,Natación
+409,Javiera González González,2008-12-17,F,Concepción,Natación
+308,Vicente Hernández López,2007-11-22,M,Hualpén,Atletismo
+147,Catalina Vega Silva,2012-01-28,F,Hualpén,Fútbol
+168,Matías Vega Hernández,2011-09-09,M,Talcahuano,Natación
+500,Joaquín Torres Morales,2012-09-06,M,Tomé,Vóleibol
+204,Javiera Morales Hernández,2008-04-17,F,Concepción,Ajedrez
+360,Isidora González Fuentes,2008-12-08,F,Concepción,Atletismo
+67,Lucas Rojas Sepúlveda,2011-04-08,M,Talcahuano,Fútbol
+10,Gabriel Torres Rojas,2011-11-22,M,Concepción,Atletismo
+284,Emilia Silva González,2009-08-11,F,Talcahuano,Fútbol
+80,Sofía Flores Contreras,2008-01-23,F,San Pedro de la Paz,Natación
+322,Catalina Silva Torres,2011-02-16,F,Hualpén,Fútbol
+288,Javiera Hernández Torres,2012-05-28,F,Talcahuano,Fútbol
+554,Lucas Flores Silva,2011-04-16,M,Concepción,Natación
+363,Diego Torres Silva,2008-03-24,M,Coronel,Vóleibol
+91,Florencia Vega Araya,2009-01-15,F,Tomé,Atletismo
+318,Joaquín Contreras Rojas,2008-09-05,M,Hualpén,Atletismo
+56,Tomás Hernández Pérez,2012-05-05,M,Penco,Fútbol
+152,Florencia Vega Fuentes,2007-02-26,F,Talcahuano,Vóleibol
+533,Vicente Díaz Morales,2007-12-03,M,Concepción,Natación
+291,Vicente Muñoz Vega,2007-02-19,M,Concepción,Atletismo
+100,Lucas Soto Silva,2011-08-10,M,Concepción,Ajedrez
+192,Benjamín González Silva,2007-05-24,M,Chiguayante,Ajedrez
+476,Amanda Araya Flores,2010-10-04,F,Penco,Ajedrez
+415,Joaquín López Soto,2010-08-13,M,Hualpén,Vóleibol
+499,Amanda Díaz Fuentes,2008-07-22,F,Chiguayante,Vóleibol
+55,Amanda Muñoz Soto,2011-04-17,F,Penco,Ajedrez
+229,Florencia Torres López,2008-07-18,F,Concepción,Ajedrez
+61,Sofía López Díaz,2007-07-21,F,Chiguayante,Atletismo
+434,Martina Rodríguez Rojas,2009-09-17,F,San Pedro de la Paz,Vóleibol
+224,Diego Contreras Araya,2007-09-16,M,Chiguayante,Ajedrez
+253,Agustín Sepúlveda Hernández,2007-05-26,M,Penco,Atletismo
+433,Josefa González Araya,2008-07-20,F,Talcahuano,Vóleibol
+445,Florencia Contreras López,2007-08-18,F,Chiguayante,Fútbol
+274,Agustín Pérez Morales,2008-07-20,M,Coronel,Atletismo
+435,Agustín Martínez Rodríguez,2010-12-24,M,Coronel,Ajedrez
+543,Joaquín Silva Araya,2010-06-18,M,Hualpén,Ajedrez
+338,Agustín Pérez Hernández,2009-07-24,M,San Pedro de la Paz,Vóleibol
+373,Tomás Martínez Díaz,2012-05-23,M,San Pedro de la Paz,Vóleibol
+287,Diego González Vega,2012-06-03,M,Chiguayante,Fútbol
+328,Martina Morales Vega,2010-06-24,F,San Pedro de la Paz,Vóleibol
+509,Lucas Díaz Araya,2009-02-14,M,Talcahuano,Vóleibol
+408,Amanda Araya Martínez,2009-03-06,F,Hualpén,Ajedrez
+418,Sofía Espinoza Vega,2011-09-20,F,San Pedro de la Paz,Ajedrez
+164,Benjamín López Hernández,2012-07-26,M,Penco,Atletismo
+457,Diego González Flores,2012-03-25,M,Talcahuano,Natación
+561,Josefa Contreras Hernández,2009-02-01,F,Concepción,Vóleibol
+278,Benjamín Espinoza Fuentes,2008-05-10,M,Concepción,Ajedrez
+534,Sofía López Torres,2011-08-02,F,Hualpén,Vóleibol
+326,Sofía Martínez Sepúlveda,2008-10-07,F,Concepción,Ajedrez
+123,Antonia Torres Torres,2007-10-28,F,Concepción,Fútbol
+520,Matías Pérez Rodríguez,2012-12-09,M,Talcahuano,Vóleibol
+190,Javiera Rojas Martínez,2009-09-24,F,Hualpén,Atletismo
+512,Catalina Rojas Soto,2007-06-02,F,San Pedro de la Paz,Atletismo
+467,Emilia Espinoza Pérez,2008-07-16,F,Penco,Vóleibol
+65,Tomás Espinoza López,2012-03-06,M,Chiguayante,Fútbol
+495,Matías Rodríguez Pérez,2012-12-12,M,Concepción,Natación
+240,Josefa Martínez Soto,2011-08-22,F,Talcahuano,Atletismo
+456,Tomás Fuentes Martínez,2011-10-14,M,Concepción,Fútbol
+417,Diego Muñoz López,2007-05-23,M,San Pedro de la Paz,Natación
+175,Martina Soto Silva,2008-03-10,F,Concepción,Vóleibol
+314,Diego Fuentes Torres,2011-05-15,M,Hualpén,Vóleibol
+564,Isidora Díaz Fuentes,2012-08-27,F,San Pedro de la Paz,Fútbol
+99,Javiera Torres Rodríguez,2009-05-11,F,Hualpén,Ajedrez
+210,Josefa Contreras Silva,2012-08-13,F,San Pedro de la Paz,Fútbol
+461,Josefa Díaz Flores,2011-09-21,F,Talcahuano,Natación
+191,Martín Díaz Rodríguez,2011-04-02,M,Concepción,Atletismo
+6,Isidora Silva Morales,2007-05-23,F,Talcahuano,Natación
+266,Matías González Hernández,2007-10-25,M,San Pedro de la Paz,Vóleibol
+428,Benjamín Pérez Sepúlveda,2012-05-17,M,Tomé,Ajedrez
+444,Catalina Muñoz Torres,2007-02-24,F,Chiguayante,Natación
+295,Martín Espinoza Torres,2008-11-19,M,Hualpén,Natación
+86,Joaquín Muñoz Rodríguez,2011-08-10,M,Concepción,Vóleibol
+208,Catalina Flores Flores,2010-04-16,F,Chiguayante,Ajedrez
+181,Amanda Martínez Fuentes,2010-01-09,F,Chiguayante,Atletismo
+537,Benjamín Soto Muñoz,2012-04-27,M,Concepción,Ajedrez
+188,Diego López Pérez,2011-09-25,M,Chiguayante,Vóleibol
+173,Gabriel Martínez Contreras,2008-03-04,M,Tomé,Atletismo
+286,Tomás Rodríguez González,2008-12-23,M,San Pedro de la Paz,Vóleibol
+183,Isidora Pérez Contreras,2011-01-19,F,Chiguayante,Fútbol
+462,Vicente Hernández Morales,2012-08-09,M,San Pedro de la Paz,Ajedrez
+535,Catalina Torres Martínez,2011-03-08,F,Coronel,Natación
+527,Isidora Hernández Vega,2009-02-12,F,San Pedro de la Paz,Atletismo
+378,Josefa Silva Soto,2009-10-18,F,Tomé,Ajedrez
+218,Amanda Muñoz Muñoz,2007-04-18,F,Talcahuano,Ajedrez
+348,Martina Rojas Rojas,2007-04-13,F,Concepción,Fútbol
+399,Florencia Morales Díaz,2009-06-24,F,Coronel,Ajedrez
+82,Diego López Hernández,2010-08-17,M,Concepción,Vóleibol
+466,Josefa Fuentes Rojas,2009-12-09,F,Concepción,Fútbol
+142,Josefa Flores Rojas,2012-09-02,F,Concepción,Atletismo
+7,Emilia Díaz Martínez,2010-07-17,F,Talcahuano,Fútbol
+498,Matías López Muñoz,2010-12-13,M,Talcahuano,Atletismo
+247,Martina Soto González,2010-03-17,F,Concepción,Fútbol
+252,Vicente Rodríguez Sepúlveda,2010-06-01,M,Chiguayante,Fútbol
+325,Catalina Díaz Flores,2007-10-23,F,Tomé,Fútbol
+507,Diego Espinoza Vega,2012-11-14,M,Coronel,Vóleibol
+306,Diego Muñoz Muñoz,2007-07-12,M,Concepción,Vóleibol
+305,Javiera Rojas Martínez,2008-04-21,F,Talcahuano,Natación
+165,Emilia Araya Fuentes,2007-10-07,F,Talcahuano,Vóleibol
+421,Florencia Silva Rodríguez,2012-02-23,F,Concepción,Vóleibol
+463,Florencia Muñoz Sepúlveda,2011-01-05,F,Tomé,Natación
+238,Javiera Vega Contreras,2012-11-04,F,Hualpén,Fútbol
+126,Benjamín Silva Sepúlveda,2008-11-06,M,Hualpén,Natación
+511,Benjamín Morales López,2009-06-12,M,Coronel,Ajedrez
+282,Martín Araya Espinoza,2009-10-05,M,Concepción,Vóleibol
+124,Agustín Pérez Silva,2009-01-08,M,Concepción,Atletismo
+333,Antonia González Flores,2012-03-05,F,Tomé,Natación
+359,Lucas Rodríguez Torres,2009-01-20,M,Concepción,Ajedrez
+526,Catalina Araya Araya,2011-07-15,F,Talcahuano,Atletismo
+12,Lucas Soto Pérez,2011-06-07,M,Penco,Natación
+319,Antonia Contreras López,2011-09-18,F,Penco,Ajedrez
+88,Josefa Torres González,2007-09-08,F,Penco,Natación
+443,Gabriel González Muñoz,2010-01-23,M,Concepción,Atletismo
+364,Martín Soto Soto,2012-10-08,M,Talcahuano,Fútbol
+566,Javiera González Espinoza,2012-12-07,F,Penco,Atletismo
+77,Joaquín Pérez Contreras,2008-06-16,M,Tomé,Ajedrez
+177,Vicente Fuentes Torres,2008-12-11,M,Hualpén,Atletismo
+198,Javiera Vega Morales,2012-11-23,F,Chiguayante,Ajedrez
+106,Josefa Espinoza González,2007-01-12,F,Concepción,Vóleibol
+97,Gabriel González Sepúlveda,2007-05-17,M,San Pedro de la Paz,Natación
+459,Amanda Silva López,2009-06-11,F,Tomé,Ajedrez
+269,Vicente Muñoz Araya,2008-01-26,M,San Pedro de la Paz,Ajedrez
+121,Benjamín Espinoza Contreras,2007-02-02,M,Chiguayante,Natación
+508,Josefa Araya González,2007-06-10,F,Chiguayante,Vóleibol
+249,Sofía Sepúlveda Muñoz,2012-05-06,F,Chiguayante,Ajedrez
+372,Benjamín Hernández Soto,2007-09-27,M,Hualpén,Fútbol
+160,Javiera Araya Díaz,2009-03-12,F,Chiguayante,Fútbol
+347,Joaquín Morales Torres,2011-06-03,M,San Pedro de la Paz,Fútbol
+200,Catalina Sepúlveda Rojas,2010-03-23,F,Concepción,Fútbol
+8,Antonia Espinoza Fuentes,2011-11-04,F,Tomé,Vóleibol
+485,Matías Soto Flores,2008-07-12,M,Chiguayante,Vóleibol
+521,Gabriel Rojas Hernández,2007-11-19,M,Coronel,Ajedrez
+403,Amanda Morales Soto,2008-02-18,F,Coronel,Vóleibol
+381,Javiera Rojas Morales,2008-07-17,F,Chiguayante,Ajedrez
+550,Diego Espinoza Espinoza,2009-08-10,M,Talcahuano,Atletismo
+391,Catalina González Morales,2011-03-23,F,Coronel,Ajedrez
+442,Antonia Sepúlveda Espinoza,2011-05-24,F,San Pedro de la Paz,Vóleibol
+70,Gabriel Rojas González,2012-07-22,M,Talcahuano,Natación
+47,Amanda Sepúlveda Torres,2008-11-03,F,Concepción,Atletismo
+197,Martín López Morales,2008-11-25,M,Talcahuano,Atletismo
+453,Sofía Hernández Torres,2009-12-04,F,Coronel,Fútbol
+59,Antonia Hernández Vega,2011-05-26,F,Concepción,Vóleibol
+294,Emilia Rodríguez Hernández,2009-09-01,F,Tomé,Ajedrez
+353,Florencia Rojas Muñoz,2007-02-02,F,Hualpén,Atletismo
+524,Agustín Espinoza Hernández,2010-10-26,M,Chiguayante,Fútbol
+170,Emilia Vega Rojas,2010-05-14,F,Hualpén,Ajedrez
+478,Benjamín Sepúlveda Soto,2012-03-01,M,Tomé,Natación
+484,Martina Martínez Araya,2009-08-13,F,Coronel,Atletismo

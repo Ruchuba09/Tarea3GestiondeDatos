@@ -1,0 +1,981 @@
+id_matricula,rut_estudiante,nombre_estudiante,fecha_nacimiento,sexo,comuna,curso,promedio_notas,asistencia_pct,programa_apoyo,necesidad_educativa,nombre_apoderado,telefono_apoderado
+M-7000,22290413-3,Agustín Flores López,2010-09-06,M,San Pedro de la Paz,2º B,7.0,76,Apoyo psicosocial,No,Matías López,992115724
+M-7001,21162647-7,Benjamín Soto Muñoz,2012-04-27,M,Concepción,3º B,5.1,100,Ninguno,TDAH,Amanda Martínez,983858594
+M-7002,20598130-4,Josefa Martínez Soto,2011-08-21,F,Talcahuano,2º A,4.5,98,Apoyo psicosocial,No,Catalina Rodríguez,911714850
+M-7003,21323716-8,Josefa Hernández Araya,2008-01-14,F,Penco,3º B,5.1,86,Beca alimentación,No,Antonia Contreras,997050355
+M-7004,22654559-6,Javiera Rodríguez Rojas,2009-12-22,F,Concepción,3º B,4.6,100,Beca alimentación,No,Matías Rodríguez,965141088
+M-7005,20924719-2,Josefa Martínez Soto,2011-08-22,F,Talcahuano,1º B,5.3,71,Ninguno,No,Catalina Sepúlveda,979049902
+M-7006,23313603-K,Javiera Fuentes Rodríguez,2009-10-08,F,Concepción,2º C,6.8,100,Programa de integración (PIE),No,Javiera González,980254627
+M-7007,21927746-3,Javiera Vega Soto,2008-11-02,F,Chiguayante,4º B,4.8,95,Ninguno,No,Vicente Araya,915998957
+M-7008,20385188-8,Lucas Araya Soto,2008-03-08,M,Hualpén,3º A,4.4,92,Programa de integración (PIE),No,Javiera Rojas,940361617
+M-7009,22653836-0,Joaquín Silva Martínez,2012-05-28,M,Coronel,4º A,5.9,88,Ninguno,No,Matías González,946383422
+M-7010,22363331-1,Emilia Hernández Martínez,2011-01-14,F,Hualpén,4º B,6.9,77,Ninguno,No,Isidora Torres,947381619
+M-7011,22252360-1,Martina Flores Díaz,2009-02-28,F,Talcahuano,1º C,5.6,74,Beca alimentación,No,Matías Rojas,921392418
+M-7012,21783263-K,Benjamín Soto Araya,2008-09-03,M,Concepción,3º A,5.3,74,Programa de integración (PIE),No,Diego Araya,938111714
+M-7013,24478313-3,Josefa Flores Pérez,2010-11-10,F,Tomé,1º B,6.6,95,Ninguno,No,Agustín Fuentes,953127488
+M-7014,23850827-K,Matías Vega Hernández,2011-09-09,M,Talcahuano,1º B,5.4,80,Programa de integración (PIE),No,Javiera Flores,922826060
+M-7015,24444326-K,Amanda Pérez Martínez,2007-06-09,F,Concepción,1º B,5.0,83,Ninguno,No,Agustín González,920861420
+M-7016,23203198-6,Martín Díaz Torres,2008-09-12,M,Talcahuano,1º C,5.0,77,Retención escolar,No,Diego Pérez,983872791
+M-7017,23509588-8,Catalina Díaz Vega,2009-06-18,F,Concepción,2º C,4.7,100,Retención escolar,Discapacidad auditiva,Gabriel Morales,926966347
+M-7018,21977128-K,Javiera Sepúlveda Díaz,2011-12-04,F,Concepción,2º A,5.9,73,Ninguno,No,Tomás Díaz,991016033
+M-7019,21576217-0,Emilia Muñoz González,2012-05-24,F,Talcahuano,3º A,3.9,96,Beca alimentación,No,Gabriel Torres,980469825
+M-7020,23514145-6,Martina Silva Soto,2008-08-09,F,Chiguayante,1º B,5.8,100,Ninguno,Discapacidad auditiva,Emilia Espinoza,998103347
+M-7021,24478079-7,Sofía Díaz Araya,2007-03-13,F,San Pedro de la Paz,2º A,5.3,89,Ninguno,No,Catalina López,990172401
+M-7022,22960803-3,Antonia Hernández Rodríguez,2011-09-14,F,Concepción,2º C,6.6,80,Ninguno,No,Sofía Hernández,957288294
+M-7023,20335381-0,Sofía Rojas Rojas,2009-04-07,F,Tomé,4º B,5.9,95,Ninguno,Discapacidad visual,Isidora Araya,992160650
+M-7024,20067996-0,Florencia Pérez Hernández,2009-01-28,F,San Pedro de la Paz,1º A,5.6,100,Ninguno,No,Lucas Silva,919146815
+M-7025,20515712-1,Vicente Flores Martínez,2010-01-16,M,Concepción,3º C,5.4,89,Ninguno,No,Lucas Vega,976668637
+M-7026,21366116-4,Sofía Soto López,2009-07-16,F,Tomé,3º C,5.0,94,Programa de integración (PIE),No,Amanda Torres,950759752
+M-7027,20646364-1,Isidora Martínez Flores,2010-10-19,F,Penco,1º A,6.1,72,Ninguno,No,Diego Flores,948986036
+M-7028,22991875-K,Emilia Silva López,2008-07-20,F,Concepción,1º A,6.0,98,Beca alimentación,No,Lucas Vega,957047579
+M-7029,21807548-4,Gabriel Araya Fuentes,2011-08-24,M,Chiguayante,3º B,5.9,88,Ninguno,Discapacidad auditiva,Amanda Soto,916631068
+M-7030,23351277-5,Sofía Soto Silva,2012-02-12,F,Coronel,1º A,5.2,88,Beca alimentación,No,Martín Muñoz,928446761
+M-7031,21930797-4,Amanda Espinoza Hernández,2011-12-17,F,Talcahuano,4º B,5.4,100,Apoyo psicosocial,No,Javiera Martínez,939167458
+M-7032,23954729-5,Sofía Morales Pérez,2007-11-01,F,Hualpén,3º B,5.0,81,Beca alimentación,Discapacidad visual,Lucas Espinoza,961013399
+M-7033,21582075-8,Lucas Muñoz Araya,2008-10-12,M,Concepción,2º A,6.0,82,Programa de integración (PIE),No,Diego Contreras,925321894
+M-7034,22248179-8,Lucas Contreras Sepúlveda,2012-06-27,M,Concepción,4º A,5.9,93,Apoyo psicosocial,No,Tomás Contreras,955379452
+M-7035,24490195-0,Agustín Vega Hernández,2009-01-27,M,Chiguayante,2º C,5.5,92,Retención escolar,No,Emilia Espinoza,960771359
+M-7036,24063009-K,Isidora Hernández Flores,2010-12-15,F,Concepción,4º C,6.0,82,Ninguno,No,Catalina Vega,982724332
+M-7037,22555893-7,Matías Contreras Silva,2009-07-05,M,San Pedro de la Paz,1º A,4.7,88,Beca alimentación,No,Emilia Flores,947790688
+M-7038,23323242-K,Diego Silva Flores,2011-10-08,M,Talcahuano,1º A,4.6,99,Retención escolar,Trastorno del lenguaje,Lucas López,986223039
+M-7039,20353899-3,Vicente Fuentes Torres,2008-12-11,M,Hualpén,3º A,4.5,93,Beca alimentación,No,Diego Pérez,931165834
+M-7040,23900321-K,Gabriel Araya Díaz,2009-05-05,M,Tomé,2º C,5.9,86,Beca alimentación,No,Antonia Vega,947230733
+M-7041,21450831-9,Florencia Rojas Contreras,2012-09-08,F,Talcahuano,1º A,6.6,95,Ninguno,No,Antonia Silva,986898739
+M-7042,22660389-8,Tomás Fuentes Martínez,2011-10-14,M,Concepción,3º C,5.4,85,Apoyo psicosocial,No,Amanda Pérez,995492161
+M-7043,20055536-6,Josefa Rodríguez Araya,2007-05-06,F,Coronel,1º B,7.0,91,Beca alimentación,No,Josefa Martínez,950696538
+M-7044,22561232-K,Tomás Díaz Rojas,2012-11-26,M,Talcahuano,3º A,5.7,76,Programa de integración (PIE),No,Isidora Vega,950443856
+M-7045,21671682-2,Florencia Hernández Pérez,2008-11-04,F,Chiguayante,3º C,5.4,84,Ninguno,No,Lucas Torres,963638617
+M-7046,21228616-5,Gabriel González Muñoz,2010-01-23,M,Concepción,2º A,5.9,84,Ninguno,TDAH,Agustín Rojas,981343496
+M-7047,22157864-K,Catalina Torres Contreras,2010-06-25,F,Talcahuano,3º B,5.8,81,Beca alimentación,No,Matías Flores,920988464
+M-7048,24088184-K,Tomás Sepúlveda Díaz,2011-10-12,M,Hualpén,1º B,5.8,97,Apoyo psicosocial,No,Catalina Soto,926373322
+M-7049,20959572-7,Joaquín Muñoz Fuentes,2008-09-27,M,Concepción,3º A,5.8,89,Apoyo psicosocial,No,Javiera Rodríguez,937775571
+M-7050,20519396-9,Sofía Sepúlveda Muñoz,2012-05-06,F,Chiguayante,1º B,5.7,97,Ninguno,No,Martina Rojas,938809662
+M-7051,23916923-1,Isidora Díaz Díaz,2007-12-27,F,Talcahuano,2º B,5.3,90,Apoyo psicosocial,Discapacidad auditiva,Joaquín López,980192979
+M-7052,21147991-1,Emilia Pérez Espinoza,2012-10-12,F,Concepción,1º A,5.0,100,Ninguno,No,Catalina López,928509276
+M-7053,22130417-5,Emilia Muñoz Muñoz,2011-12-21,F,Tomé,2º A,6.7,85,Retención escolar,No,Josefa Muñoz,937771614
+M-7054,22999722-6,Lucas Pérez Hernández,2007-07-27,M,Concepción,1º B,5.7,92,Ninguno,Trastorno del lenguaje,Isidora Muñoz,941044369
+M-7055,23097527-8,Isidora Rojas Vega,2009-08-28,F,Concepción,3º B,6.3,100,Ninguno,No,Benjamín Rodríguez,955225473
+M-7056,20090070-5,Benjamín Sepúlveda Espinoza,2007-02-12,M,Hualpén,3º C,5.5,94,Programa de integración (PIE),No,Isidora Hernández,942157955
+M-7057,20466187-K,Gabriel Rojas Hernández,2007-11-19,M,Coronel,3º A,4.6,99,Ninguno,No,Benjamín Silva,948663493
+M-7058,21882355-3,Agustín Muñoz Morales,2007-03-09,M,Hualpén,2º B,6.1,100,Retención escolar,No,Vicente González,951262804
+M-7059,22216463-6,Vicente Muñoz Vega,2007-02-19,M,Concepción,2º A,4.1,100,Programa de integración (PIE),No,Sofía Morales,985668700
+M-7060,23043476-5,Vicente Silva Rojas,2008-07-26,M,Coronel,1º B,5.5,75,Ninguno,Trastorno del lenguaje,Vicente Morales,950831592
+M-7061,24032884-9,Diego Espinoza Espinoza,2009-08-10,M,Talcahuano,1º A,5.8,79,Beca alimentación,No,Agustín Vega,919027775
+M-7062,22667920-7,Gabriel Araya Vega,2008-11-01,M,Talcahuano,4º C,5.9,100,Ninguno,No,Joaquín Contreras,917549810
+M-7063,20886746-4,Joaquín Rodríguez Sepúlveda,2007-12-17,M,San Pedro de la Paz,4º B,7.0,79,Beca alimentación,No,Benjamín Muñoz,946060460
+M-7064,21823865-0,Martín Vega González,2012-10-11,M,San Pedro de la Paz,3º B,6.8,84,Apoyo psicosocial,No,Antonia Fuentes,983497687
+M-7065,24494962-7,Amanda Morales Araya,2010-06-23,F,Concepción,2º C,6.9,88,Ninguno,Discapacidad auditiva,Matías Sepúlveda,959286171
+M-7066,21953033-9,Florencia Soto Espinoza,2008-06-21,F,Talcahuano,4º C,4.6,85,Apoyo psicosocial,No,Martina Hernández,981214357
+M-7067,22717623-3,Javiera González López,2009-02-27,F,Concepción,4º C,5.2,87,Ninguno,No,Matías Vega,958476030
+M-7068,21919337-5,Isidora Hernández Hernández,2010-01-26,F,Concepción,1º C,5.2,90,Beca alimentación,No,Joaquín Fuentes,997741532
+M-7069,22844734-6,Gabriel Sepúlveda Araya,2009-01-27,M,Coronel,1º A,5.6,100,Beca alimentación,No,Joaquín Torres,994658164
+M-7070,24221714-9,Florencia Morales Contreras,2008-09-15,F,Talcahuano,2º C,6.0,100,Programa de integración (PIE),No,Agustín Araya,968036618
+M-7071,23741344-5,Martín Martínez Rojas,2010-09-09,M,Hualpén,3º C,4.4,83,Programa de integración (PIE),No,Javiera Pérez,946567936
+M-7072,21593349-8,Vicente Vega López,2010-11-10,M,San Pedro de la Paz,1º C,6.6,85,Programa de integración (PIE),No,Antonia Espinoza,996155388
+M-7073,21748942-0,Benjamín Fuentes Silva,2011-10-12,M,Talcahuano,4º A,6.0,97,Ninguno,No,Emilia Fuentes,921161960
+M-7074,20694759-2,Javiera Flores Rodríguez,2012-12-22,F,Hualpén,4º A,5.1,91,Ninguno,No,Javiera Araya,954653234
+M-7075,24450723-3,Antonia Hernández Soto,2011-03-23,F,Concepción,2º A,6.5,100,Ninguno,No,Catalina Espinoza,979863200
+M-7076,24120194-K,Diego Rojas Díaz,2011-03-16,M,Concepción,2º A,5.4,84,Ninguno,No,Tomás Torres,985866041
+M-7077,23053497-2,Javiera Sepúlveda Pérez,2010-04-14,F,Talcahuano,2º A,6.7,78,Beca alimentación,TDAH,Vicente Díaz,986441177
+M-7078,24110127-9,Tomás Silva Martínez,2010-09-06,M,Chiguayante,1º A,4.8,73,Ninguno,No,Vicente Flores,929351472
+M-7079,22917821-7,Benjamín López Contreras,2009-10-01,M,Hualpén,3º B,6.6,86,Programa de integración (PIE),No,Antonia Sepúlveda,980897790
+M-7080,21506165-2,Sofía Pérez Silva,2011-12-26,F,San Pedro de la Paz,1º C,5.1,100,Ninguno,No,Emilia Araya,992744558
+M-7081,20433500-K,Joaquín Muñoz Fuentes,2012-04-13,M,Coronel,1º B,5.9,93,Retención escolar,No,Lucas Martínez,983324199
+M-7082,24199608-K,Vicente Muñoz Araya,2008-01-26,M,San Pedro de la Paz,2º C,4.8,78,Apoyo psicosocial,No,Amanda Pérez,971913062
+M-7083,21665820-2,Joaquín Martínez Vega,2008-09-13,M,Concepción,3º B,6.1,91,Programa de integración (PIE),No,Matías Muñoz,989747207
+M-7084,22236099-0,Tomás Flores Hernández,2008-10-11,M,San Pedro de la Paz,3º B,4.8,99,Programa de integración (PIE),No,Lucas Díaz,990247249
+M-7085,22866267-0,Matías Rojas Soto,2011-03-24,M,Concepción,4º A,4.6,100,Ninguno,No,Vicente González,937857771
+M-7086,23737461-K,Florencia Fuentes Flores,2010-05-04,F,Concepción,1º A,5.2,79,Ninguno,No,Martín López,994224925
+M-7087,23065637-7,Florencia Díaz Hernández,2010-01-26,F,Hualpén,4º B,5.0,77,Ninguno,No,Vicente Díaz,947875467
+M-7088,21210472-5,Emilia Díaz Soto,2012-10-18,F,Talcahuano,2º C,5.2,84,Programa de integración (PIE),No,Agustín Fuentes,970670510
+M-7089,22975149-9,Josefa Espinoza Silva,2007-11-11,F,Penco,2º C,6.4,87,Programa de integración (PIE),No,Vicente Vega,988643112
+M-7090,23501144-7,Martina Vega Soto,2011-03-23,F,Hualpén,3º B,6.5,92,Ninguno,No,Josefa Contreras,980388616
+M-7091,22463860-0,Matías González Hernández,2010-04-21,M,Concepción,3º C,5.6,79,Retención escolar,No,Matías Muñoz,951572381
+M-7092,24312908-1,Lucas Vega Sepúlveda,2007-02-09,M,Tomé,1º A,4.4,98,Programa de integración (PIE),No,Joaquín González,919600082
+M-7093,23017509-3,Matías Flores Espinoza,2008-11-10,M,Talcahuano,3º A,4.9,74,Ninguno,No,Javiera Díaz,913632954
+M-7094,23714928-4,Tomás Morales Morales,2008-01-08,M,Coronel,1º A,4.9,74,Retención escolar,Discapacidad visual,Tomás Silva,915561224
+M-7095,20118358-6,Gabriel Vega Pérez,2012-03-12,M,Hualpén,1º A,6.4,82,Programa de integración (PIE),No,Lucas Silva,911967498
+M-7096,24377154-9,Matías Rojas Díaz,2010-02-01,M,Concepción,4º B,5.2,86,Programa de integración (PIE),No,Javiera Vega,983830836
+M-7097,23117378-7,Diego Martínez Fuentes,2009-03-28,M,Hualpén,2º A,4.8,100,Ninguno,No,Martina Hernández,933240331
+M-7098,20299017-5,Josefa Espinoza González,2007-01-12,F,Concepción,2º B,5.7,97,Ninguno,No,Joaquín Flores,978439664
+M-7099,20745237-6,Benjamín Morales Martínez,2008-02-09,M,Tomé,3º A,6.0,100,Programa de integración (PIE),No,Sofía Hernández,983597373
+M-7100,21828803-8,Sofía Rojas Torres,2007-07-09,F,Talcahuano,1º A,5.8,95,Beca alimentación,No,Joaquín Rojas,939017661
+M-7101,20514778-9,Josefa Rojas Contreras,2010-04-24,F,Chiguayante,2º A,5.4,88,Ninguno,TDAH,Tomás Sepúlveda,913569071
+M-7102,24049445-5,Matías Flores Flores,2007-02-11,M,Hualpén,2º A,5.4,93,Ninguno,No,Catalina Díaz,981439572
+M-7103,20573881-7,Matías Díaz Soto,2007-03-08,M,Talcahuano,4º B,6.4,99,Retención escolar,No,Javiera González,960585515
+M-7104,24065461-4,Antonia Silva Vega,2010-10-18,F,Coronel,1º B,4.7,79,Beca alimentación,No,Tomás Fuentes,915214761
+M-7105,22241150-1,Diego Contreras Vega,2010-09-28,M,San Pedro de la Paz,2º A,5.5,83,Ninguno,No,Lucas González,974284498
+M-7106,23599816-0,Agustín Soto Contreras,2012-11-25,M,Coronel,2º C,4.9,77,Retención escolar,No,Antonia Díaz,934865677
+M-7107,22740614-K,Catalina Pérez Fuentes,2011-01-12,F,Chiguayante,3º A,5.1,88,Ninguno,No,Javiera Contreras,920514989
+M-7108,21359099-2,Javiera Fuentes Fuentes,2010-07-11,F,San Pedro de la Paz,1º A,4.1,97,Apoyo psicosocial,No,Gabriel Morales,953082867
+M-7109,21023856-2,Benjamín Pérez Sepúlveda,2012-05-17,M,Tomé,3º A,5.7,89,Apoyo psicosocial,No,Diego Pérez,981713542
+M-7110,21052395-K,Joaquín Soto Flores,2010-11-09,M,Coronel,4º A,4.8,80,Ninguno,No,Emilia Díaz,977988682
+M-7111,23063903-0,Antonia Vega González,2010-09-23,F,Concepción,1º B,5.6,93,Apoyo psicosocial,No,Emilia Torres,932940169
+M-7112,22098076-2,Agustín Flores Díaz,2008-01-26,M,Coronel,2º C,6.0,87,Programa de integración (PIE),No,Javiera Hernández,941140219
+M-7113,20757724-1,Joaquín López Soto,2010-08-13,M,Hualpén,4º A,6.4,100,Beca alimentación,No,Josefa Rodríguez,987840820
+M-7114,22129051-4,Martín Sepúlveda Sepúlveda,2008-03-08,M,Talcahuano,3º B,5.6,74,Ninguno,No,Isidora Díaz,963260337
+M-7115,23954591-8,Josefa Sepúlveda Contreras,2009-09-03,F,Concepción,3º C,5.4,91,Ninguno,No,Martina Pérez,915583564
+M-7116,23210557-2,Diego Torres Rojas,2011-12-17,M,Talcahuano,3º C,4.8,90,Programa de integración (PIE),No,Lucas Hernández,931945656
+M-7117,21347666-9,Amanda Rojas Rojas,2007-09-16,F,Chiguayante,4º B,4.4,64,Programa de integración (PIE),Trastorno del lenguaje,Lucas Hernández,946481602
+M-7118,21215814-0,Catalina Hernández Morales,2008-11-06,F,Hualpén,4º B,5.7,93,Ninguno,No,Diego Rodríguez,946354191
+M-7119,24004688-6,Catalina Rojas Soto,2011-12-22,F,Talcahuano,3º A,6.2,90,Ninguno,No,Joaquín González,998453604
+M-7120,20818012-4,Antonia Sepúlveda López,2009-11-20,F,Penco,3º A,5.6,100,Ninguno,No,Tomás Muñoz,949437025
+M-7121,22412720-7,Lucas Torres Díaz,2007-05-27,M,San Pedro de la Paz,1º C,5.6,88,Ninguno,No,Catalina Flores,988531117
+M-7122,21255348-1,Isidora Soto Rojas,2009-12-02,F,San Pedro de la Paz,2º A,5.6,100,Retención escolar,No,Benjamín Muñoz,920837737
+M-7123,23182254-8,Agustín Sepúlveda López,2010-07-27,M,Tomé,1º A,6.2,96,Apoyo psicosocial,TDAH,Joaquín Espinoza,983043134
+M-7124,23278431-3,Antonia Espinoza Fuentes,2007-08-18,F,Hualpén,1º C,5.6,88,Beca alimentación,Discapacidad visual,Gabriel Torres,949237450
+M-7125,21248777-2,Florencia Muñoz Sepúlveda,2011-01-05,F,Tomé,2º C,5.4,100,Programa de integración (PIE),No,Diego Silva,973087518
+M-7126,20837529-4,Matías Fuentes Sepúlveda,2007-09-17,M,Hualpén,2º C,4.4,78,Ninguno,No,Sofía López,970702128
+M-7127,21999185-9,Martín Contreras Díaz,2010-10-16,M,Hualpén,4º C,6.6,95,Ninguno,No,Sofía Rojas,942163720
+M-7128,22949285-K,Florencia Soto López,2012-08-27,F,Talcahuano,3º C,4.3,96,Beca alimentación,No,Martín Vega,961657425
+M-7129,22446585-4,Javiera Contreras Araya,2011-04-14,F,Concepción,4º B,6.2,100,Apoyo psicosocial,No,Joaquín Espinoza,910419929
+M-7130,22719509-2,Gabriel Hernández Pérez,2010-12-24,M,Concepción,4º C,5.2,92,Ninguno,TDAH,Florencia Díaz,962184033
+M-7131,23973823-6,Martín Espinoza Rodríguez,2008-01-13,M,Concepción,2º A,5.1,83,Beca alimentación,No,Martina Díaz,951144563
+M-7132,22474097-9,Florencia Martínez Espinoza,2008-04-05,F,Hualpén,2º C,5.7,68,Ninguno,No,Emilia Contreras,926117518
+M-7133,21922891-8,Benjamín López Hernández,2012-07-26,M,Penco,3º C,4.2,91,Apoyo psicosocial,No,Agustín Fuentes,944082776
+M-7134,21244624-3,Isidora Silva Espinoza,2012-10-13,F,Concepción,4º B,5.4,90,Ninguno,No,Antonia Flores,934709894
+M-7135,21619382-K,Isidora Rojas Araya,2008-09-03,F,Talcahuano,4º B,4.9,87,Apoyo psicosocial,No,Martina González,917926478
+M-7136,23322491-5,Agustín Pérez Silva,2009-01-08,M,Concepción,3º B,5.5,91,Ninguno,No,Sofía Silva,916822439
+M-7137,23632291-8,Gabriel Soto Morales,2009-11-05,M,Chiguayante,3º C,5.7,100,Beca alimentación,No,Amanda Soto,963150980
+M-7138,23575258-7,Vicente Sepúlveda Araya,2011-06-22,M,Concepción,2º C,6.7,79,Ninguno,No,Martina Silva,942084629
+M-7139,21287969-7,Javiera Torres Espinoza,2011-07-09,F,Talcahuano,2º A,6.1,93,Ninguno,Trastorno del lenguaje,Joaquín Flores,931882737
+M-7140,21337813-6,Josefa Torres Pérez,2012-09-10,F,Penco,2º A,4.7,99,Beca alimentación,No,Tomás Sepúlveda,999293437
+M-7141,23909949-7,Sofía Rojas Hernández,2012-03-09,F,Concepción,4º A,5.9,81,Ninguno,No,Tomás Fuentes,932910886
+M-7142,24043796-6,Matías Sepúlveda Sepúlveda,2012-09-04,M,Coronel,1º A,4.3,88,Ninguno,No,Diego Araya,949534251
+M-7143,23688754-0,Sofía Fuentes Silva,2011-05-19,F,San Pedro de la Paz,2º A,5.3,93,Beca alimentación,No,Antonia Martínez,993273466
+M-7144,20318582-9,Antonia Rodríguez Muñoz,2011-01-26,F,San Pedro de la Paz,2º B,5.3,80,Ninguno,No,Joaquín Flores,924101295
+M-7145,20829670-K,Lucas Sepúlveda Pérez,2010-11-19,M,Concepción,1º B,5.8,91,Ninguno,No,Benjamín Vega,966315963
+M-7146,24301313-K,Diego Soto Pérez,2009-05-14,M,Tomé,3º C,5.4,100,Ninguno,Trastorno del lenguaje,Florencia Soto,960525214
+M-7147,22508137-5,Sofía López Rodríguez,2007-10-09,F,Talcahuano,4º C,5.3,81,Programa de integración (PIE),No,Vicente Muñoz,916248800
+M-7148,21438418-0,Josefa Díaz Flores,2011-09-21,F,Talcahuano,4º B,5.5,89,Ninguno,No,Javiera Torres,968323202
+M-7149,22101713-3,Isidora Rojas Díaz,2012-01-06,F,Coronel,4º B,5.4,93,Beca alimentación,Trastorno del lenguaje,Martina Morales,994019379
+M-7150,21509656-1,Diego Hernández Espinoza,2011-04-04,M,Talcahuano,4º B,6.0,93,Programa de integración (PIE),No,Gabriel González,912148443
+M-7151,21265868-2,Martina Sepúlveda Hernández,2010-11-02,F,Talcahuano,3º B,5.6,95,Ninguno,No,Diego Morales,993866407
+M-7152,23949042-0,Lucas Silva Pérez,2009-03-25,M,Hualpén,3º A,6.5,100,Ninguno,No,Amanda Soto,997000237
+M-7153,22046685-6,Martina González Soto,2012-03-17,F,Coronel,4º C,5.1,92,Apoyo psicosocial,No,Amanda Morales,922213918
+M-7154,23157395-5,Martina Soto González,2010-03-17,F,Concepción,3º C,5.3,100,Ninguno,No,Tomás Fuentes,943355845
+M-7155,23665333-7,Tomás Hernández Pérez,2012-05-05,M,Penco,1º A,4.8,79,Retención escolar,No,Florencia Sepúlveda,932222975
+M-7156,21600824-0,Tomás Rodríguez Soto,2008-09-28,M,Chiguayante,3º B,5.9,83,Ninguno,Trastorno del lenguaje,Sofía Soto,933821980
+M-7157,20755353-9,Sofía Hernández Torres,2009-12-04,F,Coronel,4º A,6.3,82,Ninguno,No,Josefa Morales,946470595
+M-7158,21618801-K,Catalina Araya Araya,2011-07-15,F,Talcahuano,1º B,5.5,90,Apoyo psicosocial,Trastorno del lenguaje,Sofía Hernández,930436543
+M-7159,20296572-3,Diego Vega Espinoza,2010-10-06,M,San Pedro de la Paz,2º B,6.1,86,Beca alimentación,Trastorno del lenguaje,Javiera Rojas,993344906
+M-7160,21277793-2,Diego Díaz Morales,2008-04-05,M,San Pedro de la Paz,2º B,5.8,78,Apoyo psicosocial,No,Florencia Martínez,939747191
+M-7161,22621382-8,Benjamín Muñoz Rojas,2011-10-12,M,San Pedro de la Paz,1º C,6.5,88,Beca alimentación,No,Joaquín Araya,993064319
+M-7162,22639047-9,Benjamín Vega Araya,2009-02-03,M,Chiguayante,3º B,5.0,100,Beca alimentación,No,Catalina Sepúlveda,975195494
+M-7163,24376476-3,Lucas Vega Muñoz,2012-12-23,M,Coronel,4º B,6.8,80,Retención escolar,No,Agustín Díaz,982494776
+M-7164,23947783-1,Martina Rodríguez Morales,2012-09-10,F,Coronel,3º B,5.7,92,Beca alimentación,No,Antonia Araya,915852826
+M-7165,22828920-1,Agustín Rodríguez Vega,2007-09-11,M,Chiguayante,4º B,4.5,85,Ninguno,No,Martín Rodríguez,935992586
+M-7166,24207850-5,Catalina Soto López,2007-03-01,F,Concepción,1º A,5.8,83,Programa de integración (PIE),No,Tomás Muñoz,980268878
+M-7167,22056407-6,Javiera Torres Rodríguez,2009-08-22,F,Concepción,3º C,6.6,76,Ninguno,No,Vicente Espinoza,965183734
+M-7168,20142907-0,Joaquín Soto Muñoz,2010-06-20,M,Chiguayante,2º A,5.8,98,Retención escolar,No,Matías Morales,958192508
+M-7169,22285650-3,Josefa Flores González,2009-11-12,F,Tomé,4º C,5.6,91,Ninguno,No,Joaquín Fuentes,988976253
+M-7170,21838325-1,Benjamín Muñoz Díaz,2007-11-18,M,Talcahuano,4º A,6.2,85,Apoyo psicosocial,No,Martín Fuentes,930465251
+M-7171,24199618-7,Martina González Silva,2010-03-27,F,Coronel,1º C,6.1,73,Beca alimentación,No,Martina Torres,946363577
+M-7172,22951759-3,Benjamín Martínez Torres,2010-12-11,M,Concepción,3º A,5.3,100,Apoyo psicosocial,No,Martina Vega,970667914
+M-7173,22053841-5,Diego Soto Contreras,2008-11-24,M,Talcahuano,2º B,5.6,78,Beca alimentación,No,Diego Torres,951866895
+M-7174,24071406-4,Catalina Sepúlveda Morales,2007-04-22,F,Concepción,1º B,5.6,94,Ninguno,No,Emilia Martínez,967857731
+M-7175,21386248-8,Martina Rojas Soto,2010-10-14,F,San Pedro de la Paz,1º C,6.5,81,Ninguno,No,Benjamín Morales,976982044
+M-7176,24380088-3,Javiera Vega Silva,2012-05-04,F,Talcahuano,4º C,7.0,90,Ninguno,Trastorno del lenguaje,Antonia Fuentes,971426195
+M-7177,23612751-1,Javiera Fuentes Vega,2010-04-22,F,Penco,4º B,5.1,99,Beca alimentación,No,Vicente Rodríguez,997292472
+M-7178,22479018-6,Gabriel Araya Araya,2010-02-21,M,Talcahuano,1º C,6.3,79,Programa de integración (PIE),No,Martina Díaz,988359613
+M-7179,22460564-8,Catalina Martínez Rojas,2011-02-22,F,San Pedro de la Paz,1º C,5.2,92,Beca alimentación,No,Josefa Flores,965378207
+M-7180,21172335-9,Antonia Muñoz Rodríguez,2007-01-04,F,Talcahuano,3º B,5.7,91,Beca alimentación,No,Catalina Díaz,993081517
+M-7181,23083662-6,Amanda Espinoza Fuentes,2008-01-08,F,Concepción,2º C,6.2,93,Retención escolar,No,Javiera Muñoz,937123567
+M-7182,23505587-8,Sofía Hernández Soto,2010-01-08,F,Penco,1º A,6.5,81,Programa de integración (PIE),No,Matías Rojas,920364528
+M-7183,20859851-K,Isidora Pérez Contreras,2011-01-19,F,Chiguayante,4º A,5.7,81,Ninguno,No,Sofía Flores,969958302
+M-7184,23962763-9,Matías López Soto,2010-11-01,M,Concepción,1º A,5.1,81,Ninguno,No,Martín Muñoz,969673874
+M-7185,22422045-2,Antonia Rojas Soto,2011-08-27,F,Penco,3º C,5.3,95,Retención escolar,No,Diego Pérez,929372088
+M-7186,22783423-0,Catalina Soto Vega,2010-10-28,F,Concepción,1º A,5.0,82,Programa de integración (PIE),No,Martina Soto,957179784
+M-7187,24239316-8,Josefa Flores Rojas,2012-09-02,F,Concepción,1º C,5.2,94,Beca alimentación,No,Tomás Díaz,920432611
+M-7188,20074276-K,Diego Vega Soto,2011-03-14,M,Chiguayante,4º C,4.5,100,Beca alimentación,No,Isidora Pérez,938169734
+M-7189,20496643-3,Emilia Martínez Silva,2007-09-06,F,Penco,2º B,4.4,87,Ninguno,No,Tomás Hernández,993905369
+M-7190,23310532-0,Benjamín Espinoza Fuentes,2008-05-10,M,Concepción,3º B,6.4,74,Ninguno,No,Martina Fuentes,919277594
+M-7191,23373984-2,Agustín Muñoz Morales,2007-03-11,M,San Pedro de la Paz,3º C,6.9,94,Ninguno,No,Javiera Soto,990661319
+M-7192,20339353-7,Lucas Pérez Sepúlveda,2009-07-05,M,Concepción,3º B,5.0,98,Apoyo psicosocial,TDAH,Martina Rodríguez,995739149
+M-7193,21300038-9,Sofía López Díaz,2007-07-21,F,Chiguayante,4º C,5.2,84,Beca alimentación,No,Matías López,923178270
+M-7194,23008601-5,Vicente Morales Torres,2012-06-04,M,Concepción,4º B,5.4,89,Programa de integración (PIE),Discapacidad auditiva,Lucas Fuentes,990734710
+M-7195,24429920-7,Amanda Silva López,2009-06-11,F,Tomé,3º B,5.5,69,Retención escolar,No,Diego González,911870171
+M-7196,23521194-2,Antonia Torres Torres,2007-10-28,F,Concepción,3º A,4.4,77,Ninguno,No,Martín Fuentes,926476750
+M-7197,21362523-0,Sofía Martínez López,2012-01-01,F,San Pedro de la Paz,3º A,5.8,100,Ninguno,No,Amanda Morales,967413645
+M-7198,20744354-7,Joaquín Soto Contreras,2007-06-01,M,Hualpén,1º A,5.1,73,Programa de integración (PIE),No,Amanda Sepúlveda,951372912
+M-7199,23225752-6,Gabriel Rodríguez Torres,2012-09-06,M,Hualpén,2º A,5.1,95,Beca alimentación,No,Isidora Muñoz,941814699
+M-7200,23006001-6,Emilia Silva Muñoz,2012-11-15,F,Tomé,1º A,4.6,100,Ninguno,Trastorno del lenguaje,Javiera Sepúlveda,926265495
+M-7201,21998412-7,Tomás Espinoza Sepúlveda,2008-06-10,M,Penco,2º A,5.8,100,Apoyo psicosocial,No,Gabriel Hernández,950655111
+M-7202,21993944-K,Benjamín Silva Espinoza,2012-08-15,M,San Pedro de la Paz,1º C,6.1,100,Beca alimentación,No,Benjamín Vega,913670574
+M-7203,24484309-8,Gabriel Silva Hernández,2009-06-12,M,Hualpén,4º B,4.8,91,Beca alimentación,No,Isidora López,925593428
+M-7204,21205296-2,Emilia Vega Contreras,2011-01-08,F,Talcahuano,4º A,5.9,81,Programa de integración (PIE),No,Florencia Muñoz,993341575
+M-7205,23879147-8,Joaquín Muñoz López,2009-09-19,M,Chiguayante,2º A,4.8,82,Ninguno,No,Diego Muñoz,956051284
+M-7206,21975432-6,Benjamín Sepúlveda Contreras,2009-06-24,M,San Pedro de la Paz,2º C,6.1,100,Ninguno,No,Florencia Fuentes,931800093
+M-7207,23722255-0,Javiera Silva Espinoza,2008-05-18,F,Talcahuano,3º C,5.0,67,Apoyo psicosocial,No,Emilia Fuentes,943426172
+M-7208,20564796-K,Benjamín Sepúlveda Soto,2012-03-01,M,Tomé,1º C,4.6,94,Beca alimentación,No,Vicente Hernández,947679085
+M-7209,24280563-6,Benjamín Pérez Sepúlveda,2007-08-01,M,Penco,4º C,6.8,95,Programa de integración (PIE),No,Javiera Torres,957859011
+M-7210,20721774-1,Gabriel Martínez Rodríguez,2009-05-02,M,Penco,2º A,4.3,78,Beca alimentación,No,Benjamín Rodríguez,915219523
+M-7211,20075693-0,Catalina Espinoza Pérez,2010-05-10,F,Talcahuano,3º C,5.7,97,Apoyo psicosocial,No,Josefa López,972847828
+M-7212,20770010-8,Lucas Araya Araya,2010-09-10,M,Tomé,3º A,5.9,99,Ninguno,No,Antonia Martínez,922130029
+M-7213,22884122-2,Emilia Fuentes Muñoz,2010-12-15,F,Chiguayante,4º B,4.7,84,Ninguno,No,Benjamín Martínez,938722662
+M-7214,21521535-8,Vicente Muñoz Morales,2012-01-02,M,Talcahuano,3º C,6.0,95,Ninguno,Discapacidad auditiva,Antonia Torres,926476015
+M-7215,23741058-6,Benjamín Araya Flores,2012-06-09,M,Talcahuano,2º A,4.9,80,Beca alimentación,No,Emilia Araya,921500168
+M-7216,23186328-7,Martín Díaz Hernández,2008-03-08,M,Tomé,4º C,4.9,88,Beca alimentación,No,Martín Hernández,987346243
+M-7217,22249934-4,Sofía Fuentes Pérez,2007-07-20,F,Hualpén,4º A,4.5,99,Apoyo psicosocial,TDAH,Tomás Morales,916373847
+M-7218,21424078-2,Diego Silva Vega,2007-09-03,M,Talcahuano,4º B,5.1,88,Apoyo psicosocial,No,Tomás Araya,999725809
+M-7219,20523466-5,Lucas Espinoza Fuentes,2010-02-23,M,Talcahuano,2º C,4.5,88,Programa de integración (PIE),TDAH,Joaquín Flores,963579968
+M-7220,20433157-8,Josefa Morales Martínez,2011-07-25,F,Hualpén,2º B,5.5,84,Ninguno,No,Tomás Pérez,975451135
+M-7221,21152578-6,Tomás Martínez Díaz,2012-05-23,M,San Pedro de la Paz,1º B,4.8,84,Ninguno,No,Benjamín Soto,956654320
+M-7222,20731966-8,Isidora Pérez Flores,2010-09-06,F,Concepción,3º A,4.3,100,Programa de integración (PIE),No,Tomás Torres,941346183
+M-7223,21087402-7,Vicente Vega Soto,2010-11-19,M,Concepción,2º B,4.8,100,Beca alimentación,Discapacidad auditiva,Martín Espinoza,962080489
+M-7224,20493855-3,Gabriel Flores Rodríguez,2010-08-08,M,Penco,3º B,5.0,87,Ninguno,No,Benjamín Contreras,971319242
+M-7225,23675419-2,Joaquín Contreras Muñoz,2012-08-26,M,San Pedro de la Paz,1º C,4.6,93,Beca alimentación,Trastorno del lenguaje,Joaquín Hernández,999650706
+M-7226,23817515-7,Amanda Torres Vega,2012-09-22,F,Hualpén,4º C,7.0,100,Ninguno,No,Benjamín Espinoza,942005485
+M-7227,23649465-4,Catalina Vega Silva,2012-01-28,F,Hualpén,4º B,5.5,87,Beca alimentación,No,Javiera Vega,969917534
+M-7228,20433553-0,Javiera Soto Vega,2010-06-12,F,Coronel,1º C,5.3,100,Beca alimentación,No,Amanda Sepúlveda,926947033
+M-7229,21874264-2,Lucas Rodríguez Flores,2008-10-04,M,San Pedro de la Paz,2º B,4.9,92,Beca alimentación,No,Josefa Martínez,989434828
+M-7230,23642357-9,Javiera Flores Sepúlveda,2009-07-09,F,Talcahuano,4º C,4.4,77,Beca alimentación,No,Joaquín González,925880937
+M-7231,24483466-8,Antonia Hernández Vega,2011-05-26,F,Concepción,3º C,6.1,100,Beca alimentación,No,Sofía Sepúlveda,972205012
+M-7232,23727283-3,Matías Araya González,2010-04-11,M,Chiguayante,1º C,6.3,93,Apoyo psicosocial,No,Isidora Fuentes,989824659
+M-7233,23844783-1,Martín Rodríguez Hernández,2009-02-03,M,Talcahuano,4º C,5.4,94,Beca alimentación,Discapacidad auditiva,Sofía Flores,918366036
+M-7234,23366607-1,Emilia Espinoza Pérez,2008-07-16,F,Penco,3º B,5.4,85,Programa de integración (PIE),No,Joaquín Espinoza,955502917
+M-7235,24373836-3,Agustín Vega Contreras,2011-03-07,M,Penco,3º A,4.1,93,Beca alimentación,No,Emilia Vega,963842900
+M-7236,21502657-1,Amanda Torres Vega,2012-05-03,F,Chiguayante,3º C,5.7,91,Beca alimentación,TDAH,Sofía Rojas,960476403
+M-7237,20355527-8,Lucas Martínez Espinoza,2010-07-02,M,Hualpén,3º A,5.9,92,Ninguno,No,Amanda Torres,928893173
+M-7238,22716330-1,Isidora Espinoza González,2008-10-24,F,Coronel,3º C,4.5,88,Ninguno,No,Matías Soto,925403905
+M-7239,21663442-7,Gabriel Morales Silva,2008-10-06,M,Tomé,3º A,6.2,83,Ninguno,Discapacidad visual,Tomás Vega,927512604
+M-7240,21462134-4,Benjamín Hernández Soto,2007-09-27,M,Hualpén,4º C,4.4,90,Apoyo psicosocial,Trastorno del lenguaje,Martina Díaz,986258598
+M-7241,21145105-7,Gabriel Soto Espinoza,2010-07-22,M,Penco,3º B,5.4,100,Apoyo psicosocial,Trastorno del lenguaje,Benjamín Morales,917360829
+M-7242,24379366-6,Florencia Pérez Rojas,2007-10-27,F,Hualpén,2º B,5.2,95,Retención escolar,No,Isidora Díaz,962423150
+M-7243,23908925-4,Benjamín Fuentes Flores,2011-07-19,M,Concepción,4º A,5.4,95,Retención escolar,No,Matías Soto,958813902
+M-7244,22058590-1,Antonia Rodríguez Pérez,2008-01-08,F,Talcahuano,2º A,6.2,73,Ninguno,No,Amanda Silva,931979259
+M-7245,23610542-9,Lucas Soto Hernández,2010-10-11,M,Talcahuano,2º B,6.3,87,Programa de integración (PIE),No,Martín Flores,942650761
+M-7246,23839712-5,Emilia Hernández Espinoza,2009-08-12,F,Concepción,2º C,5.0,98,Beca alimentación,No,Catalina Torres,932910418
+M-7247,20465473-3,Agustín Vega López,2007-09-14,M,Coronel,2º A,5.5,88,Retención escolar,TDAH,Matías Contreras,929777704
+M-7248,20537300-2,Matías Rojas Torres,2010-10-20,M,Chiguayante,3º A,5.9,94,Apoyo psicosocial,No,Emilia López,959466375
+M-7249,21988254-5,Antonia Díaz Araya,2012-10-18,F,Hualpén,3º C,6.6,99,Ninguno,No,Amanda Díaz,922602676
+M-7250,20939972-3,Vicente Díaz Morales,2007-12-03,M,Concepción,3º C,6.1,89,Ninguno,No,Martín Espinoza,993173875
+M-7251,20897828-2,Sofía López González,2010-09-19,F,Concepción,4º C,6.0,83,Programa de integración (PIE),No,Joaquín Martínez,936950264
+M-7252,23555131-K,Lucas Hernández Silva,2012-07-02,M,Coronel,3º A,5.4,95,Retención escolar,No,Emilia Contreras,988833401
+M-7253,21942383-4,Javiera Morales Araya,2010-02-13,F,Chiguayante,4º A,4.5,89,Ninguno,No,Javiera Morales,978796867
+M-7254,22581660-K,Amanda Silva Silva,2010-09-06,F,Hualpén,4º B,4.3,100,Ninguno,No,Tomás Rojas,981213682
+M-7255,23866096-9,Amanda Hernández López,2007-02-09,F,San Pedro de la Paz,4º B,5.4,90,Ninguno,No,Josefa Silva,996460967
+M-7256,21200471-2,Catalina Pérez Araya,2009-04-01,F,Tomé,2º B,5.4,86,Retención escolar,No,Javiera Sepúlveda,928419921
+M-7257,21031540-0,Catalina González Pérez,2010-10-16,F,Talcahuano,2º A,4.6,93,Ninguno,No,Martín Espinoza,913659229
+M-7258,22939958-2,Benjamín Contreras Rodríguez,2007-12-20,M,Concepción,1º B,6.3,89,Apoyo psicosocial,TDAH,Josefa Hernández,937364722
+M-7259,20360485-6,Javiera Espinoza Contreras,2007-11-12,F,Talcahuano,3º C,6.3,72,Ninguno,No,Benjamín Fuentes,984173487
+M-7260,22580046-0,Amanda Díaz Fuentes,2008-07-22,F,Chiguayante,1º C,6.1,100,Programa de integración (PIE),No,Catalina González,962127675
+M-7261,24245677-1,Isidora Rodríguez Soto,2010-03-05,F,Penco,2º C,5.6,89,Ninguno,No,Diego Muñoz,916746156
+M-7262,23553068-1,Josefa Muñoz Morales,2010-06-03,F,Hualpén,3º A,5.4,75,Ninguno,Discapacidad auditiva,Gabriel Vega,946838155
+M-7263,23620875-9,Agustín Fuentes Vega,2008-06-15,M,Chiguayante,4º A,6.2,85,Apoyo psicosocial,No,Javiera Soto,942729899
+M-7264,21218192-4,Florencia Contreras González,2007-01-18,F,Chiguayante,3º C,4.9,86,Ninguno,No,Isidora Soto,959579705
+M-7265,20688801-4,Josefa Sepúlveda Contreras,2009-09-24,F,Penco,3º C,5.3,95,Apoyo psicosocial,No,Florencia Rojas,949849748
+M-7266,24148109-8,Sofía González Vega,2009-12-03,F,Concepción,1º C,6.0,95,Apoyo psicosocial,No,Agustín Flores,917371634
+M-7267,22855190-9,Agustín Espinoza Contreras,2012-03-01,M,Talcahuano,2º C,6.2,69,Ninguno,Trastorno del lenguaje,Isidora Martínez,916273877
+M-7268,22174945-2,Tomás Fuentes Araya,2009-08-10,M,Talcahuano,1º B,5.2,81,Beca alimentación,No,Matías Espinoza,951485293
+M-7269,22899160-7,Sofía Díaz Rodríguez,2009-01-09,F,Penco,1º C,6.5,86,Ninguno,No,Vicente Soto,941642931
+M-7270,21070895-K,Antonia Espinoza Hernández,2007-01-05,F,Chiguayante,1º B,4.5,100,Ninguno,No,Antonia González,982905408
+M-7271,24439540-0,Agustín Espinoza Rojas,2009-11-23,M,Concepción,2º B,4.3,90,Ninguno,No,Javiera Fuentes,966811264
+M-7272,22993354-6,Catalina Contreras Pérez,2007-04-03,F,Talcahuano,1º A,4.9,88,Retención escolar,No,Diego Vega,947583017
+M-7273,21919898-9,Benjamín Rojas Espinoza,2011-08-24,M,Concepción,1º B,6.8,88,Apoyo psicosocial,No,Sofía Flores,957288603
+M-7274,22600085-9,Florencia Muñoz Hernández,2010-02-12,F,Concepción,3º B,4.3,82,Ninguno,No,Joaquín Fuentes,950399287
+M-7275,20527613-9,Catalina Rodríguez Contreras,2012-07-28,F,Hualpén,1º A,5.9,98,Apoyo psicosocial,No,Agustín Flores,974388070
+M-7276,21897278-8,Matías Espinoza González,2010-11-17,M,Concepción,2º A,5.7,93,Ninguno,No,Benjamín Fuentes,953214187
+M-7277,20365235-4,Martina Silva Silva,2012-06-07,F,Talcahuano,4º A,5.9,87,Ninguno,Trastorno del lenguaje,Tomás Rojas,970187321
+M-7278,23563454-1,Martina Araya Soto,2007-11-09,F,Talcahuano,1º A,4.6,70,Programa de integración (PIE),No,Vicente Espinoza,912676328
+M-7279,21305986-3,Joaquín Muñoz Rojas,2011-12-27,M,Concepción,4º A,5.8,83,Retención escolar,No,Martina Díaz,910423702
+M-7280,20285196-5,Tomás Fuentes Soto,2010-10-07,M,Penco,1º C,6.0,89,Ninguno,No,Catalina Espinoza,960162710
+M-7281,21569785-9,Catalina Martínez Hernández,2009-08-02,F,Coronel,1º C,5.9,100,Programa de integración (PIE),Trastorno del lenguaje,Emilia Flores,928026144
+M-7282,20402698-8,Amanda Soto Vega,2007-09-24,F,San Pedro de la Paz,4º B,4.5,85,Ninguno,No,Amanda Vega,927802356
+M-7283,20547403-8,Emilia González Espinoza,2012-05-08,F,Chiguayante,3º A,5.5,89,Ninguno,No,Lucas Araya,965515569
+M-7284,21658770-4,Vicente Rodríguez Sepúlveda,2010-06-01,M,Chiguayante,4º A,5.5,88,Retención escolar,No,Agustín Torres,976161539
+M-7285,22097324-3,Diego Espinoza González,2008-12-13,M,Talcahuano,3º A,6.3,100,Ninguno,No,Martina González,926499179
+M-7286,23235969-8,Emilia Silva Silva,2011-07-05,F,Hualpén,2º B,5.6,83,Ninguno,No,Isidora Rodríguez,977453485
+M-7287,20619687-2,Lucas Muñoz González,2007-12-22,M,Chiguayante,4º B,5.9,90,Ninguno,No,Vicente Vega,911173678
+M-7288,22016655-0,Matías Espinoza Espinoza,2008-04-20,M,Hualpén,2º A,5.8,77,Beca alimentación,Discapacidad visual,Martín González,958305075
+M-7289,20956632-8,Benjamín Morales Contreras,2010-02-12,M,Hualpén,4º A,6.4,88,Retención escolar,No,Tomás Rojas,936950892
+M-7290,23238873-6,Martín Contreras Espinoza,2011-01-06,M,Talcahuano,1º B,5.5,76,Ninguno,TDAH,Tomás Espinoza,994886595
+M-7291,20669712-K,Gabriel González Flores,2007-04-11,M,Concepción,1º C,5.5,90,Ninguno,No,Agustín Torres,921145202
+M-7292,23850640-4,Martín Muñoz Sepúlveda,2008-03-24,M,Hualpén,3º C,6.4,88,Apoyo psicosocial,TDAH,Emilia Sepúlveda,969719917
+M-7293,20281036-3,Vicente Soto Hernández,2010-05-02,M,Penco,3º B,6.7,87,Ninguno,TDAH,Tomás Morales,966769535
+M-7294,21796073-5,Gabriel Torres Sepúlveda,2008-10-19,M,Hualpén,3º B,5.4,81,Beca alimentación,No,Diego Contreras,948472486
+M-7295,23907727-2,Lucas Sepúlveda Hernández,2011-11-16,M,Chiguayante,2º A,4.6,78,Ninguno,No,Tomás Sepúlveda,918934769
+M-7296,22658497-4,Vicente Hernández Espinoza,2009-05-03,M,San Pedro de la Paz,2º C,5.5,89,Apoyo psicosocial,No,Josefa Silva,966039899
+M-7297,21852593-5,Emilia Flores Rojas,2008-08-23,F,Coronel,4º C,6.6,88,Ninguno,No,Catalina Flores,951522059
+M-7298,24052193-2,Tomás Rodríguez González,2008-12-23,M,San Pedro de la Paz,3º B,5.6,100,Retención escolar,No,Amanda Soto,918244188
+M-7299,22637953-K,Emilia Vega Rojas,2010-05-14,F,Hualpén,1º A,5.2,92,Apoyo psicosocial,No,Sofía Muñoz,967592921
+M-7300,24308309-K,Lucas Espinoza Pérez,2007-04-19,M,Penco,4º B,5.1,86,Retención escolar,No,Catalina Fuentes,985235917
+M-7301,24342019-3,Agustín Muñoz Rojas,2008-01-07,M,Concepción,4º B,4.9,78,Programa de integración (PIE),No,Martín Torres,933544111
+M-7302,21148910-0,Matías Flores Fuentes,2010-09-09,M,Penco,1º C,6.0,100,Beca alimentación,No,Sofía Sepúlveda,993344243
+M-7303,23366356-0,Isidora Muñoz Flores,2012-02-10,F,Tomé,1º A,5.5,95,Apoyo psicosocial,No,Vicente Rojas,962167365
+M-7304,22065639-6,Tomás Pérez Torres,2012-10-04,M,Concepción,3º C,5.5,93,Retención escolar,No,Antonia Rojas,913785941
+M-7305,23632499-6,Agustín Contreras Hernández,2009-04-04,M,Penco,3º C,5.6,92,Apoyo psicosocial,No,Javiera Soto,946282702
+M-7306,22139421-2,Vicente Soto Pérez,2008-11-14,M,Concepción,4º A,5.6,77,Ninguno,No,Martín González,992461609
+M-7307,21786422-1,Joaquín Pérez Contreras,2008-06-16,M,Tomé,3º A,5.6,93,Ninguno,No,Emilia Rojas,948547127
+M-7308,21945040-8,Joaquín Soto González,2012-01-25,M,Penco,3º C,5.6,80,Programa de integración (PIE),No,Amanda Rojas,922306728
+M-7309,24246099-K,Diego Espinoza Martínez,2012-11-26,M,Talcahuano,3º C,6.1,96,Ninguno,No,Isidora Soto,922348866
+M-7310,21890273-9,Isidora Torres Contreras,2010-02-24,F,San Pedro de la Paz,3º C,5.1,100,Ninguno,No,Josefa Pérez,950513895
+M-7311,20848852-8,Vicente González Díaz,2010-02-22,M,Talcahuano,2º C,4.9,100,Ninguno,No,Diego Sepúlveda,990842451
+M-7312,22200476-0,Gabriel Silva Flores,2007-05-17,M,Concepción,3º C,5.7,81,Programa de integración (PIE),No,Martín González,978243268
+M-7313,20686287-2,Martín Araya Espinoza,2009-10-05,M,Concepción,4º B,4.3,89,Beca alimentación,No,Joaquín Soto,996544474
+M-7314,20504322-3,Martín Muñoz Morales,2007-03-08,M,Talcahuano,4º A,4.6,86,Beca alimentación,No,Benjamín Muñoz,963186278
+M-7315,24335933-8,Antonia Rodríguez Morales,2011-08-07,F,Penco,4º A,4.6,100,Programa de integración (PIE),No,Isidora Vega,911931144
+M-7316,22296798-4,Javiera Rodríguez Torres,2007-01-15,F,Chiguayante,2º A,6.0,96,Beca alimentación,No,Vicente Vega,973641447
+M-7317,23753915-5,Amanda Flores Rodríguez,2009-07-27,F,Talcahuano,2º C,5.3,89,Ninguno,No,Martina Sepúlveda,930068892
+M-7318,22426331-3,Agustín Sepúlveda Silva,2008-04-22,M,Penco,3º C,6.3,97,Ninguno,No,Gabriel Silva,928548790
+M-7319,20886597-6,Josefa Rodríguez Silva,2012-08-13,F,Concepción,2º A,5.0,79,Ninguno,Trastorno del lenguaje,Josefa Espinoza,985591664
+M-7320,22837332-6,Amanda Martínez Vega,2008-02-20,F,Talcahuano,2º A,6.1,88,Ninguno,No,Lucas Araya,919716172
+M-7321,23253492-9,Agustín Fuentes Díaz,2007-06-28,M,Talcahuano,1º C,5.8,88,Ninguno,No,Vicente Díaz,978050064
+M-7322,23877054-3,Matías Espinoza Muñoz,2011-09-07,M,Concepción,1º B,5.4,86,Ninguno,No,Antonia Sepúlveda,967709647
+M-7323,23424695-5,Gabriel Soto López,2012-06-28,M,Talcahuano,3º A,4.4,83,Beca alimentación,No,Diego Espinoza,990697305
+M-7324,20766373-3,Lucas Contreras Silva,2012-06-19,M,Talcahuano,2º A,4.8,95,Beca alimentación,No,Agustín Rojas,962994826
+M-7325,20888353-2,Javiera González González,2008-12-17,F,Concepción,2º B,5.7,95,Apoyo psicosocial,No,Benjamín Torres,930611282
+M-7326,21910259-0,Catalina Muñoz Torres,2007-02-24,F,Chiguayante,2º B,4.4,86,Programa de integración (PIE),No,Amanda López,952356333
+M-7327,21868018-3,Gabriel Martínez Contreras,2012-08-16,M,Talcahuano,3º A,5.8,100,Ninguno,No,Vicente Torres,974883089
+M-7328,20983477-2,Martín López Morales,2008-11-25,M,Talcahuano,3º C,6.0,94,Beca alimentación,No,Tomás González,972836812
+M-7329,23262661-0,Amanda Hernández Fuentes,2010-06-13,F,Tomé,2º C,4.3,100,Ninguno,No,Florencia Muñoz,941111869
+M-7330,22430678-0,Catalina Soto Vega,2007-09-15,F,Talcahuano,4º C,5.4,87,Retención escolar,No,Amanda López,926788922
+M-7331,21109773-3,Joaquín Morales Torres,2011-06-03,M,San Pedro de la Paz,3º B,5.5,93,Ninguno,No,Joaquín Contreras,950956225
+M-7332,20627520-9,Isidora Hernández Muñoz,2009-09-27,F,Hualpén,3º B,4.3,80,Ninguno,No,Tomás Soto,912553360
+M-7333,23181236-4,Catalina Rodríguez Torres,2007-03-17,F,San Pedro de la Paz,3º A,6.6,80,Beca alimentación,No,Matías Hernández,969150345
+M-7334,22438477-3,Joaquín Torres Morales,2012-09-06,M,Tomé,1º C,4.2,86,Ninguno,No,Florencia Pérez,926577267
+M-7335,22055479-8,Matías Torres Vega,2011-08-13,M,Concepción,3º C,5.9,83,Beca alimentación,No,Sofía Silva,973477678
+M-7336,21027779-7,Benjamín Espinoza Araya,2007-08-18,M,Concepción,3º B,4.7,100,Beca alimentación,No,Matías Silva,993126631
+M-7337,22356275-9,Isidora Hernández Vega,2009-02-12,F,San Pedro de la Paz,3º A,5.6,81,Retención escolar,No,Josefa Díaz,952951500
+M-7338,21273366-8,Diego López Hernández,2010-08-17,M,Concepción,1º C,5.8,82,Ninguno,No,Tomás Díaz,925957596
+M-7339,24105170-0,Martín Díaz González,2008-01-25,M,Tomé,2º C,4.8,67,Beca alimentación,No,Gabriel Rojas,982851985
+M-7340,23955632-4,Florencia Vega Araya,2009-01-15,F,Tomé,1º C,4.9,83,Ninguno,No,Benjamín Fuentes,984017915
+M-7341,21524726-8,Diego Espinoza Vega,2008-07-05,M,Coronel,1º A,5.1,85,Retención escolar,No,Martín Araya,965003070
+M-7342,21815907-6,Gabriel López Contreras,2007-11-13,M,Chiguayante,4º C,5.8,83,Ninguno,No,Gabriel Muñoz,983456834
+M-7343,24104468-2,Javiera Morales Hernández,2008-04-17,F,Concepción,1º C,5.0,86,Apoyo psicosocial,No,Benjamín González,929144318
+M-7344,24369932-5,Florencia Fuentes Soto,2008-08-18,F,Hualpén,3º C,5.5,83,Beca alimentación,No,Lucas Sepúlveda,931504380
+M-7345,22115133-6,Diego Torres Silva,2008-03-24,M,Coronel,3º A,4.6,99,Ninguno,No,Gabriel Muñoz,964636394
+M-7346,23764849-3,Benjamín Araya Fuentes,2011-08-11,M,San Pedro de la Paz,4º B,5.9,88,Programa de integración (PIE),No,Isidora Sepúlveda,971139831
+M-7347,20806987-8,Isidora Hernández Torres,2010-04-27,F,Concepción,3º B,5.7,99,Ninguno,No,Matías Morales,979649866
+M-7348,21218311-0,Javiera Díaz González,2007-07-01,F,Talcahuano,3º A,4.5,85,Ninguno,No,Diego Martínez,989627285
+M-7349,23762352-0,Catalina Silva Torres,2011-02-16,F,Hualpén,1º C,6.3,81,Ninguno,No,Catalina Fuentes,948185169
+M-7350,20568901-8,Diego Torres Muñoz,2010-03-08,M,Penco,1º B,6.6,85,Ninguno,TDAH,Catalina Araya,951470369
+M-7351,21808416-5,Florencia Rodríguez Hernández,2011-11-24,F,Hualpén,4º B,4.4,81,Ninguno,No,Agustín Martínez,954792710
+M-7352,22326390-5,Matías Araya Sepúlveda,2011-11-17,M,Chiguayante,4º A,6.2,95,Ninguno,No,Emilia Rodríguez,936799505
+M-7353,23039045-8,Antonia Martínez Espinoza,2009-01-20,F,Concepción,3º C,5.4,97,Retención escolar,No,Sofía González,930712089
+M-7354,20714595-3,Emilia Torres López,2008-01-23,F,Concepción,1º A,5.0,78,Ninguno,No,Matías Sepúlveda,965918839
+M-7355,22929698-8,Vicente Morales Fuentes,2011-03-10,M,Tomé,3º B,5.7,95,Ninguno,No,Matías Hernández,979263713
+M-7356,23460620-K,Gabriel Vega Muñoz,2007-05-02,M,Hualpén,2º B,5.5,100,Programa de integración (PIE),No,Javiera Flores,911283218
+M-7357,24217073-8,Vicente Pérez Araya,2011-10-16,M,Coronel,1º A,5.9,90,Apoyo psicosocial,No,Florencia Espinoza,934631163
+M-7358,21833311-4,Matías Muñoz Espinoza,2008-09-13,M,Talcahuano,4º A,6.3,89,Ninguno,No,Antonia Martínez,956232134
+M-7359,23798091-9,Amanda Morales Fuentes,2011-01-10,F,Tomé,3º C,5.0,100,Ninguno,No,Josefa Contreras,957615691
+M-7360,23358275-7,Diego Araya Martínez,2010-11-04,M,Penco,4º A,4.6,79,Beca alimentación,No,Catalina Contreras,972967434
+M-7361,23770899-2,Benjamín Morales Pérez,2007-04-17,M,Concepción,3º B,5.2,87,Programa de integración (PIE),No,Agustín Sepúlveda,940307231
+M-7362,20991580-2,Isidora Contreras Espinoza,2009-06-28,F,Talcahuano,4º A,5.5,94,Ninguno,No,Isidora Silva,931156452
+M-7363,21500158-7,Javiera Díaz Muñoz,2010-11-01,F,Concepción,3º B,5.9,100,Ninguno,No,Agustín Muñoz,927530847
+M-7364,21468975-5,Martín Soto Soto,2012-10-08,M,Talcahuano,2º C,5.1,91,Beca alimentación,No,Joaquín López,913497977
+M-7365,22305820-1,Benjamín López Rojas,2011-08-22,M,Concepción,3º C,5.0,82,Ninguno,No,Amanda Soto,929681390
+M-7366,22867973-5,Florencia Fuentes Torres,2010-08-12,F,Chiguayante,2º C,4.9,84,Apoyo psicosocial,Trastorno del lenguaje,Benjamín Fuentes,952813255
+M-7367,22709091-6,Isidora Silva Morales,2007-05-23,F,Talcahuano,3º A,6.1,88,Retención escolar,Discapacidad visual,Josefa Espinoza,958898353
+M-7368,23412532-5,Amanda Flores Pérez,2007-02-23,F,Talcahuano,1º B,5.5,99,Ninguno,No,Vicente Vega,974058398
+M-7369,23185337-0,Tomás Rodríguez Pérez,2010-11-12,M,Chiguayante,1º B,6.1,93,Programa de integración (PIE),No,Martín González,969926093
+M-7370,20414840-4,Gabriel Vega Rojas,2007-05-07,M,Penco,1º C,5.5,80,Retención escolar,No,Vicente Araya,918660907
+M-7371,24014744-5,Martín Díaz Contreras,2007-05-20,M,Chiguayante,2º A,6.3,90,Apoyo psicosocial,No,Joaquín Pérez,925461129
+M-7372,22642788-7,Antonia Rodríguez Flores,2011-01-14,F,San Pedro de la Paz,2º A,5.0,80,Apoyo psicosocial,No,Isidora Torres,927882205
+M-7373,22751123-7,Tomás Espinoza López,2012-03-06,M,Chiguayante,3º A,4.8,94,Apoyo psicosocial,No,Martín Vega,934418784
+M-7374,23009317-8,Vicente Hernández López,2007-11-22,M,Hualpén,4º B,5.2,93,Ninguno,No,Isidora Muñoz,967194806
+M-7375,23650724-1,Gabriel Espinoza Silva,2010-05-02,M,Concepción,4º C,6.2,88,Apoyo psicosocial,Discapacidad visual,Amanda Muñoz,968667708
+M-7376,22832230-6,Martín Díaz Rodríguez,2011-04-02,M,Concepción,1º A,6.1,100,Programa de integración (PIE),No,Tomás Araya,929276429
+M-7377,23500930-2,Gabriel González Sepúlveda,2007-05-17,M,San Pedro de la Paz,2º C,5.6,88,Programa de integración (PIE),No,Diego Díaz,951779309
+M-7378,20678735-8,Agustín Pérez Morales,2008-07-20,M,Coronel,2º B,5.7,72,Beca alimentación,No,Martina Contreras,920572976
+M-7379,21809681-3,Florencia Rodríguez Sepúlveda,2011-07-09,F,Concepción,3º A,4.2,88,Apoyo psicosocial,No,Tomás González,963327325
+M-7380,22498151-8,Isidora Morales Hernández,2008-11-23,F,Chiguayante,4º A,5.3,84,Apoyo psicosocial,No,Vicente Fuentes,947313617
+M-7381,23103892-8,Javiera González Vega,2007-01-22,F,Talcahuano,1º A,5.7,91,Beca alimentación,No,Diego Pérez,922252291
+M-7382,20021463-1,Catalina Fuentes Rodríguez,2010-08-28,F,Coronel,4º C,5.1,83,Beca alimentación,No,Gabriel Silva,943799186
+M-7383,21770825-4,Benjamín Araya Morales,2011-06-14,M,Coronel,4º B,4.4,93,Programa de integración (PIE),No,Matías Hernández,941648971
+M-7384,23320801-4,Emilia Flores Pérez,2009-10-12,F,San Pedro de la Paz,3º C,6.1,91,Beca alimentación,No,Emilia López,976421639
+M-7385,23676607-7,Gabriel Espinoza Vega,2008-05-17,M,Concepción,4º A,6.0,96,Ninguno,TDAH,Sofía Vega,980876385
+M-7386,23568447-6,Amanda Fuentes Hernández,2009-09-23,F,Talcahuano,3º C,6.1,84,Apoyo psicosocial,No,Sofía Vega,957728119
+M-7387,23173824-5,Gabriel Sepúlveda Soto,2009-10-05,M,Talcahuano,1º A,6.1,91,Ninguno,No,Josefa Fuentes,931122855
+M-7388,21427808-9,Isidora Díaz Fuentes,2012-08-27,F,San Pedro de la Paz,1º B,6.1,93,Apoyo psicosocial,No,Tomás Silva,975496450
+M-7389,22235352-8,Vicente Flores Morales,2010-07-06,M,Tomé,1º C,5.3,84,Ninguno,No,Catalina Morales,932288768
+M-7390,20067200-1,Agustín Espinoza Muñoz,2010-12-12,M,Chiguayante,3º C,5.3,93,Ninguno,Trastorno del lenguaje,Sofía Muñoz,992331431
+M-7391,23035135-5,Josefa Araya Silva,2010-11-02,F,Chiguayante,3º C,4.5,90,Programa de integración (PIE),TDAH,Diego Rojas,935918527
+M-7392,24239764-3,Sofía Morales González,2009-01-21,F,Coronel,1º C,6.0,95,Ninguno,No,Matías Hernández,912513331
+M-7393,22593328-2,Sofía Hernández Rodríguez,2010-07-28,F,Talcahuano,2º C,6.2,89,Retención escolar,No,Amanda Silva,942705956
+M-7394,20704237-2,Martina López Hernández,2012-01-09,F,Chiguayante,1º A,5.4,90,Ninguno,Trastorno del lenguaje,Javiera González,985978861
+M-7395,22495548-7,Martina Araya Morales,2011-06-24,F,Coronel,3º A,6.4,92,Programa de integración (PIE),No,Florencia Rodríguez,947884446
+M-7396,22265427-7,Florencia Espinoza Vega,2010-10-08,F,Concepción,4º B,4.4,83,Ninguno,No,Lucas Torres,931400875
+M-7397,21242891-1,Martín Morales Espinoza,2012-10-20,M,Concepción,4º A,6.5,86,Ninguno,No,Emilia Morales,962543010
+M-7398,22026533-8,Javiera Vega Araya,2010-02-20,F,Tomé,1º B,5.1,99,Beca alimentación,No,Martín Rojas,992603996
+M-7399,23330967-8,Martín Rodríguez Fuentes,2008-01-02,M,Tomé,1º A,5.4,100,Apoyo psicosocial,No,Florencia Soto,964574080
+M-7400,23717168-9,Joaquín Silva Espinoza,2008-11-13,M,Hualpén,4º B,5.6,100,Programa de integración (PIE),Discapacidad visual,Vicente Silva,962150471
+M-7401,23914293-7,Diego Soto González,2009-07-27,M,Penco,1º A,5.8,92,Programa de integración (PIE),No,Emilia Soto,988438544
+M-7402,23288434-2,Vicente Morales Hernández,2007-03-23,M,Concepción,1º A,4.4,81,Programa de integración (PIE),No,Benjamín Fuentes,988248497
+M-7403,21783111-0,Amanda Pérez Vega,2007-02-03,F,San Pedro de la Paz,2º B,5.8,82,Beca alimentación,Trastorno del lenguaje,Isidora Rodríguez,950649029
+M-7404,22776617-0,Matías Espinoza Hernández,2010-10-18,M,San Pedro de la Paz,3º B,5.9,100,Apoyo psicosocial,No,Matías Araya,999136480
+M-7405,20767962-1,Martín Morales Muñoz,2010-03-25,M,Hualpén,3º C,4.8,100,Ninguno,No,Lucas Martínez,969282702
+M-7406,23312487-2,Joaquín Hernández Muñoz,2009-01-11,M,Hualpén,1º A,3.9,97,Beca alimentación,TDAH,Benjamín Araya,970438916
+M-7407,24307298-5,Benjamín Vega González,2012-05-03,M,Talcahuano,4º A,4.7,83,Apoyo psicosocial,No,Tomás Araya,946598389
+M-7408,24301480-2,Matías Contreras Vega,2011-01-04,M,Concepción,3º B,5.0,96,Beca alimentación,Discapacidad auditiva,Matías Torres,913479802
+M-7409,22743685-5,Agustín Martínez Rodríguez,2010-12-24,M,Coronel,1º C,6.4,84,Programa de integración (PIE),No,Benjamín Araya,927189212
+M-7410,21052728-9,Amanda Vega Rodríguez,2011-04-27,F,Talcahuano,1º B,5.4,79,Ninguno,No,Agustín Morales,945194353
+M-7411,21688334-6,Amanda Flores Pérez,2009-07-24,F,Concepción,4º B,5.4,81,Ninguno,No,Antonia López,955242628
+M-7412,22509148-6,Joaquín Hernández Sepúlveda,2007-12-05,M,Coronel,2º A,5.5,83,Ninguno,No,Martín Silva,962293366
+M-7413,20153108-8,Gabriel López Pérez,2010-05-03,M,Coronel,3º B,5.8,84,Programa de integración (PIE),No,Florencia Muñoz,955382262
+M-7414,24105746-6,Amanda Muñoz Soto,2011-04-17,F,Penco,3º C,4.9,73,Ninguno,No,Josefa González,949647546
+M-7415,23999846-7,Matías López Araya,2007-12-07,M,Talcahuano,2º A,5.6,83,Ninguno,No,Emilia Fuentes,962224225
+M-7416,22542088-9,Josefa Fuentes Rojas,2009-12-09,F,Concepción,3º B,5.5,81,Ninguno,No,Javiera Sepúlveda,942922284
+M-7417,22897497-4,Lucas Torres Morales,2007-01-18,M,Tomé,3º B,6.8,89,Beca alimentación,No,Vicente López,971562240
+M-7418,22312569-3,Agustín Espinoza Araya,2009-01-15,M,San Pedro de la Paz,4º C,5.0,83,Ninguno,Trastorno del lenguaje,Emilia Díaz,955380838
+M-7419,20149000-4,Matías Fuentes Flores,2012-02-07,M,Coronel,2º A,4.6,90,Ninguno,Trastorno del lenguaje,Javiera Araya,928086192
+M-7420,20638211-0,Amanda Pérez Martínez,2007-09-04,F,Concepción,1º A,4.9,100,Programa de integración (PIE),No,Javiera Flores,946690845
+M-7421,22452080-4,Diego Espinoza Vega,2012-11-14,M,Coronel,2º B,4.1,94,Beca alimentación,No,Lucas Torres,940231043
+M-7422,23992875-2,Benjamín Muñoz Hernández,2010-12-24,M,Concepción,1º A,5.0,89,Ninguno,No,Josefa Fuentes,959188825
+M-7423,24384187-3,Diego Silva Contreras,2012-08-19,M,Talcahuano,4º B,5.9,84,Ninguno,No,Tomás Silva,984716291
+M-7424,21769716-3,Benjamín Torres Torres,2012-06-12,M,Talcahuano,4º A,6.4,98,Programa de integración (PIE),No,Martina Contreras,935045337
+M-7425,23497645-7,Amanda Díaz Rodríguez,2010-08-07,F,Concepción,3º B,6.8,91,Ninguno,No,Sofía Espinoza,960715171
+M-7426,22647020-0,Benjamín Espinoza Contreras,2007-02-02,M,Chiguayante,1º B,5.3,100,Ninguno,Discapacidad visual,Antonia Rojas,911975444
+M-7427,20701196-5,Sofía López Torres,2011-08-02,F,Hualpén,1º C,6.5,100,Programa de integración (PIE),No,Josefa Sepúlveda,938939737
+M-7428,21380034-2,Antonia Araya Hernández,2010-08-26,F,Hualpén,3º A,5.4,96,Ninguno,No,Martina Muñoz,971713575
+M-7429,21294900-8,Agustín Sepúlveda Hernández,2007-05-26,M,Penco,3º A,6.4,78,Ninguno,Trastorno del lenguaje,Tomás Silva,993522683
+M-7430,24284015-6,Isidora Vega López,2010-08-04,F,Concepción,4º C,5.4,68,Programa de integración (PIE),Trastorno del lenguaje,Matías Fuentes,921683723
+M-7431,24249857-1,Amanda Soto Hernández,2007-02-01,F,Penco,3º C,5.1,79,Apoyo psicosocial,No,Benjamín Morales,921684504
+M-7432,22144307-8,Isidora Araya Morales,2009-06-04,F,Chiguayante,4º A,5.1,82,Retención escolar,No,Lucas Soto,919841626
+M-7433,20839281-4,Catalina Flores Contreras,2011-01-15,F,Concepción,1º B,5.1,91,Ninguno,Discapacidad auditiva,Isidora Muñoz,940628570
+M-7434,21553077-6,Joaquín Muñoz Araya,2008-04-18,M,Talcahuano,1º C,5.2,71,Beca alimentación,No,Gabriel Rodríguez,997956718
+M-7435,23766177-5,Martina Espinoza Silva,2009-12-28,F,Talcahuano,3º C,4.5,84,Ninguno,No,Diego Hernández,950833327
+M-7436,22775426-1,Isidora Martínez Hernández,2012-03-20,F,Chiguayante,1º A,5.4,77,Ninguno,No,Antonia Pérez,914867116
+M-7437,21766438-9,Antonia Silva Soto,2011-02-04,F,Chiguayante,1º A,5.9,86,Ninguno,TDAH,Agustín Flores,998658697
+M-7438,23227170-7,Martín López Espinoza,2012-06-22,M,Hualpén,3º C,4.9,100,Beca alimentación,No,Vicente Muñoz,972716033
+M-7439,23137743-9,Isidora Araya Contreras,2010-03-27,F,Hualpén,1º B,5.6,70,Ninguno,No,Sofía Espinoza,933456879
+M-7440,23813472-8,Benjamín Espinoza Morales,2007-01-15,M,Tomé,3º B,5.6,100,Ninguno,Trastorno del lenguaje,Matías Hernández,930166865
+M-7441,24334856-5,Catalina Sepúlveda Muñoz,2009-03-17,F,Coronel,3º A,5.0,82,Ninguno,No,Martín Rojas,971230592
+M-7442,21277167-5,Amanda Contreras Vega,2010-09-19,F,Chiguayante,1º B,6.1,84,Retención escolar,No,Josefa Muñoz,918968494
+M-7443,20692448-7,Joaquín Rodríguez Vega,2010-08-26,M,Concepción,2º B,6.0,75,Beca alimentación,Trastorno del lenguaje,Martina Soto,944730537
+M-7444,21635792-K,Lucas Araya Morales,2010-09-04,M,Talcahuano,2º C,4.1,97,Retención escolar,No,Isidora Espinoza,938812796
+M-7445,24294781-3,Antonia Soto Muñoz,2012-10-13,F,Penco,4º C,5.3,80,Ninguno,No,Lucas Martínez,962703810
+M-7446,22282898-4,Antonia Martínez Martínez,2011-03-10,F,Chiguayante,3º C,5.0,95,Beca alimentación,No,Gabriel Flores,917096131
+M-7447,22019804-5,Martina Rojas Rojas,2007-04-13,F,Concepción,2º C,4.5,92,Beca alimentación,TDAH,Vicente Morales,966239187
+M-7448,24444914-4,Diego Araya Contreras,2010-07-22,M,San Pedro de la Paz,2º C,5.7,75,Ninguno,No,Benjamín Fuentes,987174884
+M-7449,24390506-5,Catalina Pérez Rodríguez,2010-04-28,F,San Pedro de la Paz,4º A,5.0,94,Apoyo psicosocial,TDAH,Josefa Rojas,974962637
+M-7450,23756129-0,Florencia González Sepúlveda,2012-06-04,F,Tomé,2º C,4.5,95,Beca alimentación,No,Lucas Soto,992093168
+M-7451,21690427-0,Javiera Pérez Espinoza,2008-10-02,F,San Pedro de la Paz,2º B,6.8,83,Beca alimentación,No,Sofía López,999564406
+M-7452,21027607-3,Agustín Díaz Morales,2009-11-10,M,Hualpén,3º A,5.1,95,Beca alimentación,No,Vicente Morales,971960837
+M-7453,20656694-7,Gabriel Espinoza Díaz,2007-06-02,M,Chiguayante,4º C,6.3,76,Apoyo psicosocial,No,Benjamín Hernández,974242882
+M-7454,21227853-7,Amanda Martínez Silva,2012-10-01,F,Concepción,4º A,5.9,81,Retención escolar,No,Tomás Contreras,930789701
+M-7455,23667623-K,Diego Sepúlveda Martínez,2012-09-22,M,Coronel,1º A,4.1,94,Retención escolar,No,Emilia Sepúlveda,953905603
+M-7456,20492748-9,Isidora Torres Muñoz,2008-02-08,F,Concepción,3º B,6.1,96,Ninguno,No,Diego Araya,948334363
+M-7457,23640429-9,Joaquín Muñoz Rodríguez,2011-08-10,M,Concepción,1º A,3.9,88,Beca alimentación,No,Sofía Sepúlveda,926207161
+M-7458,21184378-8,Diego Soto Vega,2011-08-15,M,Coronel,1º C,5.8,82,Beca alimentación,No,Agustín Araya,964748201
+M-7459,23107431-2,Antonia Espinoza Pérez,2011-03-02,F,Chiguayante,1º A,5.8,84,Ninguno,No,Catalina Martínez,941344117
+M-7460,22727072-8,Sofía Soto Sepúlveda,2007-02-11,F,Chiguayante,1º A,5.0,85,Ninguno,No,Matías González,969874741
+M-7461,22859348-2,Sofía Soto Flores,2011-04-09,F,Talcahuano,2º B,5.3,100,Programa de integración (PIE),No,Gabriel González,993751084
+M-7462,21309658-0,Matías Araya Araya,2010-02-15,M,Concepción,4º B,4.9,87,Beca alimentación,No,Martina Sepúlveda,949903971
+M-7463,24084272-0,Josefa Morales Torres,2010-05-14,F,Talcahuano,2º B,5.7,97,Ninguno,No,Tomás Pérez,935555273
+M-7464,20124834-3,Matías Martínez Fuentes,2011-01-05,M,Penco,4º A,5.0,93,Apoyo psicosocial,No,Isidora López,984651482
+M-7465,24492272-9,Catalina Torres Martínez,2011-03-08,F,Coronel,3º C,5.6,98,Beca alimentación,Discapacidad auditiva,Sofía Vega,969596209
+M-7466,20371380-9,Catalina Morales Rodríguez,2009-02-17,F,Hualpén,4º A,5.4,79,Apoyo psicosocial,TDAH,Lucas López,910760948
+M-7467,22343548-K,Javiera Soto Flores,2011-07-26,F,Tomé,3º C,6.7,91,Beca alimentación,No,Martina Pérez,997114157
+M-7468,21829833-5,Isidora Espinoza Sepúlveda,2007-05-15,F,Hualpén,2º A,5.1,91,Ninguno,Discapacidad visual,Josefa Muñoz,995176627
+M-7469,20344315-1,Martina Muñoz Díaz,2009-04-27,F,Chiguayante,2º A,5.1,87,Ninguno,No,Benjamín Flores,925848787
+M-7470,21452380-6,Javiera Hernández Espinoza,2011-07-05,F,Hualpén,2º A,5.7,100,Retención escolar,Trastorno del lenguaje,Diego Rodríguez,988665828
+M-7471,22826923-5,Javiera Soto Torres,2008-08-11,F,Hualpén,4º C,7.0,89,Ninguno,No,Emilia Pérez,993590511
+M-7472,23591231-2,Amanda Pérez Flores,2012-06-15,F,Talcahuano,4º B,4.7,82,Retención escolar,No,Gabriel Pérez,915446528
+M-7473,24381267-9,Isidora Flores Silva,2009-01-05,F,Chiguayante,1º B,4.9,73,Ninguno,No,Agustín Sepúlveda,925077653
+M-7474,22822551-3,Javiera Fuentes López,2010-09-16,F,Talcahuano,4º B,6.9,79,Retención escolar,No,Florencia Fuentes,913480976
+M-7475,23705431-3,Matías Espinoza Martínez,2012-11-03,M,San Pedro de la Paz,3º A,5.8,70,Apoyo psicosocial,No,Antonia Hernández,946776275
+M-7476,20932491-K,Sofía Espinoza Morales,2010-04-21,F,San Pedro de la Paz,3º C,5.4,84,Beca alimentación,No,Catalina Hernández,995416944
+M-7477,21160952-1,Amanda Morales Soto,2008-02-18,F,Coronel,1º B,6.1,100,Beca alimentación,TDAH,Lucas Díaz,923084885
+M-7478,21334874-1,Javiera Flores Torres,2010-10-28,F,Talcahuano,2º C,4.7,90,Beca alimentación,No,Emilia Rodríguez,960414185
+M-7479,23930694-8,Tomás Martínez Contreras,2011-06-04,M,Coronel,3º B,5.2,90,Programa de integración (PIE),No,Matías Morales,951529503
+M-7480,23969193-0,Florencia Contreras Espinoza,2012-07-25,F,Talcahuano,1º C,6.3,93,Ninguno,No,Martín Rodríguez,964448582
+M-7481,22596145-6,Tomás Díaz Silva,2010-06-07,M,Chiguayante,1º B,5.4,89,Programa de integración (PIE),No,Tomás Martínez,939819822
+M-7482,20109310-2,Isidora Rodríguez Díaz,2007-06-01,F,Tomé,4º A,5.1,100,Ninguno,No,Lucas Vega,960737779
+M-7483,23162678-1,Lucas Torres Silva,2011-09-13,M,Chiguayante,2º C,5.4,86,Beca alimentación,No,Tomás Vega,947821103
+M-7484,21616583-4,Diego Rojas Araya,2011-03-03,M,Hualpén,3º A,6.9,88,Beca alimentación,No,Antonia Torres,979919196
+M-7485,23825784-6,Matías González Hernández,2007-10-25,M,San Pedro de la Paz,1º C,5.4,83,Beca alimentación,No,Josefa Silva,942550023
+M-7486,21793111-5,Josefa Soto Muñoz,2012-02-04,F,Hualpén,3º A,4.9,94,Beca alimentación,No,Amanda Vega,930038493
+M-7487,24184403-4,Catalina Díaz Flores,2007-10-23,F,Tomé,3º B,5.1,86,Ninguno,No,Diego Araya,927951919
+M-7488,21741942-2,Antonia Sepúlveda Martínez,2012-09-06,F,Tomé,1º B,5.7,89,Apoyo psicosocial,TDAH,Diego Fuentes,980231527
+M-7489,23868039-0,Martín Vega Díaz,2010-08-27,M,Concepción,2º C,6.2,81,Ninguno,No,Vicente Araya,954569159
+M-7490,23998100-9,Diego González Flores,2011-07-21,M,Concepción,4º B,5.8,81,Apoyo psicosocial,No,Javiera Rojas,985633864
+M-7491,24263393-2,Florencia Vega Torres,2009-12-17,F,Hualpén,1º A,5.4,82,Ninguno,TDAH,Tomás Torres,995134117
+M-7492,22882334-8,Tomás Hernández Díaz,2008-03-26,M,Concepción,2º B,6.4,93,Beca alimentación,TDAH,Amanda Sepúlveda,965233786
+M-7493,20309761-K,Diego Contreras Araya,2007-09-16,M,Chiguayante,1º B,4.9,100,Programa de integración (PIE),No,Martín Hernández,940379610
+M-7494,24054445-2,Catalina Vega Soto,2008-06-02,F,Talcahuano,1º B,6.4,98,Apoyo psicosocial,Trastorno del lenguaje,Sofía Pérez,929242198
+M-7495,23998619-1,Florencia Flores López,2009-11-17,F,Concepción,2º C,4.7,83,Retención escolar,No,Gabriel Araya,994202166
+M-7496,23721855-3,Joaquín Morales Rodríguez,2009-04-08,M,Concepción,4º C,5.6,86,Ninguno,No,Tomás Díaz,965126163
+M-7497,22075630-7,Josefa Martínez Hernández,2009-12-03,F,San Pedro de la Paz,2º C,5.3,95,Ninguno,No,Josefa Araya,973166945
+M-7498,22536941-7,Gabriel Fuentes Muñoz,2008-11-25,M,San Pedro de la Paz,1º B,5.7,85,Apoyo psicosocial,Discapacidad visual,Catalina Espinoza,921134441
+M-7499,22801214-5,Antonia Vega Díaz,2009-12-19,F,Concepción,1º B,5.5,84,Programa de integración (PIE),No,Josefa González,997176683
+M-7500,22980921-7,Javiera Morales Torres,2008-05-25,F,Hualpén,3º C,5.8,78,Beca alimentación,No,Lucas Espinoza,954515476
+M-7501,23160932-1,Emilia Rojas Martínez,2011-04-01,F,San Pedro de la Paz,2º C,5.2,93,Ninguno,No,Florencia Contreras,965887879
+M-7502,24290874-5,Catalina Morales Rojas,2011-04-15,F,Concepción,1º C,4.5,90,Beca alimentación,No,Isidora Rodríguez,959764409
+M-7503,23560733-1,Lucas Contreras Hernández,2010-06-26,M,San Pedro de la Paz,1º A,4.5,92,Ninguno,No,Javiera Fuentes,924591832
+M-7504,20876885-7,Agustín Muñoz Fuentes,2011-04-06,M,Chiguayante,1º C,4.5,92,Programa de integración (PIE),No,Emilia Morales,993784851
+M-7505,22196109-5,Benjamín López Araya,2007-02-19,M,San Pedro de la Paz,4º A,6.2,85,Beca alimentación,No,Lucas Araya,926609455
+M-7506,23526167-2,Martina Morales Vega,2010-06-24,F,San Pedro de la Paz,1º A,5.4,85,Retención escolar,No,Florencia Vega,957415001
+M-7507,23426502-K,Martín Espinoza Torres,2008-11-19,M,Hualpén,1º B,5.0,93,Ninguno,No,Javiera Contreras,999270256
+M-7508,20011624-9,Emilia Fuentes Fuentes,2007-03-10,F,Concepción,1º C,5.5,90,Apoyo psicosocial,No,Florencia Muñoz,923792782
+M-7509,21924249-K,Vicente Rojas Díaz,2010-11-17,M,Concepción,1º A,5.4,82,Beca alimentación,Discapacidad visual,Catalina Hernández,935404621
+M-7510,21981124-9,Florencia Rojas Díaz,2009-08-01,F,San Pedro de la Paz,4º B,7.0,98,Ninguno,No,Martín Torres,989624216
+M-7511,22068901-4,Javiera Sepúlveda Sepúlveda,2007-04-19,F,Penco,4º B,5.6,84,Beca alimentación,No,Vicente Silva,981225124
+M-7512,22512488-0,Lucas Flores Rojas,2009-09-02,M,San Pedro de la Paz,2º C,4.3,89,Ninguno,No,Vicente López,958702553
+M-7513,21118349-4,Javiera Torres Rodríguez,2009-05-11,F,Hualpén,2º B,5.9,99,Apoyo psicosocial,No,Javiera Silva,956313967
+M-7514,23691636-2,Diego Rodríguez Torres,2007-03-20,M,Penco,4º B,5.7,93,Ninguno,TDAH,Tomás Pérez,944414536
+M-7515,23182204-1,Diego Hernández Rojas,2012-09-26,M,Hualpén,1º B,6.5,99,Beca alimentación,No,Vicente González,990998938
+M-7516,23794428-9,Emilia Rodríguez Morales,2009-12-26,F,Hualpén,1º C,4.5,80,Ninguno,No,Gabriel Vega,980020602
+M-7517,22240155-7,Diego Pérez Contreras,2009-02-06,M,Tomé,2º A,5.2,93,Ninguno,No,Josefa Araya,983917444
+M-7518,22911404-9,Benjamín Hernández Rodríguez,2007-08-21,M,Concepción,4º B,4.8,82,Programa de integración (PIE),No,Martín Flores,924867885
+M-7519,20916906-K,Florencia Muñoz Díaz,2009-10-14,F,Chiguayante,3º C,5.9,95,Ninguno,No,Joaquín Muñoz,996839553
+M-7520,24237090-7,Martín Espinoza Sepúlveda,2007-03-06,M,Penco,2º A,5.3,87,Beca alimentación,No,Agustín Rojas,953542661
+M-7521,23685818-4,Lucas Muñoz Díaz,2012-10-06,M,San Pedro de la Paz,2º C,4.9,80,Ninguno,Trastorno del lenguaje,Emilia Fuentes,930534427
+M-7522,21760563-3,Florencia Vega Fuentes,2007-02-26,F,Talcahuano,4º C,6.5,96,Retención escolar,No,Amanda López,991078450
+M-7523,20075440-7,Vicente Silva Muñoz,2009-01-28,M,Concepción,1º A,5.2,90,Ninguno,No,Sofía Sepúlveda,948789413
+M-7524,21619347-1,Emilia Rodríguez Hernández,2009-09-01,F,Tomé,3º C,6.1,94,Ninguno,No,Emilia Flores,978421192
+M-7525,22718787-1,Emilia Silva Hernández,2010-11-03,F,Concepción,3º C,4.3,100,Beca alimentación,No,Benjamín Vega,944827936
+M-7526,21709028-5,Diego Muñoz López,2007-05-23,M,San Pedro de la Paz,4º B,6.7,100,Beca alimentación,No,Martina Fuentes,916018958
+M-7527,21147866-4,Emilia Flores Martínez,2009-12-22,F,Penco,4º C,5.3,90,Beca alimentación,No,Diego Vega,975219220
+M-7528,24298967-2,Matías Flores Contreras,2009-03-14,M,Concepción,2º C,5.4,81,Apoyo psicosocial,No,Florencia Contreras,977494793
+M-7529,21918066-4,Joaquín González Contreras,2010-12-10,M,Talcahuano,4º B,4.2,93,Apoyo psicosocial,No,Agustín Rojas,955199415
+M-7530,24245171-0,Amanda López Rojas,2007-03-03,F,Hualpén,1º B,5.0,92,Apoyo psicosocial,No,Agustín Muñoz,992954988
+M-7531,21332369-2,Gabriel Hernández Hernández,2007-05-05,M,San Pedro de la Paz,2º A,5.6,94,Ninguno,No,Martín López,995232058
+M-7532,22529090-K,Benjamín Rodríguez Soto,2007-05-01,M,Hualpén,1º C,4.8,100,Ninguno,No,Joaquín Sepúlveda,955246907
+M-7533,22353417-8,Josefa Vega Espinoza,2011-06-18,F,Tomé,2º A,6.1,90,Ninguno,No,Florencia Díaz,974128085
+M-7534,23285535-0,Tomás Martínez Flores,2009-11-23,M,Hualpén,1º B,5.3,90,Apoyo psicosocial,No,Diego Espinoza,976783308
+M-7535,20464301-4,Sofía López Martínez,2011-11-14,F,Chiguayante,3º C,5.3,89,Retención escolar,No,Amanda Muñoz,932485759
+M-7536,24445966-2,Josefa Espinoza Morales,2011-04-05,F,Talcahuano,3º C,5.0,79,Programa de integración (PIE),No,Javiera Fuentes,920834284
+M-7537,21965712-6,Matías Pérez Rodríguez,2012-12-09,M,Talcahuano,4º B,6.0,95,Apoyo psicosocial,Discapacidad visual,Sofía Morales,915704559
+M-7538,22223883-4,Benjamín Torres Araya,2007-03-23,M,Chiguayante,1º C,4.8,81,Beca alimentación,No,Matías Rojas,914774173
+M-7539,24282015-5,Matías Rodríguez López,2011-09-08,M,Chiguayante,4º C,6.2,77,Ninguno,No,Benjamín Muñoz,950001847
+M-7540,23883639-0,Florencia Contreras Muñoz,2007-10-01,F,Talcahuano,3º A,4.6,81,Programa de integración (PIE),Discapacidad visual,Vicente Morales,988897417
+M-7541,23713393-0,Amanda Díaz Sepúlveda,2012-11-06,F,Tomé,3º A,4.0,85,Apoyo psicosocial,No,Florencia Martínez,977137697
+M-7542,21186614-1,Diego Muñoz Muñoz,2007-07-12,M,Concepción,2º B,6.5,92,Ninguno,No,Josefa Martínez,971766252
+M-7543,22877354-5,Sofía López Espinoza,2008-09-22,F,Hualpén,3º B,5.8,91,Ninguno,No,Isidora Contreras,965818376
+M-7544,23197077-6,Tomás Martínez Fuentes,2009-08-26,M,Coronel,2º C,5.6,88,Apoyo psicosocial,No,Josefa Morales,991287327
+M-7545,21956278-8,Martín Pérez López,2012-10-25,M,Concepción,1º C,4.6,87,Programa de integración (PIE),No,Emilia Sepúlveda,922067980
+M-7546,20184838-3,Vicente Araya Flores,2008-05-07,M,Talcahuano,1º B,5.8,89,Beca alimentación,No,Florencia Vega,979970513
+M-7547,21679705-9,Javiera Torres López,2009-04-10,F,Coronel,2º B,4.9,100,Beca alimentación,No,Lucas Soto,927677719
+M-7548,20334600-8,Javiera Torres Rojas,2007-09-03,F,Concepción,2º A,6.0,78,Beca alimentación,No,Antonia Fuentes,925395749
+M-7549,20632827-2,Javiera Rojas Martínez,2008-04-21,F,Talcahuano,4º C,5.0,80,Ninguno,No,Catalina Hernández,917814422
+M-7550,23853839-K,Matías Espinoza Morales,2008-06-09,M,Hualpén,1º A,6.2,89,Programa de integración (PIE),No,Antonia Sepúlveda,967673317
+M-7551,22880959-0,Lucas Muñoz Soto,2009-06-23,M,Chiguayante,1º A,6.7,81,Ninguno,Trastorno del lenguaje,Emilia Díaz,979058251
+M-7552,21460478-4,Vicente Flores Martínez,2008-08-21,M,Chiguayante,4º C,5.4,94,Ninguno,No,Martina Muñoz,955033675
+M-7553,21842230-3,Emilia Hernández Soto,2008-02-15,F,Talcahuano,2º A,5.0,89,Beca alimentación,No,Joaquín Flores,991866393
+M-7554,23116952-6,Martina Rojas Fuentes,2007-02-24,F,San Pedro de la Paz,2º B,6.1,98,Ninguno,No,Lucas Contreras,929902142
+M-7555,23815545-8,Diego Torres Soto,2012-05-28,M,Talcahuano,3º C,4.1,80,Ninguno,Trastorno del lenguaje,Florencia Contreras,958251791
+M-7556,23986362-6,Josefa Flores Muñoz,2009-02-16,F,Hualpén,4º C,3.8,82,Apoyo psicosocial,No,Benjamín Rojas,925471669
+M-7557,24264033-5,Agustín Díaz Morales,2007-08-12,M,Talcahuano,4º A,5.2,98,Apoyo psicosocial,No,Diego Rojas,922910078
+M-7558,23642115-0,Martina González Silva,2008-02-12,F,Hualpén,4º A,5.3,100,Ninguno,No,Diego Muñoz,923401012
+M-7559,23884180-7,Antonia Espinoza López,2010-04-12,F,Concepción,3º A,6.0,81,Beca alimentación,No,Catalina Flores,954214211
+M-7560,23158862-6,Agustín Pérez Hernández,2009-07-24,M,San Pedro de la Paz,1º A,4.9,90,Apoyo psicosocial,No,Vicente Pérez,921092837
+M-7561,23219608-K,Martín González Pérez,2012-07-27,M,Talcahuano,1º C,4.6,100,Retención escolar,No,Florencia Araya,951565384
+M-7562,23985542-9,Sofía Díaz González,2012-08-17,F,San Pedro de la Paz,3º B,5.8,98,Apoyo psicosocial,No,Agustín Contreras,991070696
+M-7563,24225798-1,Lucas Torres Silva,2007-03-07,M,San Pedro de la Paz,2º C,5.6,90,Ninguno,No,Martín Torres,966127572
+M-7564,21582039-1,Sofía López Sepúlveda,2012-11-23,F,Coronel,3º B,5.7,90,Beca alimentación,No,Tomás Flores,969662990
+M-7565,23008628-7,Florencia Contreras López,2007-08-18,F,Chiguayante,4º C,5.8,100,Ninguno,No,Agustín Pérez,999111045
+M-7566,20099888-8,Florencia Hernández López,2009-02-26,F,Coronel,3º A,4.6,86,Apoyo psicosocial,No,Amanda Hernández,949609646
+M-7567,22583457-8,Javiera Silva Soto,2010-12-04,F,Penco,3º A,5.4,91,Apoyo psicosocial,No,Martín Araya,987121540
+M-7568,24053515-1,Antonia Vega Díaz,2008-03-19,F,Concepción,3º C,6.5,86,Ninguno,No,Emilia Rodríguez,991476004
+M-7569,21874396-7,Josefa Muñoz Hernández,2007-01-02,F,San Pedro de la Paz,4º A,6.4,75,Ninguno,No,Martín Muñoz,975594629
+M-7570,22205504-7,Sofía Contreras Morales,2012-02-09,F,San Pedro de la Paz,4º B,6.7,92,Beca alimentación,No,Agustín Soto,912285153
+M-7571,23154184-0,Josefa González Araya,2008-07-20,F,Talcahuano,1º B,4.3,84,Ninguno,No,Amanda Flores,980758551
+M-7572,21047686-2,Martín Morales Contreras,2007-07-18,M,Concepción,4º C,5.6,87,Retención escolar,No,Lucas Martínez,979301100
+M-7573,22012437-8,Emilia Araya Fuentes,2007-10-07,F,Talcahuano,2º B,5.3,99,Ninguno,No,Agustín Torres,981341582
+M-7574,23613856-4,Martina Soto Contreras,2010-08-27,F,Talcahuano,3º B,4.5,100,Beca alimentación,No,Joaquín Fuentes,954620491
+M-7575,23220222-5,Amanda Araya Fuentes,2007-05-19,F,Hualpén,1º B,4.4,86,Ninguno,No,Martina Hernández,943299441
+M-7576,20067115-3,Joaquín Hernández Sepúlveda,2010-05-26,M,Concepción,2º B,5.1,100,Programa de integración (PIE),No,Antonia Hernández,986066215
+M-7577,23744517-7,Martín Muñoz Morales,2007-08-01,M,Hualpén,2º C,6.3,99,Programa de integración (PIE),No,Martina Muñoz,928334829
+M-7578,21849777-K,Antonia Pérez Fuentes,2009-08-03,F,Tomé,2º B,5.8,90,Ninguno,No,Joaquín Hernández,996193914
+M-7579,22849859-5,Benjamín Martínez Rojas,2011-03-10,M,Hualpén,2º B,5.5,86,Retención escolar,No,Gabriel Soto,934152446
+M-7580,21390838-0,Florencia Rodríguez Soto,2007-07-02,F,San Pedro de la Paz,1º B,4.5,88,Programa de integración (PIE),No,Diego Araya,987066119
+M-7581,24048331-3,Antonia González Flores,2012-03-05,F,Tomé,3º A,5.2,93,Ninguno,No,Vicente González,938876251
+M-7582,21002741-3,Joaquín Rojas Sepúlveda,2011-05-15,M,San Pedro de la Paz,4º B,5.2,77,Ninguno,No,Josefa Fuentes,971700032
+M-7583,24137066-0,Javiera Rodríguez Vega,2008-05-05,F,Concepción,1º A,6.1,75,Beca alimentación,No,Diego Araya,964415652
+M-7584,22772008-1,Florencia Sepúlveda Rodríguez,2011-03-17,F,San Pedro de la Paz,1º B,4.5,100,Programa de integración (PIE),No,Martín Díaz,968771746
+M-7585,20208845-5,Lucas Rojas Rodríguez,2007-05-22,M,San Pedro de la Paz,2º C,5.4,100,Ninguno,No,Isidora Araya,989205503
+M-7586,21528342-6,Amanda Flores Torres,2012-05-25,F,Concepción,3º A,4.7,85,Programa de integración (PIE),Discapacidad visual,Florencia Muñoz,920128454
+M-7587,24420289-0,Emilia Soto Rodríguez,2007-06-07,F,San Pedro de la Paz,1º B,4.9,79,Apoyo psicosocial,No,Joaquín Hernández,997545604
+M-7588,20366810-2,Isidora Silva Espinoza,2008-05-01,F,Hualpén,4º C,5.3,94,Retención escolar,No,Isidora Rodríguez,918826444
+M-7589,23993176-1,Sofía Soto Hernández,2009-06-21,F,Concepción,4º B,4.3,86,Apoyo psicosocial,No,Catalina Díaz,949871201
+M-7590,22844961-6,Antonia Rodríguez Fuentes,2008-10-14,F,Chiguayante,1º B,4.7,95,Ninguno,No,Emilia Soto,919926120
+M-7591,21328098-5,Lucas López Rojas,2011-08-08,M,San Pedro de la Paz,3º C,3.6,89,Retención escolar,No,Javiera Torres,954213964
+M-7592,23067090-6,Sofía Flores Rodríguez,2010-10-09,F,Concepción,4º B,5.9,75,Ninguno,No,Joaquín Pérez,967112076
+M-7593,23575530-6,Amanda Pérez González,2010-03-07,F,Concepción,1º A,5.8,81,Beca alimentación,No,Isidora Silva,932983175
+M-7594,20392090-1,Benjamín Torres Espinoza,2011-10-12,M,San Pedro de la Paz,3º C,7.0,85,Ninguno,No,Emilia Silva,959554097
+M-7595,20897755-3,Javiera Silva Martínez,2012-07-21,F,Concepción,3º C,4.6,94,Ninguno,No,Sofía Muñoz,982849982
+M-7596,21726142-K,Martina Martínez Araya,2009-08-13,F,Coronel,2º C,5.9,98,Apoyo psicosocial,No,Matías Vega,946041927
+M-7597,21847136-3,Emilia Sepúlveda Vega,2011-06-05,F,San Pedro de la Paz,1º A,6.6,98,Beca alimentación,No,Benjamín Flores,998101482
+M-7598,23190095-6,Lucas Sepúlveda Morales,2009-01-20,M,Tomé,1º B,4.4,84,Ninguno,No,Agustín Martínez,927986655
+M-7599,24257390-5,Lucas Muñoz Muñoz,2012-10-13,M,Hualpén,1º B,5.6,100,Beca alimentación,TDAH,Matías Vega,981098550
+M-7600,22430972-0,Amanda Sepúlveda Pérez,2011-05-21,F,Chiguayante,3º A,6.3,86,Retención escolar,Trastorno del lenguaje,Catalina Silva,973337692
+M-7601,24292566-6,Amanda Díaz González,2010-10-14,F,Concepción,2º C,4.9,82,Apoyo psicosocial,No,Lucas Díaz,939257457
+M-7602,23733833-8,Antonia Muñoz Espinoza,2010-11-25,F,Concepción,1º A,5.2,97,Ninguno,No,Amanda Rojas,944225633
+M-7603,20305188-1,Antonia Vega Soto,2010-01-25,F,San Pedro de la Paz,4º C,5.0,100,Retención escolar,No,Tomás López,937553813
+M-7604,24449303-8,Matías Espinoza Araya,2012-01-23,M,Hualpén,3º B,3.4,89,Programa de integración (PIE),TDAH,Martín Araya,943088018
+M-7605,21406658-8,Isidora Contreras Torres,2009-08-11,F,Talcahuano,3º B,5.0,79,Apoyo psicosocial,No,Benjamín Rojas,936493156
+M-7606,21410440-4,Antonia Araya Morales,2011-02-20,F,Chiguayante,1º A,6.0,85,Beca alimentación,Discapacidad auditiva,Amanda Morales,910005497
+M-7607,22158325-2,Tomás Martínez González,2012-04-15,M,Concepción,4º A,5.6,87,Ninguno,No,Vicente González,995746073
+M-7608,21553917-K,Joaquín Contreras Rojas,2008-09-05,M,Hualpén,1º A,5.7,73,Apoyo psicosocial,No,Martín Hernández,954615378
+M-7609,20380489-8,Lucas Martínez Fuentes,2011-09-05,M,Tomé,2º B,6.1,84,Retención escolar,No,Isidora Pérez,934428526
+M-7610,20487790-2,Antonia Espinoza Hernández,2011-03-09,F,Tomé,2º B,5.1,85,Apoyo psicosocial,No,Antonia López,994577810
+M-7611,23530330-8,Diego Torres Torres,2011-06-28,M,Chiguayante,4º A,5.3,95,Beca alimentación,No,Catalina Díaz,979615539
+M-7612,23868272-5,Benjamín Martínez Flores,2007-01-20,M,Talcahuano,4º C,5.8,85,Apoyo psicosocial,Trastorno del lenguaje,Javiera Rodríguez,962514816
+M-7613,22741516-5,Benjamín Morales López,2009-06-12,M,Coronel,2º B,4.4,93,Ninguno,No,Agustín Rodríguez,965582120
+M-7614,21929386-8,Antonia Sepúlveda Torres,2009-04-22,F,Coronel,2º A,5.9,93,Apoyo psicosocial,No,Lucas Rodríguez,946343776
+M-7615,23972710-2,Sofía Muñoz Pérez,2008-10-19,F,Tomé,1º B,5.7,100,Beca alimentación,No,Joaquín Morales,980025295
+M-7616,22143356-0,Benjamín Araya Díaz,2007-09-14,M,Talcahuano,1º A,5.2,74,Beca alimentación,No,Florencia Morales,967007299
+M-7617,23077057-9,Gabriel Díaz López,2008-05-11,M,Talcahuano,4º A,5.3,81,Ninguno,No,Martín Díaz,967204887
+M-7618,20065233-7,Vicente Flores Araya,2008-08-11,M,San Pedro de la Paz,1º C,4.8,83,Ninguno,No,Amanda Rodríguez,972375936
+M-7619,20114087-9,Gabriel López Flores,2012-07-04,M,Chiguayante,1º B,6.0,76,Ninguno,No,Antonia Hernández,948397076
+M-7620,20639613-8,Matías Morales Rodríguez,2009-01-07,M,Penco,3º C,5.1,97,Ninguno,No,Antonia Pérez,942925764
+M-7621,21466206-7,Vicente Espinoza López,2009-03-03,M,Hualpén,3º C,6.3,84,Beca alimentación,No,Matías Vega,936044402
+M-7622,24182901-9,Catalina González Morales,2011-03-23,F,Coronel,4º A,5.3,99,Apoyo psicosocial,TDAH,Benjamín Soto,950418114
+M-7623,24331809-7,Joaquín Flores Araya,2008-06-21,M,Concepción,4º A,5.0,92,Apoyo psicosocial,No,Emilia López,996980934
+M-7624,20996081-6,Sofía Sepúlveda Contreras,2012-12-26,F,Penco,2º C,5.3,100,Beca alimentación,No,Sofía Morales,927252421
+M-7625,20706941-6,Matías Fuentes González,2009-01-26,M,Chiguayante,1º A,4.8,84,Beca alimentación,TDAH,Tomás Araya,929646078
+M-7626,24434421-0,Benjamín Pérez Araya,2007-02-16,M,Penco,2º B,5.4,82,Beca alimentación,TDAH,Sofía Muñoz,998383738
+M-7627,20185674-2,Emilia Contreras Pérez,2010-02-19,F,Tomé,3º B,5.7,81,Apoyo psicosocial,No,Javiera Muñoz,911416142
+M-7628,23869965-2,Isidora Rodríguez Araya,2011-06-22,F,Penco,1º B,4.9,82,Ninguno,No,Javiera Díaz,957816359
+M-7629,20677735-2,Tomás Contreras Rodríguez,2008-05-14,M,Hualpén,2º C,4.7,95,Programa de integración (PIE),No,Gabriel Díaz,929962334
+M-7630,21852558-7,Martina Vega Rojas,2009-05-20,F,San Pedro de la Paz,2º C,7.0,82,Ninguno,No,Joaquín Rojas,971257185
+M-7631,20038429-4,Benjamín Fuentes Vega,2007-07-05,M,Coronel,3º C,6.1,97,Ninguno,No,Emilia Pérez,924488616
+M-7632,23088305-5,Catalina Martínez Vega,2011-01-27,F,Chiguayante,1º B,4.6,88,Beca alimentación,No,Gabriel Rodríguez,964017937
+M-7633,20682013-4,Martín Martínez Silva,2008-11-24,M,Concepción,3º C,4.7,91,Apoyo psicosocial,No,Emilia Martínez,949225213
+M-7634,21780972-7,Agustín Sepúlveda Pérez,2012-10-15,M,Chiguayante,3º B,5.2,94,Ninguno,No,Tomás Rojas,989093649
+M-7635,21926055-2,Catalina Sepúlveda Rojas,2010-03-23,F,Concepción,2º B,5.5,80,Ninguno,Discapacidad visual,Josefa Araya,966614194
+M-7636,22470062-4,Joaquín Martínez Flores,2008-07-08,M,Coronel,3º B,6.4,91,Apoyo psicosocial,No,Martina Flores,958208568
+M-7637,22781630-5,Martina Silva Contreras,2011-03-19,F,Talcahuano,2º A,5.4,95,Ninguno,No,Antonia González,979184852
+M-7638,24418541-4,Matías Rodríguez Espinoza,2010-12-21,M,San Pedro de la Paz,2º C,5.6,100,Programa de integración (PIE),No,Sofía Espinoza,967379076
+M-7639,23628351-3,Lucas Pérez Vega,2007-04-05,M,Hualpén,2º A,6.8,98,Retención escolar,No,Javiera Araya,949551742
+M-7640,23273798-6,Diego Martínez Contreras,2009-04-24,M,Hualpén,3º C,4.9,95,Retención escolar,No,Gabriel Hernández,974873525
+M-7641,24317614-4,Joaquín Martínez Torres,2008-10-16,M,Hualpén,3º A,5.1,95,Retención escolar,No,Gabriel Díaz,926344673
+M-7642,21400684-4,Matías Rodríguez Soto,2010-06-14,M,Hualpén,1º B,5.4,93,Apoyo psicosocial,No,Matías Fuentes,922757453
+M-7643,21449297-8,Vicente Muñoz Martínez,2010-06-25,M,Concepción,4º A,5.4,91,Beca alimentación,No,Josefa Morales,935952353
+M-7644,21552475-K,Joaquín Rodríguez Araya,2012-08-03,M,Coronel,1º C,3.5,83,Beca alimentación,No,Benjamín Soto,992677657
+M-7645,22045274-K,Antonia Vega Torres,2008-07-17,F,Penco,1º B,5.1,91,Programa de integración (PIE),No,Florencia Sepúlveda,986685055
+M-7646,20001125-0,Gabriel Araya Rodríguez,2009-04-18,M,Chiguayante,4º C,6.1,98,Beca alimentación,No,Martina Soto,950457878
+M-7647,22453836-3,Vicente Martínez Díaz,2011-08-01,M,Penco,3º C,5.9,93,Ninguno,No,Tomás Contreras,978936639
+M-7648,21113158-3,Gabriel Morales Díaz,2011-03-06,M,Coronel,2º A,5.5,97,Ninguno,Trastorno del lenguaje,Joaquín Díaz,986122384
+M-7649,21550748-0,Matías Torres Contreras,2007-10-17,M,Talcahuano,2º C,5.1,100,Ninguno,No,Martín Hernández,977353344
+M-7650,21240789-2,Javiera Silva Pérez,2009-12-16,F,Concepción,4º B,5.3,81,Ninguno,No,Lucas Soto,999741337
+M-7651,23571446-4,Florencia Torres López,2008-07-18,F,Concepción,1º A,6.7,82,Retención escolar,Discapacidad auditiva,Catalina Flores,957754514
+M-7652,23750251-0,Emilia Díaz González,2008-04-21,F,San Pedro de la Paz,1º C,4.7,91,Beca alimentación,No,Emilia Morales,943395041
+M-7653,22080710-6,Martín Pérez Rojas,2008-04-25,M,Talcahuano,1º C,5.9,88,Programa de integración (PIE),No,Florencia Díaz,988097369
+M-7654,22786728-7,Josefa Sepúlveda Araya,2012-08-07,F,Talcahuano,4º B,5.5,96,Ninguno,TDAH,Agustín Hernández,943349712
+M-7655,20453010-4,Vicente Pérez Rodríguez,2010-12-13,M,Chiguayante,1º A,4.7,77,Ninguno,No,Florencia Vega,953927799
+M-7656,24410067-2,Gabriel Rojas Morales,2010-01-24,M,Penco,4º A,6.2,99,Ninguno,No,Tomás Díaz,987362264
+M-7657,22130439-6,Vicente Díaz Flores,2011-01-06,M,Concepción,3º C,4.8,93,Ninguno,No,Josefa Rodríguez,920744253
+M-7658,22376297-9,Agustín Morales Soto,2011-04-03,M,Hualpén,2º B,5.2,80,Programa de integración (PIE),No,Vicente Fuentes,940887401
+M-7659,22257804-K,Martín Torres Muñoz,2011-08-06,M,Concepción,4º C,5.2,84,Retención escolar,No,Emilia Hernández,986823743
+M-7660,20324464-7,Javiera Rodríguez Fuentes,2008-03-18,F,Hualpén,2º C,6.1,93,Ninguno,No,Sofía Araya,930787066
+M-7661,21381091-7,Benjamín Flores Silva,2009-01-02,M,Talcahuano,1º A,6.9,82,Ninguno,TDAH,Amanda Fuentes,953302961
+M-7662,23162789-3,Martina López Muñoz,2011-03-10,F,Chiguayante,3º C,5.5,88,Retención escolar,No,Antonia Araya,929871608
+M-7663,22347492-2,Tomás Torres Fuentes,2008-02-26,M,Hualpén,3º A,5.2,93,Ninguno,TDAH,Amanda Soto,913701341
+M-7664,23503354-8,Josefa Torres Díaz,2007-02-12,F,Talcahuano,4º C,5.9,79,Apoyo psicosocial,No,Josefa Flores,970706106
+M-7665,20476758-9,Sofía Martínez Sepúlveda,2008-10-07,F,Concepción,4º B,6.6,83,Ninguno,TDAH,Catalina Araya,961884840
+M-7666,20502884-4,Sofía Vega Morales,2010-12-07,F,Hualpén,1º B,4.3,86,Apoyo psicosocial,Trastorno del lenguaje,Gabriel Soto,972905175
+M-7667,21604392-5,Florencia Morales Morales,2010-06-24,F,Hualpén,3º C,6.2,96,Programa de integración (PIE),No,Benjamín Díaz,980721141
+M-7668,22912910-0,Diego Torres Hernández,2009-10-25,M,San Pedro de la Paz,2º A,6.4,90,Beca alimentación,No,Agustín Muñoz,993136654
+M-7669,20306942-K,Amanda Muñoz Muñoz,2007-04-18,F,Talcahuano,1º C,5.7,90,Programa de integración (PIE),No,Benjamín Vega,933006762
+M-7670,24098414-2,Florencia Rojas Muñoz,2007-02-02,F,Hualpén,1º B,4.8,89,Beca alimentación,No,Josefa Flores,983337004
+M-7671,23985957-2,Martina Vega Araya,2011-06-01,F,Concepción,3º A,4.9,84,Programa de integración (PIE),No,Josefa López,923240964
+M-7672,22768160-4,Lucas Silva Martínez,2010-11-15,M,Talcahuano,2º C,4.7,96,Retención escolar,No,Tomás Rojas,976185185
+M-7673,24175206-7,Benjamín Hernández Silva,2008-02-14,M,San Pedro de la Paz,4º A,5.2,80,Ninguno,No,Agustín Martínez,948864175
+M-7674,23659662-7,Benjamín Rodríguez Torres,2011-11-16,M,Concepción,2º B,5.4,97,Apoyo psicosocial,No,Matías Torres,963105352
+M-7675,20524034-7,Amanda Araya Martínez,2009-03-06,F,Hualpén,3º C,5.5,96,Apoyo psicosocial,No,Javiera Contreras,913432890
+M-7676,24085415-K,Josefa Vega Pérez,2007-10-14,F,Talcahuano,4º B,4.7,81,Ninguno,No,Emilia Araya,926032137
+M-7677,21854882-K,Catalina Vega Rojas,2011-10-13,F,Hualpén,1º B,5.9,95,Beca alimentación,No,Catalina Fuentes,918035831
+M-7678,21807613-8,Martín Rojas Fuentes,2008-06-11,M,Concepción,3º A,5.5,96,Ninguno,No,Lucas Soto,951376482
+M-7679,21899542-7,Martina Araya Araya,2010-11-12,F,Hualpén,1º C,5.7,85,Ninguno,No,Tomás Sepúlveda,951285663
+M-7680,24155732-9,Lucas Araya Silva,2007-08-04,M,Coronel,3º A,5.8,86,Ninguno,No,Josefa López,948907945
+M-7681,24420541-5,Joaquín Fuentes Espinoza,2007-10-22,M,Coronel,1º B,6.9,87,Ninguno,No,Diego Flores,917948090
+M-7682,20931982-7,Vicente González Morales,2009-06-26,M,Talcahuano,2º B,5.3,100,Ninguno,No,Antonia Rodríguez,992846867
+M-7683,22010571-3,Martín Martínez Araya,2012-06-22,M,Talcahuano,1º C,4.5,79,Programa de integración (PIE),No,Antonia Silva,939452765
+M-7684,21827896-2,Antonia Muñoz Soto,2010-11-07,F,Coronel,1º C,5.4,98,Ninguno,No,Florencia Vega,979333362
+M-7685,22644685-7,Joaquín Fuentes Pérez,2012-08-10,M,Hualpén,1º C,4.6,100,Ninguno,No,Amanda Fuentes,987150142
+M-7686,23134999-0,Lucas Hernández Sepúlveda,2009-07-19,M,Coronel,1º A,5.9,85,Programa de integración (PIE),No,Agustín Torres,948256378
+M-7687,21528154-7,Lucas Fuentes Araya,2011-02-19,M,Talcahuano,2º B,6.2,93,Beca alimentación,No,Josefa Pérez,962539383
+M-7688,20933691-8,Martín Díaz Rojas,2009-03-26,M,Talcahuano,3º B,5.9,98,Apoyo psicosocial,No,Lucas Muñoz,911616723
+M-7689,23561755-8,Antonia Espinoza Fuentes,2011-11-04,F,Tomé,3º A,5.5,94,Ninguno,Trastorno del lenguaje,Florencia Muñoz,957939613
+M-7690,24233416-1,Isidora Flores González,2007-01-11,F,Penco,1º B,6.1,100,Ninguno,No,Martín Martínez,977427810
+M-7691,22520621-6,Agustín Rojas Torres,2012-04-12,M,Talcahuano,2º C,5.0,82,Ninguno,No,Antonia Hernández,971096884
+M-7692,24358488-9,Antonia Silva Morales,2010-06-22,F,Coronel,2º C,4.9,100,Beca alimentación,No,Agustín Muñoz,998197659
+M-7693,20394692-7,Antonia Vega Muñoz,2012-10-13,F,Hualpén,3º B,6.8,79,Retención escolar,No,Sofía Martínez,923074686
+M-7694,21666021-5,Emilia Fuentes Morales,2008-11-25,F,Chiguayante,1º A,5.4,96,Programa de integración (PIE),No,Florencia Torres,977863496
+M-7695,22371309-9,Sofía Araya González,2008-07-08,F,Hualpén,1º B,5.3,86,Ninguno,No,Amanda Torres,923857920
+M-7696,22473684-K,Sofía Torres Fuentes,2012-10-22,F,Penco,4º A,4.9,89,Programa de integración (PIE),No,Javiera Díaz,931563022
+M-7697,20086257-9,Lucas Fuentes Araya,2011-07-18,M,Hualpén,3º C,5.7,87,Apoyo psicosocial,Discapacidad auditiva,Vicente Morales,989206154
+M-7698,23351475-1,Benjamín López López,2009-06-12,M,Hualpén,1º C,5.9,73,Ninguno,No,Benjamín Rodríguez,912335173
+M-7699,22066000-8,Matías Sepúlveda Torres,2009-03-06,M,Hualpén,4º B,5.2,78,Apoyo psicosocial,No,Gabriel Morales,967493705
+M-7700,22201018-3,Matías Pérez Espinoza,2009-10-11,M,Chiguayante,1º B,6.0,97,Apoyo psicosocial,No,Benjamín Soto,954226807
+M-7701,23000423-K,Sofía Contreras Espinoza,2009-09-07,F,Talcahuano,2º C,4.4,87,Ninguno,No,Isidora Rodríguez,936344827
+M-7702,22748312-8,Joaquín Silva Araya,2010-06-18,M,Hualpén,1º C,4.9,75,Ninguno,No,Diego Pérez,978163838
+M-7703,20820998-K,Matías Rojas Silva,2009-07-17,M,Talcahuano,3º C,3.5,83,Ninguno,No,Joaquín Martínez,915095108
+M-7704,23344765-5,Benjamín Contreras Rojas,2009-08-04,M,Hualpén,1º C,5.6,87,Ninguno,No,Joaquín Rodríguez,945874227
+M-7705,20814356-3,Gabriel González Muñoz,2010-03-14,M,Talcahuano,4º B,5.9,94,Ninguno,No,Martina Silva,958218572
+M-7706,21130396-1,Diego Muñoz González,2007-10-12,M,Talcahuano,3º C,6.8,87,Apoyo psicosocial,No,Sofía Morales,934574634
+M-7707,24252755-5,Martina Fuentes Pérez,2010-07-24,F,San Pedro de la Paz,3º B,5.6,86,Beca alimentación,No,Matías López,971949466
+M-7708,21124257-1,Martina Morales Díaz,2009-08-27,F,Chiguayante,3º C,5.0,93,Ninguno,Discapacidad visual,Isidora Fuentes,987770054
+M-7709,22075895-4,Javiera Araya Rodríguez,2008-04-20,F,Penco,4º A,4.9,84,Beca alimentación,Trastorno del lenguaje,Florencia Torres,914812634
+M-7710,20457354-7,Amanda Araya Flores,2010-10-04,F,Penco,2º C,6.1,99,Ninguno,No,Matías Contreras,948670983
+M-7711,23388719-1,Vicente Flores González,2011-01-09,M,Tomé,1º B,6.0,91,Ninguno,No,Amanda Hernández,963443192
+M-7712,21123451-K,Martina Soto Silva,2008-03-10,F,Concepción,4º B,4.8,98,Apoyo psicosocial,No,Agustín Muñoz,929635635
+M-7713,20386932-9,Josefa Silva Rojas,2007-02-22,F,Talcahuano,1º A,6.0,89,Retención escolar,TDAH,Martina Rodríguez,997667414
+M-7714,20231272-K,Javiera Contreras Silva,2007-01-07,F,Concepción,1º B,5.5,100,Ninguno,No,Javiera Silva,964726801
+M-7715,20194734-9,Tomás Soto Soto,2011-03-05,M,Chiguayante,3º A,6.3,95,Ninguno,No,Isidora Rodríguez,943907989
+M-7716,21537741-2,Martín Martínez Flores,2012-11-23,M,Concepción,2º C,6.5,100,Retención escolar,No,Martín Muñoz,932743771
+M-7717,21961400-1,Josefa Martínez Sepúlveda,2008-07-12,F,Hualpén,2º A,5.1,100,Beca alimentación,No,Martín López,994285238
+M-7718,23210064-3,Agustín Rodríguez Pérez,2012-11-14,M,Concepción,3º A,5.3,90,Ninguno,No,Martina Sepúlveda,952612881
+M-7719,21590943-0,Catalina Martínez Rodríguez,2012-06-03,F,Talcahuano,3º C,5.8,100,Ninguno,TDAH,Vicente Sepúlveda,915935501
+M-7720,21629063-9,Agustín Vega Vega,2007-09-05,M,Talcahuano,1º C,5.1,90,Ninguno,No,Lucas Vega,929325649
+M-7721,21228837-0,Agustín Pérez Rodríguez,2011-10-05,M,Hualpén,3º A,5.7,97,Apoyo psicosocial,No,Sofía Martínez,913453740
+M-7722,21423375-1,Matías Rojas Pérez,2011-11-16,M,Concepción,1º C,5.8,87,Ninguno,No,Antonia Fuentes,948984092
+M-7723,20668637-3,Isidora López Muñoz,2011-01-07,F,Talcahuano,1º C,5.6,80,Beca alimentación,TDAH,Agustín Rojas,933492948
+M-7724,20486984-5,Tomás Rojas Vega,2010-03-28,M,San Pedro de la Paz,2º B,6.3,91,Retención escolar,Trastorno del lenguaje,Tomás Morales,932573146
+M-7725,21884425-9,Diego Fuentes Díaz,2009-03-18,M,Talcahuano,2º C,5.4,100,Ninguno,No,Josefa Díaz,987559201
+M-7726,21060222-1,Emilia Espinoza Flores,2011-10-05,F,Coronel,4º A,4.0,84,Ninguno,No,Gabriel Fuentes,941972675
+M-7727,21505364-1,Matías Martínez Díaz,2011-04-02,M,Concepción,3º B,6.6,86,Ninguno,No,Agustín Fuentes,965464516
+M-7728,20444732-0,Amanda Rojas Morales,2007-03-04,F,Talcahuano,1º A,5.1,87,Ninguno,No,Javiera Morales,944586930
+M-7729,23947370-4,Isidora Rodríguez González,2010-08-13,F,Penco,1º A,6.3,75,Ninguno,No,Matías Muñoz,910138583
+M-7730,24495053-6,Martín Martínez Martínez,2007-01-14,M,Talcahuano,4º A,5.3,98,Ninguno,No,Gabriel González,921338072
+M-7731,23849108-3,Martina Sepúlveda Martínez,2010-05-25,F,Concepción,4º B,5.5,95,Ninguno,No,Gabriel González,929857542
+M-7732,21137274-2,Lucas Soto Pérez,2011-06-07,M,Penco,2º C,4.9,87,Beca alimentación,No,Isidora Soto,988255436
+M-7733,21128093-7,Florencia Sepúlveda Sepúlveda,2012-05-06,F,Talcahuano,3º A,6.8,89,Ninguno,No,Emilia Pérez,984045614
+M-7734,20903269-2,Sofía Silva Silva,2012-08-08,F,Talcahuano,4º A,4.8,91,Programa de integración (PIE),No,Florencia Espinoza,955858937
+M-7735,23915221-5,Martina Silva Morales,2008-03-04,F,San Pedro de la Paz,3º B,6.1,88,Ninguno,No,Martín Morales,954700578
+M-7736,20492012-3,Matías López Martínez,2011-10-14,M,Hualpén,1º C,5.0,85,Ninguno,No,Javiera Rojas,966437990
+M-7737,20150604-0,Lucas Rodríguez Torres,2009-01-20,M,Concepción,4º A,5.1,72,Ninguno,TDAH,Florencia Morales,931220188
+M-7738,21428453-4,Antonia Sepúlveda Morales,2011-07-18,F,Chiguayante,4º B,4.4,96,Apoyo psicosocial,No,Javiera Silva,951624573
+M-7739,24132487-1,Javiera Espinoza Vega,2009-07-01,F,Concepción,2º A,5.3,100,Apoyo psicosocial,No,Emilia Flores,910385428
+M-7740,22341664-7,Catalina Soto Muñoz,2007-05-07,F,Concepción,3º A,5.4,84,Ninguno,No,Agustín Morales,928726966
+M-7741,20433410-0,Antonia Espinoza Soto,2009-09-06,F,Talcahuano,4º B,5.0,99,Beca alimentación,No,Martina Pérez,975300329
+M-7742,21357986-7,Antonia Espinoza Martínez,2007-06-04,F,Chiguayante,1º C,6.0,83,Ninguno,No,Vicente Fuentes,923906361
+M-7743,22985930-3,Agustín Martínez Contreras,2008-03-06,M,Tomé,3º C,5.8,81,Retención escolar,No,Diego Pérez,996321535
+M-7744,23149874-0,Benjamín Torres Flores,2011-09-02,M,Talcahuano,3º A,5.5,94,Beca alimentación,No,Vicente Contreras,986425895
+M-7745,20958191-2,Gabriel Torres Hernández,2011-10-13,M,Tomé,3º A,5.4,100,Ninguno,No,Catalina Pérez,927788523
+M-7746,22856724-4,Lucas Sepúlveda Hernández,2008-09-15,M,Talcahuano,1º A,6.3,94,Ninguno,No,Antonia Vega,913987717
+M-7747,24236206-8,Sofía Díaz López,2012-12-09,F,Penco,4º C,4.7,91,Programa de integración (PIE),No,Amanda González,965633325
+M-7748,22571239-1,Josefa Araya González,2007-06-10,F,Chiguayante,1º C,5.5,85,Ninguno,No,Benjamín Rojas,927270826
+M-7749,20480294-5,Tomás Sepúlveda Vega,2007-01-05,M,Talcahuano,2º B,5.4,84,Ninguno,No,Vicente Pérez,917511585
+M-7750,23236343-1,Tomás Rojas Flores,2010-11-28,M,Talcahuano,1º B,4.1,88,Programa de integración (PIE),No,Joaquín Soto,932552317
+M-7751,21002621-2,Vicente Morales Espinoza,2007-03-24,M,Hualpén,3º B,6.0,90,Programa de integración (PIE),Trastorno del lenguaje,Sofía Morales,972960703
+M-7752,22234128-7,Tomás Rojas Rojas,2010-06-27,M,Concepción,3º C,6.4,85,Ninguno,No,Javiera Torres,996599153
+M-7753,20345099-9,Tomás Rojas Soto,2012-07-18,M,Penco,3º B,5.4,85,Retención escolar,No,Catalina López,919094929
+M-7754,24493967-2,Vicente Fuentes Hernández,2007-04-16,M,Concepción,4º C,5.3,87,Apoyo psicosocial,No,Diego Soto,966704741
+M-7755,23347004-5,Amanda Muñoz Sepúlveda,2009-03-28,F,Chiguayante,2º B,6.1,85,Ninguno,TDAH,Amanda González,913328278
+M-7756,21238603-8,Tomás Silva Morales,2007-09-01,M,Tomé,3º A,5.6,100,Ninguno,No,Josefa González,980315689
+M-7757,21078617-9,Joaquín López González,2009-01-23,M,San Pedro de la Paz,2º B,4.6,77,Retención escolar,TDAH,Javiera Pérez,985153448
+M-7758,22561289-3,Lucas Contreras Muñoz,2009-11-17,M,San Pedro de la Paz,3º C,7.0,100,Ninguno,Discapacidad auditiva,Sofía Hernández,967834206
+M-7759,23871695-6,Diego Pérez Fuentes,2007-05-21,M,Tomé,1º C,6.2,100,Programa de integración (PIE),No,Lucas Martínez,964885625
+M-7760,23544759-8,Gabriel Araya Rodríguez,2007-04-16,M,Coronel,3º A,6.3,80,Programa de integración (PIE),No,Javiera Contreras,999800762
+M-7761,24183037-8,Joaquín Muñoz Contreras,2008-10-26,M,Chiguayante,2º A,5.7,92,Apoyo psicosocial,TDAH,Lucas Hernández,972866664
+M-7762,22652876-4,Martín Muñoz Rodríguez,2009-07-14,M,Talcahuano,1º A,6.7,82,Ninguno,No,Tomás Muñoz,953331889
+M-7763,23529705-7,Martín Soto Sepúlveda,2008-05-22,M,Concepción,4º A,5.1,100,Beca alimentación,TDAH,Catalina Muñoz,969705996
+M-7764,21529177-1,Diego Rojas Hernández,2009-05-05,M,Hualpén,1º A,6.1,98,Ninguno,No,Diego Silva,934265232
+M-7765,23268804-7,Amanda Sepúlveda Torres,2008-11-03,F,Concepción,3º A,6.1,99,Ninguno,No,Martina Araya,988132383
+M-7766,24326018-8,Emilia Vega Espinoza,2011-04-24,F,Penco,2º C,6.0,94,Ninguno,No,Sofía González,999637835
+M-7767,24271242-5,Antonia Contreras López,2011-09-18,F,Penco,3º C,6.0,94,Beca alimentación,No,Josefa Fuentes,925261454
+M-7768,20902657-9,Joaquín Rodríguez González,2007-03-15,M,Penco,2º C,4.5,82,Ninguno,TDAH,Javiera Espinoza,917406800
+M-7769,20780258-K,Agustín Morales López,2010-04-11,M,San Pedro de la Paz,1º C,6.4,87,Beca alimentación,No,Catalina Silva,989390302
+M-7770,22113496-2,Catalina Contreras Díaz,2011-05-03,F,San Pedro de la Paz,3º A,4.6,98,Ninguno,TDAH,Agustín Rodríguez,978034426
+M-7771,22489553-0,Amanda Contreras Pérez,2011-06-17,F,Chiguayante,2º B,5.1,96,Beca alimentación,No,Josefa Soto,959171478
+M-7772,22821047-8,Agustín González Rojas,2008-02-25,M,Coronel,1º B,7.0,72,Beca alimentación,TDAH,Matías Espinoza,931547096
+M-7773,23258097-1,Javiera González Espinoza,2012-12-07,F,Penco,3º A,5.7,70,Programa de integración (PIE),No,Florencia Soto,949567390
+M-7774,21992568-6,Josefa Torres González,2007-09-08,F,Penco,3º B,5.7,98,Beca alimentación,Discapacidad visual,Joaquín Torres,968369327
+M-7775,21683604-6,Amanda Hernández Hernández,2010-10-24,F,Talcahuano,1º B,4.9,78,Ninguno,Trastorno del lenguaje,Martina Morales,978207152
+M-7776,20568847-K,Catalina Contreras Martínez,2012-11-13,F,Concepción,4º C,5.5,85,Beca alimentación,No,Lucas Martínez,988582727
+M-7777,20201707-8,Diego Rojas Silva,2009-12-21,M,Hualpén,3º B,6.1,97,Apoyo psicosocial,No,Tomás Fuentes,995684067
+M-7778,22363330-3,Martina Martínez Vega,2009-05-22,F,Concepción,1º A,6.0,81,Apoyo psicosocial,No,Tomás Silva,996172146
+M-7779,21725640-K,Benjamín Silva Sepúlveda,2008-11-06,M,Hualpén,3º B,5.1,79,Retención escolar,No,Florencia Silva,941927495
+M-7780,21501355-0,Josefa Araya González,2009-02-05,F,Talcahuano,3º A,5.5,92,Apoyo psicosocial,No,Martín Flores,944888390
+M-7781,20582402-0,Catalina Flores Flores,2010-04-16,F,Chiguayante,2º A,6.6,79,Ninguno,Trastorno del lenguaje,Florencia Fuentes,912237218
+M-7782,23908300-0,Sofía Pérez Pérez,2012-03-24,F,Talcahuano,3º B,5.1,83,Ninguno,No,Lucas Espinoza,997979379
+M-7783,22609906-5,Antonia Sepúlveda López,2008-09-16,F,Coronel,3º A,6.2,87,Apoyo psicosocial,No,Joaquín Espinoza,978236454
+M-7784,21349788-7,Diego Hernández Morales,2011-09-20,M,Concepción,3º B,5.4,97,Apoyo psicosocial,No,Matías Sepúlveda,943299523
+M-7785,21890856-7,Isidora Díaz Morales,2007-09-02,F,Talcahuano,2º C,3.8,95,Ninguno,Discapacidad auditiva,Martín Contreras,929925465
+M-7786,21992772-7,Antonia Hernández Soto,2011-04-27,F,Penco,4º C,5.6,93,Ninguno,No,Martina Muñoz,969423495
+M-7787,22277467-1,Joaquín Morales Martínez,2009-12-11,M,Talcahuano,3º B,5.9,95,Ninguno,No,Antonia Pérez,951694701
+M-7788,21630174-6,Antonia Araya Contreras,2011-02-18,F,Talcahuano,3º B,5.7,90,Beca alimentación,No,Antonia Araya,983088109
+M-7789,22776581-6,Tomás Silva Morales,2011-12-28,M,Concepción,4º C,5.1,85,Ninguno,No,Gabriel Soto,991555336
+M-7790,23722769-2,Catalina Morales Rojas,2008-04-24,F,Talcahuano,2º C,5.6,89,Programa de integración (PIE),No,Benjamín Morales,942632800
+M-7791,23532788-6,Matías Rodríguez Pérez,2012-12-12,M,Concepción,3º B,6.6,84,Beca alimentación,No,Sofía Contreras,941068631
+M-7792,20981322-8,Diego Espinoza Pérez,2009-02-20,M,Tomé,3º C,4.7,100,Retención escolar,No,Joaquín Vega,943235278
+M-7793,21573637-4,Florencia Pérez Morales,2007-08-15,F,San Pedro de la Paz,3º C,6.5,97,Ninguno,No,Matías Rojas,992683632
+M-7794,21489882-6,Emilia Flores Fuentes,2007-04-02,F,San Pedro de la Paz,4º A,4.4,100,Beca alimentación,No,Amanda Torres,988957987
+M-7795,24373454-6,Josefa Fuentes Contreras,2008-02-12,F,Chiguayante,1º C,4.8,94,Beca alimentación,No,Vicente Fuentes,914874373
+M-7796,20946624-2,Benjamín Sepúlveda Araya,2011-10-13,M,Concepción,2º C,4.6,86,Ninguno,TDAH,Lucas Espinoza,972316606
+M-7797,22634618-6,Sofía Vega Torres,2011-02-07,F,Talcahuano,3º A,5.1,84,Ninguno,No,Javiera Rodríguez,988844667
+M-7798,21882122-4,Martina Fuentes Martínez,2007-08-09,F,Chiguayante,2º C,6.3,75,Retención escolar,No,Tomás Vega,910706862
+M-7799,21493760-0,Benjamín Sepúlveda Torres,2010-08-08,M,Talcahuano,1º A,5.2,85,Ninguno,Discapacidad auditiva,Martina Martínez,910538354
+M-7800,20859404-2,Tomás Martínez Muñoz,2010-01-02,M,Concepción,4º A,5.6,91,Ninguno,No,Gabriel Sepúlveda,926633287
+M-7801,24490528-K,Vicente Pérez Hernández,2007-05-06,M,Coronel,3º A,5.7,83,Retención escolar,No,Martín Morales,988539187
+M-7802,22811244-1,Sofía Torres Fuentes,2009-10-23,F,Coronel,1º A,6.0,86,Beca alimentación,No,Josefa Silva,991934000
+M-7803,20093809-5,Martín Silva Silva,2009-08-15,M,Concepción,1º A,5.7,94,Beca alimentación,No,Vicente Hernández,952268079
+M-7804,22183871-4,Amanda Rodríguez Pérez,2012-05-14,F,Coronel,1º B,6.4,100,Ninguno,No,Joaquín Hernández,912428243
+M-7805,24406607-5,Diego Martínez Soto,2012-08-04,M,Concepción,1º B,4.8,84,Retención escolar,No,Amanda Muñoz,965121993
+M-7806,20433126-8,Josefa Muñoz Morales,2011-06-19,F,Coronel,1º C,3.8,100,Programa de integración (PIE),No,Lucas González,999308877
+M-7807,20976426-K,Joaquín López Hernández,2010-07-15,M,Concepción,1º B,6.1,75,Beca alimentación,No,Agustín López,912808021
+M-7808,20581612-5,Gabriel Pérez Morales,2011-06-10,M,Concepción,4º C,5.2,92,Ninguno,No,Benjamín Sepúlveda,979555114
+M-7809,23808206-K,Lucas Soto Silva,2011-08-10,M,Concepción,4º B,6.0,95,Apoyo psicosocial,No,Isidora Espinoza,977505384
+M-7810,20395188-2,Diego Vega Sepúlveda,2008-08-23,M,Talcahuano,3º C,6.3,93,Ninguno,No,Amanda Rodríguez,946503822
+M-7811,23487114-0,Tomás López Rojas,2007-08-02,M,Talcahuano,4º C,5.2,73,Programa de integración (PIE),No,Florencia Flores,914783206
+M-7812,21845440-K,Sofía González Flores,2009-07-24,F,Penco,3º A,5.8,99,Ninguno,No,Isidora Fuentes,967580915
+M-7813,22289608-4,Javiera Torres Fuentes,2011-12-01,F,Concepción,2º C,4.5,86,Ninguno,No,Sofía Rojas,922401387
+M-7814,20225769-9,Florencia Sepúlveda Sepúlveda,2008-02-04,F,Coronel,4º C,4.1,100,Beca alimentación,No,Martín González,961351402
+M-7815,22036045-4,Martina Silva López,2009-07-12,F,Concepción,3º C,5.6,79,Ninguno,No,Diego Martínez,916784042
+M-7816,24458412-2,Diego Muñoz Vega,2009-06-19,M,Talcahuano,4º C,4.5,83,Apoyo psicosocial,No,Lucas Martínez,965402911
+M-7817,21471286-2,Amanda Rojas Muñoz,2011-04-02,F,Talcahuano,4º B,5.7,77,Apoyo psicosocial,No,Amanda López,923944871
+M-7818,21133454-9,Lucas Torres González,2010-09-23,M,Hualpén,3º C,5.1,77,Ninguno,No,Benjamín Muñoz,944345566
+M-7819,20985744-6,Catalina Rojas Soto,2007-06-02,F,San Pedro de la Paz,3º B,6.7,93,Retención escolar,No,Sofía Flores,989342774
+M-7820,23066297-0,Vicente González Martínez,2009-12-25,M,Concepción,3º B,5.3,100,Ninguno,No,Gabriel Flores,930513827
+M-7821,23158863-4,Antonia Vega Morales,2008-01-27,F,Talcahuano,4º B,5.7,93,Apoyo psicosocial,No,Benjamín Torres,997979943
+M-7822,20187459-7,Javiera Rojas Morales,2008-07-17,F,Chiguayante,1º A,6.0,72,Ninguno,No,Joaquín Espinoza,943738895
+M-7823,23680747-4,Florencia Silva Hernández,2009-02-09,F,Concepción,4º B,4.9,86,Ninguno,No,Diego Martínez,915163620
+M-7824,20704428-6,Agustín Rojas Pérez,2007-06-28,M,Talcahuano,1º C,5.5,75,Ninguno,No,Josefa Rojas,920987629
+M-7825,20376326-1,Florencia Soto Martínez,2012-11-26,F,Talcahuano,2º C,5.2,80,Ninguno,No,Josefa Hernández,976643096
+M-7826,23280949-9,Agustín Martínez López,2012-07-22,M,Concepción,1º C,6.7,71,Apoyo psicosocial,No,Lucas López,946183479
+M-7827,23185628-0,Diego López Pérez,2011-09-25,M,Chiguayante,3º B,5.6,100,Ninguno,No,Antonia Torres,930004354
+M-7828,21114717-K,Javiera Vega Morales,2012-11-23,F,Chiguayante,1º A,5.4,91,Beca alimentación,No,Amanda Soto,947022880
+M-7829,22575843-K,Isidora Espinoza Espinoza,2011-06-08,F,Hualpén,1º A,6.9,72,Programa de integración (PIE),No,Emilia Flores,935513709
+M-7830,23301453-8,Sofía Flores Rodríguez,2010-02-09,F,Concepción,2º A,5.8,90,Beca alimentación,No,Martina Silva,913020134
+M-7831,22085848-7,Diego Rodríguez Espinoza,2007-03-07,M,Tomé,1º C,6.6,87,Apoyo psicosocial,No,Javiera Sepúlveda,969936044
+M-7832,20661977-3,Isidora Pérez Muñoz,2008-01-01,F,Hualpén,3º A,5.8,85,Programa de integración (PIE),No,Martín Pérez,950490083
+M-7833,20844675-2,Joaquín Araya Flores,2009-11-18,M,Hualpén,1º B,7.0,94,Ninguno,No,Javiera Martínez,939642338
+M-7834,20441711-1,Martín González Contreras,2012-04-14,M,Chiguayante,2º C,5.0,87,Retención escolar,No,Diego Soto,982489211
+M-7835,21766822-8,Florencia Morales Díaz,2009-06-24,F,Coronel,3º C,5.1,90,Ninguno,No,Emilia Soto,933508018
+M-7836,21725009-6,Josefa Torres Pérez,2011-12-24,F,Concepción,2º C,4.6,94,Beca alimentación,No,Isidora Soto,953912091
+M-7837,21083330-4,Josefa Soto Soto,2007-12-23,F,San Pedro de la Paz,3º C,5.0,100,Ninguno,No,Lucas Fuentes,994262177
+M-7838,22745704-6,Emilia Silva Espinoza,2010-10-14,F,Tomé,2º B,4.7,95,Ninguno,No,Gabriel Rodríguez,982964202
+M-7839,23855818-8,Florencia Vega Rodríguez,2008-06-12,F,Talcahuano,2º B,6.0,99,Ninguno,No,Matías López,917756386
+M-7840,21472433-K,Vicente Hernández Morales,2012-08-09,M,San Pedro de la Paz,4º A,6.0,100,Beca alimentación,No,Amanda Hernández,956010964
+M-7841,22007893-7,Lucas Morales González,2008-07-02,M,San Pedro de la Paz,1º A,6.2,77,Apoyo psicosocial,No,Antonia Torres,953058623
+M-7842,21654671-4,Agustín Muñoz Flores,2009-03-04,M,Hualpén,4º A,5.5,85,Apoyo psicosocial,No,Amanda Soto,956118304
+M-7843,22054658-2,Martina Araya López,2009-10-09,F,San Pedro de la Paz,3º C,5.4,89,Apoyo psicosocial,No,Lucas Vega,931119450
+M-7844,22931038-7,Amanda Silva Espinoza,2011-03-05,F,Talcahuano,2º A,5.2,79,Ninguno,No,Gabriel Torres,942775606
+M-7845,22371398-6,Isidora González Fuentes,2008-12-08,F,Concepción,4º B,6.7,86,Retención escolar,Discapacidad auditiva,Antonia Espinoza,979292112
+M-7846,23325891-7,Javiera Rodríguez Vega,2010-05-19,F,Concepción,4º C,5.2,97,Beca alimentación,No,Martín Vega,962815327
+M-7847,21610739-7,Benjamín Soto Araya,2012-06-16,M,San Pedro de la Paz,2º B,7.0,93,Apoyo psicosocial,No,Emilia Pérez,927556890
+M-7848,23267348-1,Catalina Muñoz Torres,2009-06-11,F,Talcahuano,2º C,4.9,92,Programa de integración (PIE),Discapacidad visual,Joaquín Rojas,935936172
+M-7849,24219956-6,Emilia Pérez Contreras,2012-07-06,F,Concepción,4º C,5.6,89,Ninguno,No,Catalina López,984348164
+M-7850,22851070-6,Isidora Hernández Sepúlveda,2007-09-01,F,Concepción,3º B,6.2,73,Programa de integración (PIE),Trastorno del lenguaje,Isidora Morales,996432779
+M-7851,22095841-4,Gabriel Martínez Contreras,2008-03-04,M,Tomé,3º C,6.2,100,Beca alimentación,TDAH,Isidora Espinoza,995119373
+M-7852,24057486-6,Martín Martínez Morales,2009-01-09,M,Hualpén,3º B,5.9,82,Beca alimentación,No,Martín Soto,969859360
+M-7853,20938655-9,Gabriel Rojas González,2012-07-22,M,Talcahuano,1º A,6.0,99,Apoyo psicosocial,No,Emilia Rojas,957647762
+M-7854,20817715-8,Diego Vega Flores,2008-07-14,M,Hualpén,1º B,5.7,84,Ninguno,No,Lucas Díaz,970157206
+M-7855,24037332-1,Catalina González Torres,2011-12-20,F,Tomé,3º A,7.0,91,Beca alimentación,No,Amanda Martínez,962947165
+M-7856,22708503-3,Matías Sepúlveda Espinoza,2011-02-12,M,Talcahuano,1º B,5.6,98,Beca alimentación,TDAH,Isidora Sepúlveda,992148476
+M-7857,23231283-7,Martina Rodríguez Rojas,2009-09-17,F,San Pedro de la Paz,3º A,4.9,88,Beca alimentación,No,Amanda Rojas,945298873
+M-7858,21547174-5,Antonia Silva Fuentes,2012-04-24,F,Chiguayante,2º C,5.6,67,Ninguno,No,Lucas Sepúlveda,930410953
+M-7859,22138285-0,Agustín Soto Fuentes,2007-04-18,M,Talcahuano,4º B,5.7,80,Apoyo psicosocial,No,Diego Espinoza,917435930
+M-7860,24410257-8,Javiera Contreras González,2012-07-25,F,Chiguayante,2º C,6.7,85,Apoyo psicosocial,No,Diego Fuentes,927253220
+M-7861,23270403-4,Amanda Silva Vega,2012-04-01,F,Talcahuano,4º A,5.4,94,Beca alimentación,No,Tomás Muñoz,979264160
+M-7862,20858604-K,Matías Soto Flores,2008-07-12,M,Chiguayante,2º B,5.4,94,Beca alimentación,No,Catalina Pérez,974969947
+M-7863,22773901-7,Javiera Hernández Torres,2012-05-28,F,Talcahuano,1º A,4.8,100,Ninguno,No,Javiera Espinoza,949710425
+M-7864,22592274-4,Javiera Hernández Morales,2010-07-18,F,Hualpén,1º A,4.6,89,Ninguno,No,Diego Sepúlveda,951208250
+M-7865,21042722-5,Gabriel González González,2010-04-10,M,Talcahuano,2º C,4.5,81,Apoyo psicosocial,No,Florencia Rojas,928414170
+M-7866,22401773-8,Catalina Rodríguez Pérez,2007-06-08,F,Hualpén,1º C,6.3,100,Ninguno,No,Antonia Muñoz,988766079
+M-7867,22530765-9,Javiera Muñoz Rojas,2010-01-26,F,Concepción,2º A,4.8,84,Programa de integración (PIE),No,Lucas Muñoz,995229110
+M-7868,20576083-9,Sofía Contreras Hernández,2008-03-02,F,Chiguayante,4º A,5.6,82,Beca alimentación,No,Joaquín Espinoza,914790632
+M-7869,20288449-9,Amanda Torres Rodríguez,2008-04-03,F,Hualpén,2º C,5.8,100,Ninguno,No,Amanda Araya,911381985
+M-7870,20823908-0,Martina Sepúlveda Espinoza,2010-04-03,F,Penco,3º B,6.2,86,Programa de integración (PIE),No,Emilia Díaz,922327089
+M-7871,23352734-9,Antonia Sepúlveda Espinoza,2011-05-24,F,San Pedro de la Paz,4º B,6.2,91,Ninguno,No,Benjamín Martínez,959492032
+M-7872,24198238-0,Javiera López Espinoza,2008-02-21,F,San Pedro de la Paz,3º A,5.0,86,Ninguno,No,Josefa González,973542965
+M-7873,23025973-4,Matías González Flores,2007-06-08,M,Concepción,3º A,4.4,89,Apoyo psicosocial,No,Diego Morales,994063157
+M-7874,20069100-6,Emilia Rodríguez Silva,2009-02-08,F,Concepción,2º B,4.8,92,Ninguno,No,Diego Fuentes,929771179
+M-7875,21333257-8,Matías Vega Fuentes,2011-02-21,M,Penco,3º C,6.1,100,Retención escolar,No,Isidora Silva,997830658
+M-7876,22246266-1,Isidora Torres Martínez,2012-07-16,F,Talcahuano,2º B,4.5,70,Beca alimentación,No,Sofía González,923505427
+M-7877,20168066-0,Diego González Vega,2012-06-03,M,Chiguayante,2º C,5.5,100,Beca alimentación,No,Benjamín Muñoz,948871769
+M-7878,22461606-2,Antonia López Soto,2011-03-27,F,Concepción,1º A,6.0,87,Ninguno,No,Martín Silva,997020310
+M-7879,24216218-2,Emilia Vega Rojas,2008-01-22,F,Chiguayante,3º C,5.6,65,Apoyo psicosocial,No,Martín Martínez,984501181
+M-7880,21560846-5,Isidora Hernández López,2007-11-16,F,Concepción,3º B,5.5,91,Beca alimentación,No,Benjamín Rojas,976878294
+M-7881,21464843-9,Joaquín Sepúlveda Flores,2010-10-24,M,Talcahuano,3º B,5.0,83,Retención escolar,No,Sofía López,969170185
+M-7882,24460196-5,Diego Fuentes Torres,2011-05-15,M,Hualpén,3º A,4.4,100,Beca alimentación,No,Josefa Pérez,985255037
+M-7883,20680565-8,Gabriel Vega Díaz,2009-10-07,M,Chiguayante,2º C,5.5,96,Ninguno,TDAH,Benjamín Espinoza,921134438
+M-7884,21428962-5,Martín Rodríguez Rodríguez,2007-05-11,M,Coronel,3º B,4.8,85,Ninguno,Trastorno del lenguaje,Sofía Fuentes,984386819
+M-7885,24074017-0,Josefa Sepúlveda Flores,2007-04-19,F,Concepción,2º A,4.9,80,Apoyo psicosocial,No,Florencia Sepúlveda,926612599
+M-7886,24261275-7,Josefa Hernández Silva,2010-06-23,F,Chiguayante,2º A,5.3,86,Beca alimentación,No,Antonia Flores,978755872
+M-7887,21947927-9,Matías Rodríguez Hernández,2012-08-09,M,Talcahuano,2º B,6.4,97,Ninguno,No,Josefa Martínez,996693195
+M-7888,23691672-9,Matías Flores Hernández,2008-09-16,M,Concepción,1º B,5.5,75,Apoyo psicosocial,No,Joaquín González,974482331
+M-7889,23133192-7,Diego Flores Contreras,2009-06-22,M,Coronel,1º C,6.3,82,Ninguno,No,Isidora López,934433861
+M-7890,23153318-K,Gabriel Contreras Morales,2010-01-27,M,Chiguayante,4º C,5.8,91,Beca alimentación,No,Benjamín Martínez,955417592
+M-7891,23518945-9,Joaquín Flores Díaz,2007-11-17,M,Talcahuano,2º A,6.1,91,Apoyo psicosocial,No,Josefa Contreras,930220481
+M-7892,20125198-0,Lucas Rojas Sepúlveda,2011-04-08,M,Talcahuano,1º C,6.7,81,Beca alimentación,No,Matías Contreras,920735384
+M-7893,20204230-7,Vicente Sepúlveda Espinoza,2012-09-13,M,Concepción,2º B,6.1,89,Ninguno,No,Josefa Fuentes,918593092
+M-7894,21793450-5,Catalina Hernández Contreras,2009-07-21,F,Chiguayante,2º B,5.3,100,Programa de integración (PIE),No,Tomás Espinoza,932234555
+M-7895,24471298-8,Antonia Díaz Soto,2011-10-02,F,Talcahuano,1º A,5.6,87,Ninguno,No,Benjamín Silva,932614945
+M-7896,24445607-8,Josefa Araya Contreras,2010-07-07,F,Hualpén,1º B,4.5,94,Retención escolar,No,Javiera Morales,985081899
+M-7897,24246826-5,Emilia Silva González,2009-08-11,F,Talcahuano,2º B,5.6,73,Apoyo psicosocial,No,Emilia Pérez,993641054
+M-7898,22978275-0,Agustín Sepúlveda Martínez,2011-12-27,M,Tomé,2º C,5.3,89,Beca alimentación,No,Emilia Morales,991333360
+M-7899,20332233-8,Lucas Rodríguez Fuentes,2012-10-02,M,Penco,2º C,5.8,86,Ninguno,Discapacidad auditiva,Agustín Soto,974306195
+M-7900,20375286-3,Amanda Morales Araya,2012-09-08,F,Chiguayante,2º C,5.7,85,Ninguno,No,Antonia Martínez,925975171
+M-7901,21942012-6,Agustín Espinoza Hernández,2010-10-26,M,Chiguayante,4º A,5.3,92,Ninguno,No,Antonia Soto,992416928
+M-7902,21324114-9,Javiera Araya Díaz,2009-03-12,F,Chiguayante,3º A,5.7,87,Apoyo psicosocial,No,Lucas Silva,941687786
+M-7903,23941667-0,Martina Vega Martínez,2012-03-22,F,Chiguayante,1º C,5.6,81,Beca alimentación,No,Catalina Torres,932859616
+M-7904,23642582-2,Javiera Rojas Martínez,2009-09-24,F,Hualpén,4º A,6.3,78,Ninguno,No,Isidora Muñoz,949560832
+M-7905,20139438-2,Matías Contreras Hernández,2007-06-14,M,Talcahuano,1º C,5.6,77,Programa de integración (PIE),No,Amanda Rojas,929672737
+M-7906,20601817-6,Isidora Sepúlveda González,2008-11-28,F,Concepción,3º A,5.7,76,Retención escolar,TDAH,Matías Rojas,974175285
+M-7907,20903830-5,Martina Torres Morales,2009-05-07,F,Chiguayante,1º B,4.8,96,Ninguno,Trastorno del lenguaje,Benjamín Morales,964551095
+M-7908,24296959-0,Sofía Torres González,2007-04-05,F,Penco,1º B,5.1,96,Retención escolar,No,Benjamín Soto,987036932
+M-7909,23440340-6,Emilia Díaz Martínez,2010-07-17,F,Talcahuano,2º C,4.4,81,Programa de integración (PIE),No,Diego Vega,968527188
+M-7910,20639404-6,Emilia Flores Soto,2007-08-17,F,Hualpén,3º C,5.0,84,Ninguno,No,Lucas Contreras,972837710
+M-7911,22809223-8,Joaquín Muñoz Soto,2009-12-21,M,Concepción,3º A,5.6,98,Apoyo psicosocial,No,Vicente Espinoza,983573067
+M-7912,20180230-8,Martín González González,2010-11-10,M,Coronel,2º C,6.5,95,Beca alimentación,No,Emilia Silva,996848894
+M-7913,21457647-0,Josefa Contreras Hernández,2009-02-01,F,Concepción,2º C,4.5,88,Ninguno,Trastorno del lenguaje,Joaquín Hernández,995328258
+M-7914,22738228-3,Javiera Muñoz González,2011-05-03,F,San Pedro de la Paz,3º A,5.1,75,Beca alimentación,No,Florencia Rojas,958137627
+M-7915,22663087-9,Catalina Contreras Sepúlveda,2011-09-21,F,Hualpén,3º A,5.0,81,Ninguno,No,Sofía Araya,987911634
+M-7916,22854304-3,Matías Vega Rodríguez,2009-05-15,M,Talcahuano,4º A,5.7,95,Retención escolar,TDAH,Martín Silva,968603133
+M-7917,21150316-2,Josefa Flores Silva,2012-10-26,F,Hualpén,3º A,5.6,89,Ninguno,No,Amanda Rojas,943764289
+M-7918,20213443-0,Javiera Vega Flores,2008-10-03,F,Talcahuano,1º B,4.8,96,Programa de integración (PIE),No,Catalina Martínez,932001043
+M-7919,22132544-K,Benjamín Sepúlveda Rodríguez,2012-10-08,M,Chiguayante,1º C,4.6,92,Beca alimentación,TDAH,Antonia González,912674382
+M-7920,20889062-8,Martina Pérez Flores,2007-12-21,F,San Pedro de la Paz,3º B,6.6,100,Beca alimentación,Trastorno del lenguaje,Benjamín Vega,977415324
+M-7921,23455920-1,Emilia Rojas Martínez,2010-07-26,F,Talcahuano,3º C,6.0,100,Beca alimentación,No,Josefa Sepúlveda,936307269
+M-7922,23651359-4,Emilia Rodríguez Hernández,2009-11-18,F,Talcahuano,3º C,6.2,86,Ninguno,No,Emilia Torres,989984466
+M-7923,22791887-6,Tomás Díaz Sepúlveda,2008-02-19,M,Hualpén,2º B,5.4,84,Ninguno,No,Martín Araya,940065169
+M-7924,20644816-2,Martina Flores Díaz,2012-01-24,F,Tomé,2º A,5.1,87,Ninguno,No,Matías Rodríguez,930328994
+M-7925,21783291-5,Josefa Contreras Silva,2012-08-13,F,San Pedro de la Paz,2º B,4.7,77,Apoyo psicosocial,No,Emilia Vega,971486507
+M-7926,24281582-8,Matías Espinoza Muñoz,2008-03-24,M,Hualpén,1º B,6.7,87,Apoyo psicosocial,No,Isidora Rojas,956628032
+M-7927,20876634-K,Martina Pérez Fuentes,2008-08-18,F,Talcahuano,2º C,6.2,90,Retención escolar,No,Antonia Araya,991031647
+M-7928,22574495-1,Sofía Espinoza Vega,2011-09-20,F,San Pedro de la Paz,2º C,7.0,93,Beca alimentación,No,Lucas Soto,944621719
+M-7929,23458979-8,Matías López Muñoz,2010-12-13,M,Talcahuano,2º B,6.2,84,Ninguno,No,Martín Sepúlveda,936435041
+M-7930,21829113-6,Sofía Flores Contreras,2008-01-23,F,San Pedro de la Paz,1º C,5.2,83,Beca alimentación,No,Vicente Morales,944405305
+M-7931,21196971-4,Isidora Silva Torres,2008-03-19,F,Chiguayante,2º B,5.3,88,Apoyo psicosocial,Trastorno del lenguaje,Josefa Vega,964269457
+M-7932,21235501-9,Emilia Silva Hernández,2010-01-24,F,Chiguayante,1º C,5.9,95,Ninguno,No,Martina Vega,952915068
+M-7933,21419160-9,Amanda Martínez Fuentes,2010-01-09,F,Chiguayante,3º B,5.6,90,Ninguno,No,Josefa Araya,955113196
+M-7934,21461328-7,Joaquín Hernández Díaz,2007-08-05,M,Penco,2º B,6.2,93,Beca alimentación,No,Agustín Pérez,919898239
+M-7935,22424029-1,Matías Rojas Fuentes,2010-01-05,M,Concepción,2º C,6.5,100,Retención escolar,No,Joaquín Torres,937870831
+M-7936,22603544-K,Florencia Silva Rodríguez,2012-02-23,F,Concepción,3º B,5.9,83,Beca alimentación,TDAH,Agustín Espinoza,977147625
+M-7937,24032508-4,Lucas Fuentes González,2008-09-15,M,Concepción,2º C,5.2,90,Retención escolar,No,Isidora Pérez,939891305
+M-7938,22885527-4,Isidora Díaz Díaz,2009-10-25,F,San Pedro de la Paz,3º A,5.8,86,Retención escolar,No,Amanda Pérez,983382484
+M-7939,22904612-4,Benjamín Morales Silva,2009-10-14,M,San Pedro de la Paz,4º B,5.0,97,Beca alimentación,No,Agustín Pérez,936549011
+M-7940,21111715-7,Lucas Vega Pérez,2011-05-23,M,Coronel,1º C,5.8,90,Beca alimentación,No,Isidora Espinoza,986102217
+M-7941,21544255-9,Martín González López,2010-02-25,M,Penco,4º C,5.2,81,Apoyo psicosocial,No,Benjamín Díaz,914752209
+M-7942,24370474-4,Lucas Díaz Araya,2009-02-14,M,Talcahuano,4º B,6.7,85,Ninguno,No,Isidora Fuentes,999907489
+M-7943,20147968-K,Lucas Vega Vega,2007-09-11,M,San Pedro de la Paz,4º C,4.5,94,Apoyo psicosocial,No,Martín Morales,994733144
+M-7944,23010849-3,Diego González Flores,2012-03-25,M,Talcahuano,4º A,6.5,84,Beca alimentación,No,Vicente Rojas,964170159
+M-7945,22754857-2,Agustín Vega Fuentes,2011-04-18,M,Penco,1º C,5.4,100,Beca alimentación,No,Martina González,991241383
+M-7946,20956038-9,Martín Araya Morales,2007-01-09,M,Coronel,1º B,5.0,90,Apoyo psicosocial,No,Catalina González,912358237
+M-7947,23920386-3,Matías Soto Fuentes,2010-03-06,M,Concepción,3º B,6.4,86,Ninguno,No,Josefa Rojas,979626758
+M-7948,23882387-6,Gabriel Torres Rojas,2011-11-22,M,Concepción,2º A,4.7,97,Apoyo psicosocial,No,Tomás Contreras,975896370
+M-7949,21133823-4,Diego López Soto,2008-03-23,M,Talcahuano,2º A,4.7,83,Ninguno,No,Catalina Hernández,923794926
+M-7950,20173964-9,Tomás Vega Fuentes,2011-02-27,M,Talcahuano,4º C,5.8,70,Ninguno,TDAH,Emilia Morales,925150532
+M-7951,20955926-7,Josefa Silva Soto,2009-10-18,F,Tomé,1º A,5.8,71,Retención escolar,No,Agustín Flores,940571492
+M-7952,24061944-4,Isidora Pérez Contreras,2008-03-23,F,Coronel,3º C,4.2,100,Ninguno,No,Sofía Silva,924098277
+M-7953,20015544-9,Sofía Rojas Torres,2009-02-08,F,Tomé,2º C,5.0,83,Ninguno,Trastorno del lenguaje,Gabriel Contreras,928565029
+M-7954,23230557-1,Lucas Fuentes Flores,2011-02-28,M,Tomé,1º B,6.4,94,Ninguno,No,Vicente Díaz,941077276
+M-7955,23169316-0,Isidora Sepúlveda Rojas,2011-04-10,F,Talcahuano,1º C,5.5,90,Apoyo psicosocial,No,Martina Díaz,989428600
+M-7956,20868622-2,Agustín Araya Contreras,2007-06-01,M,San Pedro de la Paz,2º B,6.0,85,Beca alimentación,No,Martina Araya,971608075
+M-7957,20710944-2,Benjamín González Silva,2007-05-24,M,Chiguayante,4º B,5.2,90,Beca alimentación,No,Vicente Rojas,997695444
+M-7958,22264536-7,Sofía Hernández Muñoz,2008-03-04,F,Coronel,3º A,6.5,73,Ninguno,No,Matías Díaz,983230329
+M-7959,20609991-5,Catalina Rojas Muñoz,2010-12-18,F,Hualpén,2º C,5.6,81,Beca alimentación,No,Catalina Soto,989632478
+M-7960,23828197-6,Emilia Rojas Vega,2010-05-18,F,San Pedro de la Paz,4º B,4.6,82,Ninguno,No,Isidora Araya,979160723
+M-7961,23669495-5,Emilia Vega Espinoza,2007-12-24,F,Concepción,2º C,5.3,94,Ninguno,TDAH,Sofía Torres,968208951
+M-7962,20474312-4,Antonia Torres Espinoza,2011-01-14,F,Talcahuano,3º A,5.7,99,Ninguno,No,Isidora Soto,991084502
+M-7963,22708853-9,Martina González Rojas,2008-08-09,F,Talcahuano,2º B,5.7,83,Programa de integración (PIE),No,Diego Fuentes,947748783
+M-7964,21741467-6,Antonia López Sepúlveda,2007-01-27,F,Concepción,4º A,6.0,92,Ninguno,No,Florencia Soto,960316954
+M-7965,24443871-1,Josefa González Soto,2010-11-16,F,Tomé,3º A,5.2,100,Retención escolar,No,Emilia Díaz,949849728
+M-7966,24211013-1,Tomás Vega Pérez,2011-03-23,M,Concepción,2º B,4.4,92,Retención escolar,No,Tomás Flores,975842150
+M-7967,24450572-9,Javiera Vega Contreras,2012-11-04,F,Hualpén,2º B,4.7,95,Programa de integración (PIE),No,Vicente Rojas,984286947
+M-7968,23265895-4,Martín Torres Díaz,2007-11-28,M,Concepción,1º C,5.6,76,Apoyo psicosocial,No,Martina Martínez,921591559
+M-7969,23357473-8,Matías Martínez Torres,2012-11-22,M,Tomé,3º A,5.3,90,Ninguno,No,Isidora Silva,952895397
+M-7970,22764024-K,Benjamín Sepúlveda Vega,2008-06-09,M,Concepción,3º A,5.8,87,Beca alimentación,No,Agustín Díaz,977176915
+M-7971,22556994-7,Agustín Morales Fuentes,2008-02-05,M,Concepción,4º C,5.8,100,Apoyo psicosocial,No,Antonia Araya,940865417
+M-7972,22548159-4,Florencia Rojas Martínez,2009-04-08,F,Chiguayante,4º A,5.6,89,Retención escolar,No,Josefa Muñoz,977985704
+M-7973,20816847-7,Agustín Pérez Flores,2007-02-22,M,Hualpén,1º A,5.5,86,Programa de integración (PIE),No,Martina Soto,918470416
+M-7974,22861299-1,Florencia Morales Pérez,2011-03-02,F,Concepción,1º A,6.2,91,Programa de integración (PIE),No,Florencia Rodríguez,987195101
+M-7975,22892421-7,Antonia Díaz González,2010-06-12,F,Talcahuano,3º A,5.5,98,Ninguno,No,Catalina Martínez,955990077
+M-7976,23518890-8,Joaquín Araya Contreras,2008-07-17,M,Coronel,3º A,5.0,99,Retención escolar,No,Antonia López,954193837
+M-7977,22111721-9,Diego González Fuentes,2010-05-20,M,Concepción,1º C,4.6,83,Ninguno,TDAH,Gabriel López,933564879
+M-7978,24024548-K,Lucas Flores Silva,2011-04-16,M,Concepción,4º A,4.2,98,Ninguno,No,Martina Sepúlveda,926223781
+M-7979,22621277-5,Vicente Muñoz Contreras,2009-11-11,M,Talcahuano,4º B,4.4,82,Ninguno,No,Isidora Vega,995152146
